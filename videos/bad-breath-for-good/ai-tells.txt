@@ -1,0 +1,13 @@
+spoken words                             2559             
+avg sentence length                      16.2             Ben real: 12 to 16
+paragraph length mean / sd               88 / 31          sd under 15 reads as machine rhythm
+negation reframes ("not X. Y.")          3 (1.2/1k)       hard limit 2 per 1k
+fragment sentences (<=2 words)           7 (2.7/1k)       aim under 3 per 1k
+paragraphs ending on <=3 words           1 of 29          hard limit 1 in 5
+self-aware pointers                      0                hard limit 0
+sincerity markers                        22 (8.6/1k)      Ben real: about 8/1k
+two sincerity markers in one sentence    0                aim 0
+parallel 3-stacks                        0                hard limit 0
+hedges / self-corrections                41 (16.0/1k)     aim 6+/1k; Ben real is higher
+
+PASS on hard thresholds; now read it aloud.

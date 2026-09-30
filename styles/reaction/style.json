@@ -1,0 +1,254 @@
+{
+  "name": "reaction",
+  "version": 1,
+  "type": "reaction",
+  "blendedFrom": [
+    {
+      "style": "reaction-1",
+      "title": "Watching Teeth NIGHTMARES So You Don't Have To..",
+      "channel": "The Bentist",
+      "url": "https://www.youtube.com/watch?v=JGCAtg57pJg",
+      "analysedSeconds": 930
+    },
+    {
+      "style": "reaction-2",
+      "title": "We have a lot to talk about..",
+      "channel": "The Bentist",
+      "url": "https://www.youtube.com/watch?v=xIa4b50z9vQ",
+      "analysedSeconds": 863
+    },
+    {
+      "style": "reaction-3",
+      "title": "Things You Wish You Never Knew (Zack D. Films)",
+      "channel": "SSSniperWolf",
+      "url": "https://www.youtube.com/watch?v=nbKu9SRh4sE",
+      "analysedSeconds": 949
+    }
+  ],
+  "edit": {
+    "takes": {
+      "fillers": "cut",
+      "stutters": "cut",
+      "retakes": "cut"
+    },
+    "pause": {
+      "keepBetweenSentences": 0.15,
+      "maxBetweenSentences": 0.27,
+      "keepInSentence": 0.25,
+      "maxInSentence": 0.4
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.25,
+      "every": 2,
+      "maxHoldSec": 4.77,
+      "minSegmentSec": 1.07
+    },
+    "cutRate": {
+      "targetCutsPerMin": 6,
+      "targetCutsPerMinFirst60": 8
+    },
+    "music": {
+      "gainDb": -22
+    },
+    "deliver": {
+      "loudnessLufs": -20.6,
+      "truePeakDbtp": 0.3
+    },
+    "captions": {
+      "maxChars": 25,
+      "maxSec": 1.5
+    }
+  },
+  "measuredBySource": {
+    "reaction-1": {
+      "durationSec": 930,
+      "video": {
+        "width": 854,
+        "height": 480,
+        "fps": 30
+      },
+      "shots": {
+        "cuts": 247,
+        "cutsPerMin": 15.94,
+        "cutsPerMinFirst60": 15,
+        "meanShotSec": 3.75,
+        "medianShotSec": 2.37,
+        "p10ShotSec": 0.87,
+        "p75ShotSec": 4.77,
+        "p90ShotSec": 7.7,
+        "histogram": {
+          "<1s": 33,
+          "1-2s": 70,
+          "2-4s": 64,
+          "4-8s": 57,
+          "8-15s": 20,
+          "15s+": 4
+        },
+        "threshold": 0.12,
+        "sensitivity": {
+          "0.08": 303,
+          "0.12": 247,
+          "0.2": 173,
+          "0.3": 113,
+          "0.4": 57
+        }
+      },
+      "speech": {
+        "pauseCount": 486,
+        "pausesPerMin": 31.35,
+        "pauseMedianSec": 0.2,
+        "pauseP75Sec": 0.41,
+        "pauseP90Sec": 0.94,
+        "silentShare": 0.2,
+        "floorDb": -51.9,
+        "speechDb": -21.1,
+        "thresholdDb": -42.7,
+        "wordsPerMin": 207.03,
+        "fillersLeftPerMin": 0.19,
+        "stuttersLeftPerMin": 0.26,
+        "words": 3209,
+        "fillers": 3,
+        "stutters": 4
+      },
+      "loudness": {
+        "integratedLufs": -20.6,
+        "lraLu": 14.6,
+        "truePeakDbtp": 0.3
+      },
+      "musicBed": {
+        "likely": false,
+        "pauseLevelDb": -51.3,
+        "pauseStdDb": 7.92,
+        "speechDb": -21.1,
+        "relativeDb": -30.2
+      }
+    },
+    "reaction-2": {
+      "durationSec": 863,
+      "video": {
+        "width": 854,
+        "height": 480,
+        "fps": 30
+      },
+      "shots": {
+        "cuts": 116,
+        "cutsPerMin": 8.06,
+        "cutsPerMinFirst60": 12,
+        "meanShotSec": 7.44,
+        "medianShotSec": 3.97,
+        "p10ShotSec": 1.07,
+        "p75ShotSec": 10.1,
+        "p90ShotSec": 17.67,
+        "histogram": {
+          "<1s": 11,
+          "1-2s": 26,
+          "2-4s": 24,
+          "4-8s": 19,
+          "8-15s": 21,
+          "15s+": 15
+        },
+        "threshold": 0.12,
+        "sensitivity": {
+          "0.08": 128,
+          "0.12": 116,
+          "0.2": 89,
+          "0.3": 37,
+          "0.4": 18
+        }
+      },
+      "speech": {
+        "pauseCount": 740,
+        "pausesPerMin": 51.45,
+        "pauseMedianSec": 0.15,
+        "pauseP75Sec": 0.26,
+        "pauseP90Sec": 0.4,
+        "silentShare": 0.19,
+        "floorDb": -51.9,
+        "speechDb": -31.2,
+        "thresholdDb": -45.7,
+        "wordsPerMin": 244.45,
+        "fillersLeftPerMin": 0.14,
+        "stuttersLeftPerMin": 0,
+        "words": 3516,
+        "fillers": 2,
+        "stutters": 0
+      },
+      "loudness": {
+        "integratedLufs": -31.6,
+        "lraLu": 7.1,
+        "truePeakDbtp": -6.9
+      },
+      "musicBed": {
+        "likely": false,
+        "pauseLevelDb": -51.35,
+        "pauseStdDb": 5.95,
+        "speechDb": -31.2,
+        "relativeDb": -20.15
+      }
+    },
+    "reaction-3": {
+      "durationSec": 949,
+      "video": {
+        "width": 854,
+        "height": 480,
+        "fps": 29.97
+      },
+      "shots": {
+        "cuts": 338,
+        "cutsPerMin": 21.37,
+        "cutsPerMinFirst60": 15,
+        "meanShotSec": 2.81,
+        "medianShotSec": 1.97,
+        "p10ShotSec": 0.73,
+        "p75ShotSec": 3.1,
+        "p90ShotSec": 4.8,
+        "histogram": {
+          "<1s": 54,
+          "1-2s": 117,
+          "2-4s": 114,
+          "4-8s": 34,
+          "8-15s": 13,
+          "15s+": 6
+        },
+        "threshold": 0.12,
+        "sensitivity": {
+          "0.08": 376,
+          "0.12": 338,
+          "0.2": 310,
+          "0.3": 239,
+          "0.4": 184
+        }
+      },
+      "speech": {
+        "pauseCount": 1210,
+        "pausesPerMin": 76.5,
+        "pauseMedianSec": 0.15,
+        "pauseP75Sec": 0.21,
+        "pauseP90Sec": 0.28,
+        "silentShare": 0.23,
+        "floorDb": -30.5,
+        "speechDb": -15,
+        "thresholdDb": -24.5,
+        "wordsPerMin": 195.36,
+        "fillersLeftPerMin": 0,
+        "stuttersLeftPerMin": 0,
+        "words": 3090,
+        "fillers": 0,
+        "stutters": 0
+      },
+      "loudness": {
+        "integratedLufs": -14.8,
+        "lraLu": 3.6,
+        "truePeakDbtp": 0.5
+      },
+      "musicBed": {
+        "likely": true,
+        "pauseLevelDb": -29.06,
+        "pauseStdDb": 4.67,
+        "speechDb": -15,
+        "relativeDb": -14.06
+      }
+    }
+  }
+}

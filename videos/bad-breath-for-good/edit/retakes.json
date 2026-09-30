@@ -1,0 +1,891 @@
+{
+ "chunks": 228,
+ "words": 3273,
+ "candidates": [
+  {
+   "id": "r01",
+   "kind": "restart",
+   "at": "0:13.96",
+   "cut": [
+    13.955,
+    17.06
+   ],
+   "raw": [
+    109.155,
+    112.255
+   ],
+   "removes": "you're like, wait a second. \"Is my impress stick, is it me?\"",
+   "context": "They lean away and [you're] [like,] [wait] [a] [second.] [\"Is] [my] [impress] [stick,] [is] [it] [me?\"] You're like. and if I do"
+  },
+  {
+   "id": "r02",
+   "kind": "restart",
+   "at": "0:29.57",
+   "cut": [
+    29.57,
+    30.92
+   ],
+   "raw": [
+    142.703,
+    144.048
+   ],
+   "removes": "their house smells. They don't really know",
+   "context": "to the way that [their] [house] [smells.] [They] [don't] [really] [know] their house smell bad It's the"
+  },
+  {
+   "id": "r03",
+   "kind": "restart",
+   "at": "0:33.72",
+   "cut": [
+    33.72,
+    35.49
+   ],
+   "raw": [
+    155.687,
+    157.452
+   ],
+   "removes": "that they got bad breath from something",
+   "context": "and most people think [that] [they] [got] [bad] [breath] [from] [something] that they ate. You know, like"
+  },
+  {
+   "id": "r04",
+   "kind": "stutter",
+   "at": "1:26.48",
+   "cut": [
+    86.485,
+    86.575
+   ],
+   "raw": [
+    263.485,
+    263.57
+   ],
+   "removes": "been",
+   "context": "same air that you've [been] been smelling all day long, and"
+  },
+  {
+   "id": "r05",
+   "kind": "restart",
+   "at": "1:50.71",
+   "cut": [
+    110.71,
+    111.26
+   ],
+   "raw": [
+    331.71,
+    332.255
+   ],
+   "removes": "you're going to do is",
+   "context": "wrist. And then what [you're] [going] [to] [do] [is] you're going to wait for about"
+  },
+  {
+   "id": "r06",
+   "kind": "restart",
+   "at": "1:50.87",
+   "cut": [
+    110.87,
+    111.36
+   ],
+   "raw": [
+    331.87,
+    332.355
+   ],
+   "removes": "going to do is you're",
+   "context": "And then what you're [going] [to] [do] [is] [you're] going to wait for about 10"
+  },
+  {
+   "id": "r07",
+   "kind": "restart",
+   "at": "2:11.41",
+   "cut": [
+    131.41,
+    133.98
+   ],
+   "raw": [
+    370.744,
+    376.709
+   ],
+   "removes": "the tip of the tongue. not the rest. And",
+   "context": "the stuff that's on [the] [tip] [of] [the] [tongue.] [not] [the] [rest.] [And] the tip. is usually the cleanest"
+  },
+  {
+   "id": "r08",
+   "kind": "restart",
+   "at": "3:17.29",
+   "cut": [
+    197.29,
+    199.73
+   ],
+   "raw": [
+    504.29,
+    506.725
+   ],
+   "removes": "all that gunk. The dead cells, the proteins, the mucus,",
+   "context": "do is they eat [all] [that] [gunk.] [The] [dead] [cells,] [the] [proteins,] [the] [mucus,] all that, they eat it up."
+  },
+  {
+   "id": "r09",
+   "kind": "restart",
+   "at": "3:25.94",
+   "cut": [
+    205.94,
+    207.97
+   ],
+   "raw": [
+    528.307,
+    530.331
+   ],
+   "removes": "then they will poop out their remains, well",
+   "context": "bacteria eat... that and [then] [they] [will] [poop] [out] [their] [remains,] [well] then they... poop out sulfur gas."
+  },
+  {
+   "id": "r10",
+   "kind": "restart",
+   "at": "3:26.68",
+   "cut": [
+    206.68,
+    208.49
+   ],
+   "raw": [
+    529.047,
+    530.851
+   ],
+   "removes": "poop out their remains, well then they...",
+   "context": "and then they will [poop] [out] [their] [remains,] [well] [then] [they...] poop out sulfur gas. We actually"
+  },
+  {
+   "id": "r11",
+   "kind": "restart",
+   "at": "4:00.97",
+   "cut": [
+    240.97,
+    243.62
+   ],
+   "raw": [
+    604.137,
+    606.782
+   ],
+   "removes": "there's this bad breath clinic over in Belgium.",
+   "context": "our whole life. But [there's] [this] [bad] [breath] [clinic] [over] [in] [Belgium.] There's this periodontist named Mark, uh..."
+  },
+  {
+   "id": "r12",
+   "kind": "restart",
+   "at": "4:32.60",
+   "cut": [
+    272.595,
+    273.605
+   ],
+   "raw": [
+    677.762,
+    685.1
+   ],
+   "removes": "You know, yada, yada, yada.",
+   "context": "breaks it down, and... [You] [know,] [yada,] [yada,] [yada.] You know, eventually the gum gets"
+  },
+  {
+   "id": "r13",
+   "kind": "stutter",
+   "at": "5:04.21",
+   "cut": [
+    304.215,
+    304.255
+   ],
+   "raw": [
+    743.649,
+    743.684
+   ],
+   "removes": "all.",
+   "context": "what's washing things down [all.] all day long. And unfortunately, when"
+  },
+  {
+   "id": "r14",
+   "kind": "restart",
+   "at": "5:15.44",
+   "cut": [
+    315.44,
+    318.93
+   ],
+   "raw": [
+    765.84,
+    774.359
+   ],
+   "removes": "even worse because now you're drying out the already dry area. and",
+   "context": "mouth, well it gets [even] [worse] [because] [now] [you're] [drying] [out] [the] [already] [dry] [area.] [and] even worse if you're on medications"
+  },
+  {
+   "id": "r15",
+   "kind": "restart",
+   "at": "5:51.14",
+   "cut": [
+    351.145,
+    352.135
+   ],
+   "raw": [
+    824.445,
+    825.43
+   ],
+   "removes": "they smell different",
+   "context": "trust me, these ones. [they] [smell] [different] they smell a whole world of"
+  },
+  {
+   "id": "r16",
+   "kind": "restart",
+   "at": "5:59.05",
+   "cut": [
+    359.045,
+    359.635
+   ],
+   "raw": [
+    833.645,
+    835.13
+   ],
+   "removes": "And I can...",
+   "context": "about. It's not good. [And] [I] [can...] And I can tell if somebody"
+  },
+  {
+   "id": "r17",
+   "kind": "restart",
+   "at": "5:59.39",
+   "cut": [
+    359.395,
+    359.655
+   ],
+   "raw": [
+    834.895,
+    835.15
+   ],
+   "removes": "I can... And",
+   "context": "It's not good. And [I] [can...] [And] I can tell if somebody has"
+  },
+  {
+   "id": "r18",
+   "kind": "restart",
+   "at": "6:40.95",
+   "cut": [
+    400.955,
+    402.405
+   ],
+   "raw": [
+    917.255,
+    918.7
+   ],
+   "removes": "from the food it's probably coming",
+   "context": "because it's not actually [from] [the] [food] [it's] [probably] [coming] from the stomach and that stomach"
+  },
+  {
+   "id": "r19",
+   "kind": "restart",
+   "at": "6:50.38",
+   "cut": [
+    410.375,
+    411.935
+   ],
+   "raw": [
+    930.208,
+    940.63
+   ],
+   "removes": "is another thing that can happen and there",
+   "context": "throat. as well that [is] [another] [thing] [that] [can] [happen] [and] [there] is another thing too if you're"
+  },
+  {
+   "id": "r20",
+   "kind": "restart",
+   "at": "6:50.45",
+   "cut": [
+    410.455,
+    412.005
+   ],
+   "raw": [
+    930.288,
+    940.7
+   ],
+   "removes": "another thing that can happen and there is",
+   "context": "as well that is [another] [thing] [that] [can] [happen] [and] [there] [is] another thing too if you're diabetic"
+  },
+  {
+   "id": "r21",
+   "kind": "restart",
+   "at": "6:55.49",
+   "cut": [
+    415.485,
+    416.005
+   ],
+   "raw": [
+    944.185,
+    944.7
+   ],
+   "removes": "your breath.",
+   "context": "lot of ketones on [your] [breath.] Your breath can actually still smell"
+  },
+  {
+   "id": "r22",
+   "kind": "stutter",
+   "at": "7:01.88",
+   "cut": [
+    421.875,
+    421.955
+   ],
+   "raw": [
+    957.342,
+    957.417
+   ],
+   "removes": "of",
+   "context": "is not breathing out [of] of your mouth all the time."
+  },
+  {
+   "id": "r23",
+   "kind": "restart",
+   "at": "7:11.81",
+   "cut": [
+    431.805,
+    434.465
+   ],
+   "raw": [
+    1005.705,
+    1010.927
+   ],
+   "removes": "bad breath. from what what next you've had",
+   "context": "that we know we're [bad] [breath.] [from] [what] [what] [next] [you've] [had] bad breath for a while you"
+  },
+  {
+   "id": "r24",
+   "kind": "stutter",
+   "at": "7:12.86",
+   "cut": [
+    432.855,
+    433.255
+   ],
+   "raw": [
+    1006.755,
+    1007.15
+   ],
+   "removes": "what",
+   "context": "we're bad breath. from [what] what next you've had bad breath"
+  },
+  {
+   "id": "r25",
+   "kind": "restart",
+   "at": "7:15.50",
+   "cut": [
+    435.495,
+    436.775
+   ],
+   "raw": [
+    1011.962,
+    1014.136
+   ],
+   "removes": "You've tried everything.",
+   "context": "for a while you [You've] [tried] [everything.] You've tried mints and mouthwash. and"
+  },
+  {
+   "id": "r26",
+   "kind": "restart",
+   "at": "7:26.86",
+   "cut": [
+    446.86,
+    449.27
+   ],
+   "raw": [
+    1048.894,
+    1051.298
+   ],
+   "removes": "that bacteria is still in your mouth, and guess what,",
+   "context": "is actually sugary, Well, [that] [bacteria] [is] [still] [in] [your] [mouth,] [and] [guess] [what,] that bacteria eat sugar, so you're"
+  },
+  {
+   "id": "r27",
+   "kind": "restart",
+   "at": "7:29.27",
+   "cut": [
+    449.27,
+    451.09
+   ],
+   "raw": [
+    1051.303,
+    1053.118
+   ],
+   "removes": "that bacteria eat sugar, so you're actually feeding",
+   "context": "mouth, and guess what, [that] [bacteria] [eat] [sugar,] [so] [you're] [actually] [feeding] that bacteria. And most mouthwash, to"
+  },
+  {
+   "id": "r28",
+   "kind": "stutter",
+   "at": "7:43.70",
+   "cut": [
+    463.7,
+    463.85
+   ],
+   "raw": [
+    1082.467,
+    1082.612
+   ],
+   "removes": "to",
+   "context": "as you really need [to] to get it all. Because it's"
+  },
+  {
+   "id": "r29",
+   "kind": "restart",
+   "at": "7:47.03",
+   "cut": [
+    467.03,
+    468.23
+   ],
+   "raw": [
+    1093.496,
+    1094.691
+   ],
+   "removes": "your mouth or taking care of",
+   "context": "breath, you're not cleaning [your] [mouth] [or] [taking] [care] [of] your mouth. It's probably a little"
+  },
+  {
+   "id": "r30",
+   "kind": "restart",
+   "at": "7:50.65",
+   "cut": [
+    470.65,
+    471.61
+   ],
+   "raw": [
+    1110.717,
+    1111.672
+   ],
+   "removes": "you're probably doing what you're doing,",
+   "context": "mean, more than likely [you're] [probably] [doing] [what] [you're] [doing,] you're probably brushing, you're probably flossing."
+  },
+  {
+   "id": "r31",
+   "kind": "restart",
+   "at": "7:51.61",
+   "cut": [
+    471.61,
+    472.26
+   ],
+   "raw": [
+    1111.677,
+    1112.322
+   ],
+   "removes": "you're probably brushing,",
+   "context": "doing what you're doing, [you're] [probably] [brushing,] you're probably flossing. It's just that"
+  },
+  {
+   "id": "r32",
+   "kind": "restart",
+   "at": "8:07.38",
+   "cut": [
+    487.38,
+    489.36
+   ],
+   "raw": [
+    1140.413,
+    1142.389
+   ],
+   "removes": "small studies and even big studies that looked at all the",
+   "context": "There's a ton of [small] [studies] [and] [even] [big] [studies] [that] [looked] [at] [all] [the] small studies really just kind of"
+  },
+  {
+   "id": "r33",
+   "kind": "restart",
+   "at": "8:10.47",
+   "cut": [
+    490.47,
+    491.82
+   ],
+   "raw": [
+    1143.504,
+    1144.849
+   ],
+   "removes": "kind of said that everything was",
+   "context": "small studies really just [kind] [of] [said] [that] [everything] [was] kind of weak. And if you're"
+  },
+  {
+   "id": "r34",
+   "kind": "restart",
+   "at": "8:22.42",
+   "cut": [
+    502.415,
+    505.065
+   ],
+   "raw": [
+    1177.048,
+    1179.693
+   ],
+   "removes": "that, you know. the coding just comes right back so it's something",
+   "context": "wears right off in [that,] [you] [know.] [the] [coding] [just] [comes] [right] [back] [so] [it's] [something] that you have to do every"
+  },
+  {
+   "id": "r35",
+   "kind": "restart",
+   "at": "8:27.13",
+   "cut": [
+    507.135,
+    509.345
+   ],
+   "raw": [
+    1190.402,
+    1192.607
+   ],
+   "removes": "alcohol mouthwash thing. I definitely. wouldn't use",
+   "context": "obviously we have the [alcohol] [mouthwash] [thing.] [I] [definitely.] [wouldn't] [use] alcohol mouthwash if I was you,"
+  },
+  {
+   "id": "r36",
+   "kind": "stutter",
+   "at": "8:30.63",
+   "cut": [
+    510.635,
+    510.835
+   ],
+   "raw": [
+    1193.902,
+    1194.097
+   ],
+   "removes": "you,",
+   "context": "mouthwash if I was [you,] you know, because it can drive"
+  },
+  {
+   "id": "r37",
+   "kind": "restart",
+   "at": "8:31.43",
+   "cut": [
+    511.425,
+    514.115
+   ],
+   "raw": [
+    1194.692,
+    1197.376
+   ],
+   "removes": "it can drive out your mouth even more, and even more importantly,",
+   "context": "you, you know, because [it] [can] [drive] [out] [your] [mouth] [even] [more,] [and] [even] [more] [importantly,] it can kill some the good"
+  },
+  {
+   "id": "r38",
+   "kind": "restart",
+   "at": "8:35.13",
+   "cut": [
+    515.125,
+    516.175
+   ],
+   "raw": [
+    1198.391,
+    1199.437
+   ],
+   "removes": "bacteria that fight those",
+   "context": "kill some the good [bacteria] [that] [fight] [those] bacteria that cause those volatiles. for"
+  },
+  {
+   "id": "r39",
+   "kind": "restart",
+   "at": "8:39.82",
+   "cut": [
+    519.815,
+    520.355
+   ],
+   "raw": [
+    1203.081,
+    1203.616
+   ],
+   "removes": "you know, if,",
+   "context": "So try and find, [you] [know,] [if,] you know, a... an alcohol free"
+  },
+  {
+   "id": "r40",
+   "kind": "restart",
+   "at": "8:39.99",
+   "cut": [
+    519.985,
+    522.445
+   ],
+   "raw": [
+    1203.251,
+    1205.706
+   ],
+   "removes": "if, you know, a... an alcohol free mouthwash",
+   "context": "and find, you know, [if,] [you] [know,] [a...] [an] [alcohol] [free] [mouthwash] if you are going to go"
+  },
+  {
+   "id": "r41",
+   "kind": "restart",
+   "at": "9:02.40",
+   "cut": [
+    542.4,
+    543.33
+   ],
+   "raw": [
+    1261.4,
+    1262.325
+   ],
+   "removes": "off of your tongue,",
+   "context": "the gunk of nastiness. [off] [of] [your] [tongue,] off of your gums, off of"
+  },
+  {
+   "id": "r42",
+   "kind": "restart",
+   "at": "9:02.50",
+   "cut": [
+    542.5,
+    543.54
+   ],
+   "raw": [
+    1261.5,
+    1262.535
+   ],
+   "removes": "of your tongue, off",
+   "context": "gunk of nastiness. off [of] [your] [tongue,] [off] of your gums, off of your"
+  },
+  {
+   "id": "r43",
+   "kind": "restart",
+   "at": "9:03.33",
+   "cut": [
+    543.33,
+    544.29
+   ],
+   "raw": [
+    1262.33,
+    1263.285
+   ],
+   "removes": "off of your gums,",
+   "context": "off of your tongue, [off] [of] [your] [gums,] off of your teeth, do all"
+  },
+  {
+   "id": "r44",
+   "kind": "restart",
+   "at": "9:03.54",
+   "cut": [
+    543.54,
+    544.42
+   ],
+   "raw": [
+    1262.54,
+    1263.415
+   ],
+   "removes": "of your gums, off",
+   "context": "of your tongue, off [of] [your] [gums,] [off] of your teeth, do all the"
+  },
+  {
+   "id": "r45",
+   "kind": "stutter",
+   "at": "9:08.20",
+   "cut": [
+    548.2,
+    548.53
+   ],
+   "raw": [
+    1272.333,
+    1272.658
+   ],
+   "removes": "as-",
+   "context": "you're doing this, go [as-] as far back as you can,"
+  },
+  {
+   "id": "r46",
+   "kind": "restart",
+   "at": "9:09.93",
+   "cut": [
+    549.93,
+    550.86
+   ],
+   "raw": [
+    1274.064,
+    1274.989
+   ],
+   "removes": "everything off and get",
+   "context": "as you can, scrape [everything] [off] [and] [get] everything off there, rinse it off,"
+  },
+  {
+   "id": "r47",
+   "kind": "restart",
+   "at": "9:10.47",
+   "cut": [
+    550.47,
+    551.87
+   ],
+   "raw": [
+    1274.604,
+    1276.099
+   ],
+   "removes": "off and get everything off there, rinse it",
+   "context": "you can, scrape everything [off] [and] [get] [everything] [off] [there,] [rinse] [it] off, and do it multiple times"
+  },
+  {
+   "id": "r48",
+   "kind": "restart",
+   "at": "9:22.59",
+   "cut": [
+    562.59,
+    564.56
+   ],
+   "raw": [
+    1292.357,
+    1299.788
+   ],
+   "removes": "want to clean that area good. Now obviously you",
+   "context": "goal is we really [want] [to] [clean] [that] [area] [good.] [Now] [obviously] [you] want to clean between your teeth"
+  },
+  {
+   "id": "r49",
+   "kind": "restart",
+   "at": "9:22.74",
+   "cut": [
+    562.74,
+    564.72
+   ],
+   "raw": [
+    1292.507,
+    1299.948
+   ],
+   "removes": "to clean that area good. Now obviously you want",
+   "context": "is we really want [to] [clean] [that] [area] [good.] [Now] [obviously] [you] [want] to clean between your teeth and"
+  },
+  {
+   "id": "r50",
+   "kind": "stutter",
+   "at": "9:28.98",
+   "cut": [
+    568.98,
+    569.27
+   ],
+   "raw": [
+    1304.213,
+    1304.498
+   ],
+   "removes": "between.",
+   "context": "is sitting inside in [between.] between all those nooks and crannies,"
+  },
+  {
+   "id": "r51",
+   "kind": "restart",
+   "at": "9:56.59",
+   "cut": [
+    596.59,
+    599.21
+   ],
+   "raw": [
+    1406.49,
+    1416.572
+   ],
+   "removes": "in the history of dentistry. Well, we're the first company",
+   "context": "has never been done [in] [the] [history] [of] [dentistry.] [Well,] [we're] [the] [first] [company] in the world to use these"
+  },
+  {
+   "id": "r52",
+   "kind": "restart",
+   "at": "10:13.07",
+   "cut": [
+    613.07,
+    616.51
+   ],
+   "raw": [
+    1437.437,
+    1440.872
+   ],
+   "removes": "bacteria that causes this, which is... P. gingivalis. It's one of the biggest",
+   "context": "one of these main [bacteria] [that] [causes] [this,] [which] [is...] [P.] [gingivalis.] [It's] [one] [of] [the] [biggest] bacteria that-- causes those volatile sulfur"
+  },
+  {
+   "id": "r53",
+   "kind": "restart",
+   "at": "10:51.46",
+   "cut": [
+    651.455,
+    654.285
+   ],
+   "raw": [
+    1532.922,
+    1535.846
+   ],
+   "removes": "the bacteria that they've got. This only specifically--",
+   "context": "wrenches that harm- all [the] [bacteria] [that] [they've] [got.] [This] [only] [specifically--] the bacteria that we target. So"
+  },
+  {
+   "id": "r54",
+   "kind": "restart",
+   "at": "10:51.63",
+   "cut": [
+    651.625,
+    654.415
+   ],
+   "raw": [
+    1533.092,
+    1535.976
+   ],
+   "removes": "bacteria that they've got. This only specifically-- the",
+   "context": "that harm- all the [bacteria] [that] [they've] [got.] [This] [only] [specifically--] [the] bacteria that we target. So if"
+  },
+  {
+   "id": "r55",
+   "kind": "restart",
+   "at": "11:04.88",
+   "cut": [
+    664.885,
+    666.625
+   ],
+   "raw": [
+    1600.719,
+    1602.454
+   ],
+   "removes": "and you'll see them. You can go, ah,",
+   "context": "with a little flashlight [and] [you'll] [see] [them.] [You] [can] [go,] [ah,] and you'll see these little white."
+  },
+  {
+   "id": "r56",
+   "kind": "restart",
+   "at": "11:05.03",
+   "cut": [
+    665.035,
+    666.655
+   ],
+   "raw": [
+    1600.869,
+    1602.484
+   ],
+   "removes": "you'll see them. You can go, ah, and",
+   "context": "a little flashlight and [you'll] [see] [them.] [You] [can] [go,] [ah,] [and] you'll see these little white. Specs"
+  },
+  {
+   "id": "r57",
+   "kind": "restart",
+   "at": "12:13.19",
+   "cut": [
+    733.19,
+    734.88
+   ],
+   "raw": [
+    1820.224,
+    1821.909
+   ],
+   "removes": "you could have decay somewhere in your mouth",
+   "context": "something else going on [you] [could] [have] [decay] [somewhere] [in] [your] [mouth] you could have a like a"
+  },
+  {
+   "id": "r58",
+   "kind": "restart",
+   "at": "12:13.33",
+   "cut": [
+    733.33,
+    735.01
+   ],
+   "raw": [
+    1820.364,
+    1822.038
+   ],
+   "removes": "could have decay somewhere in your mouth you",
+   "context": "else going on you [could] [have] [decay] [somewhere] [in] [your] [mouth] [you] could have a like a rotten"
+  },
+  {
+   "id": "r59",
+   "kind": "restart",
+   "at": "12:53.15",
+   "cut": [
+    773.155,
+    773.975
+   ],
+   "raw": [
+    1900.722,
+    1901.537
+   ],
+   "removes": "that are out on the the market",
+   "context": "some new cool products [that] [are] [out] [on] [the] [the] [market] that are really kind of tackling"
+  }
+ ]
+}

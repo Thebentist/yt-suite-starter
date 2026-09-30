@@ -1,0 +1,6 @@
+{ "about": "Hand-placed sound cues on top of the scene agents' cues. at = assemble.mjs anchor.",
+  "cues": [
+    { "at": { "word": 528, "offset": -1.9 }, "kind": "riser", "gainDb": -20 },
+    { "at": { "word": 528, "offset": 0.25 }, "kind": "impact", "gainDb": -12 },
+    { "at": { "word": 810, "offset": 0.05 }, "kind": "pop-low", "gainDb": -24 }
+  ] }

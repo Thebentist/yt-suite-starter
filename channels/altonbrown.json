@@ -1,0 +1,19 @@
+{
+  "id": "altonbrown",
+  "name": "Good Eats (Alton Brown)",
+  "role": "voice-reference",
+  "host": "Alton Brown",
+  "niche": "food science cooking show (Good Eats)",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@AltonBrown"
+    }
+  },
+  "voice_source": {
+    "url": "https://www.youtube.com/@FoodNetwork/search?query=good%20eats%20alton%20brown",
+    "match": "Good Eats",
+    "min_seconds": 150,
+    "note": "Official Food Network Good Eats segments (4-7 min). Full episodes are only on YouTube as unofficial reuploads, which we skip."
+  },
+  "notes": "Voice reference for /write-script voice:altonbrown. Study only."
+}

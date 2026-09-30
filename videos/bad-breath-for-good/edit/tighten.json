@@ -1,0 +1,12 @@
+{
+ "about": "Dead-space pass (Ben 2026-09-28: cut as much dead space before and after each cut; no breathing gaps). Levels are the cleaned audio (speech peaks ~-17 dBFS, breaths -35..-50, silence -65).",
+ "speechDb": -33,
+ "minGap": 0.22,
+ "keepAfter": 0.05,
+ "keepBefore": 0.04,
+ "hangAfter": 0.08,
+ "hangBefore": 0.05,
+ "edgeHead": 0.03,
+ "edgeTail": 0.05,
+ "minPiece": 0.12
+}

@@ -1,0 +1,1157 @@
+{
+  "channel": "cleoabram",
+  "built_at": "2026-09-28T03:28:20.578Z",
+  "transcripts": 25,
+  "long": 25,
+  "shorts": 0,
+  "unpunctuated": [],
+  "duplicates": [],
+  "words": 72649,
+  "wpm": {
+    "median": null,
+    "p25": null,
+    "p75": null
+  },
+  "all": {
+    "words": 72649,
+    "sentences": 4882,
+    "sentence_len": {
+      "mean": 14.9,
+      "median": 12,
+      "p10": 4,
+      "p90": 29
+    },
+    "fragment_share": 14.6,
+    "long_share": 15.5,
+    "question_share": 8.6,
+    "exclaim_share": 4.7,
+    "comma_per_sentence": 0.5,
+    "you_per_1k": 17.3,
+    "i_per_1k": 18.7,
+    "we_per_1k": 21.4,
+    "contraction_ratio": 82.4,
+    "markers": {
+      "you know": 0.8,
+      "kind of": 0.7,
+      "sort of": 0.2,
+      "actually": 2,
+      "basically": 0.7,
+      "honestly": 0,
+      "literally": 0.1,
+      "like": 7,
+      "i mean": 0.2,
+      "right": 2.9,
+      "okay": 1,
+      "ok": 0.1,
+      "you guys": 0.1,
+      "guys": 0.1,
+      "obviously": 0.1,
+      "pretty": 0.3,
+      "super": 0.4,
+      "really": 3.5,
+      "probably": 0.4,
+      "maybe": 0.5,
+      "i think": 0.9,
+      "i guess": 0,
+      "i feel like": 0.1,
+      "crazy": 0.2,
+      "insane": 0.1,
+      "wild": 0.2,
+      "gonna": 0.2,
+      "wanna": 0,
+      "gotta": 0,
+      "let's": 0.5,
+      "dude": 0,
+      "folks": 0,
+      "so": 8.9,
+      "now": 3.8,
+      "well": 0.9,
+      "anyway": 0,
+      "yeah": 1.1,
+      "oh my gosh": 0,
+      "guess what": 0.1,
+      "what if i told you": 0,
+      "fun fact": 0,
+      "let me explain": 0,
+      "you see": 0.4,
+      "i'm not gonna lie": 0,
+      "i'm not going to lie": 0,
+      "which is": 0.8,
+      "and so": 0.3,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0,
+      "for sure": 0,
+      "definitely": 0.2
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.25,
+        "M": 0.35,
+        "L": 0.245,
+        "X": 0.155
+      },
+      "next": {
+        "S": {
+          "S": 0.346,
+          "M": 0.332,
+          "L": 0.211,
+          "X": 0.111
+        },
+        "M": {
+          "S": 0.254,
+          "M": 0.355,
+          "L": 0.245,
+          "X": 0.146
+        },
+        "L": {
+          "S": 0.197,
+          "M": 0.356,
+          "L": 0.256,
+          "X": 0.191
+        },
+        "X": {
+          "S": 0.172,
+          "M": 0.358,
+          "L": 0.281,
+          "X": 0.19
+        }
+      },
+      "cv": 0.812,
+      "drop": 0.187
+    },
+    "openers": {
+      "and": 10.6,
+      "but": 6.7,
+      "so": 6.5,
+      "this": 4.8,
+      "it's": 4.6,
+      "the": 4,
+      "i": 3.7,
+      "we": 2.6,
+      "it": 2.3,
+      "you": 2.2,
+      "that's": 2.1,
+      "if": 2.1,
+      "i'm": 1.7,
+      "they": 1.6,
+      "that": 1.2,
+      "in": 1.1,
+      "what": 1,
+      "we're": 1,
+      "there": 0.9,
+      "yeah": 0.9,
+      "now": 0.9,
+      "how": 0.7,
+      "like": 0.7,
+      "there's": 0.7,
+      "a": 0.7,
+      "they're": 0.7,
+      "when": 0.7,
+      "okay": 0.7,
+      "oh": 0.7,
+      "these": 0.6
+    }
+  },
+  "by_format": {
+    "long": {
+      "words": 72649,
+      "sentences": 4882,
+      "sentence_len": {
+        "mean": 14.9,
+        "median": 12,
+        "p10": 4,
+        "p90": 29
+      },
+      "fragment_share": 14.6,
+      "long_share": 15.5,
+      "question_share": 8.6,
+      "exclaim_share": 4.7,
+      "comma_per_sentence": 0.5,
+      "you_per_1k": 17.3,
+      "i_per_1k": 18.7,
+      "we_per_1k": 21.4,
+      "contraction_ratio": 82.4,
+      "markers": {
+        "you know": 0.8,
+        "kind of": 0.7,
+        "sort of": 0.2,
+        "actually": 2,
+        "basically": 0.7,
+        "honestly": 0,
+        "literally": 0.1,
+        "like": 7,
+        "i mean": 0.2,
+        "right": 2.9,
+        "okay": 1,
+        "ok": 0.1,
+        "you guys": 0.1,
+        "guys": 0.1,
+        "obviously": 0.1,
+        "pretty": 0.3,
+        "super": 0.4,
+        "really": 3.5,
+        "probably": 0.4,
+        "maybe": 0.5,
+        "i think": 0.9,
+        "i guess": 0,
+        "i feel like": 0.1,
+        "crazy": 0.2,
+        "insane": 0.1,
+        "wild": 0.2,
+        "gonna": 0.2,
+        "wanna": 0,
+        "gotta": 0,
+        "let's": 0.5,
+        "dude": 0,
+        "folks": 0,
+        "so": 8.9,
+        "now": 3.8,
+        "well": 0.9,
+        "anyway": 0,
+        "yeah": 1.1,
+        "oh my gosh": 0,
+        "guess what": 0.1,
+        "what if i told you": 0,
+        "fun fact": 0,
+        "let me explain": 0,
+        "you see": 0.4,
+        "i'm not gonna lie": 0,
+        "i'm not going to lie": 0,
+        "which is": 0.8,
+        "and so": 0.3,
+        "all these different things": 0,
+        "at the end of the day": 0,
+        "to be honest": 0,
+        "for sure": 0,
+        "definitely": 0.2
+      },
+      "cadence": {
+        "dist": {
+          "S": 0.25,
+          "M": 0.35,
+          "L": 0.245,
+          "X": 0.155
+        },
+        "next": {
+          "S": {
+            "S": 0.346,
+            "M": 0.332,
+            "L": 0.211,
+            "X": 0.111
+          },
+          "M": {
+            "S": 0.254,
+            "M": 0.355,
+            "L": 0.245,
+            "X": 0.146
+          },
+          "L": {
+            "S": 0.197,
+            "M": 0.356,
+            "L": 0.256,
+            "X": 0.191
+          },
+          "X": {
+            "S": 0.172,
+            "M": 0.358,
+            "L": 0.281,
+            "X": 0.19
+          }
+        },
+        "cv": 0.812,
+        "drop": 0.187
+      },
+      "openers": {
+        "and": 10.6,
+        "but": 6.7,
+        "so": 6.5,
+        "this": 4.8,
+        "it's": 4.6,
+        "the": 4,
+        "i": 3.7,
+        "we": 2.6,
+        "it": 2.3,
+        "you": 2.2,
+        "that's": 2.1,
+        "if": 2.1,
+        "i'm": 1.7,
+        "they": 1.6,
+        "that": 1.2,
+        "in": 1.1,
+        "what": 1,
+        "we're": 1,
+        "there": 0.9,
+        "yeah": 0.9,
+        "now": 0.9,
+        "how": 0.7,
+        "like": 0.7,
+        "there's": 0.7,
+        "a": 0.7,
+        "they're": 0.7,
+        "when": 0.7,
+        "okay": 0.7,
+        "oh": 0.7,
+        "these": 0.6
+      }
+    },
+    "short": null
+  },
+  "reference": {
+    "docs": 153,
+    "words": 241850,
+    "sentences": 14477,
+    "sentence_len": {
+      "mean": 16.7,
+      "median": 10,
+      "p10": 3,
+      "p90": 27
+    },
+    "fragment_share": 19.1,
+    "long_share": 12.2,
+    "question_share": 9.1,
+    "exclaim_share": 0.2,
+    "comma_per_sentence": 0.8,
+    "you_per_1k": 35.8,
+    "i_per_1k": 25.7,
+    "we_per_1k": 11.4,
+    "contraction_ratio": 78.1,
+    "markers": {
+      "you know": 4.4,
+      "kind of": 2.4,
+      "sort of": 0,
+      "actually": 4.5,
+      "basically": 1.2,
+      "honestly": 0.2,
+      "literally": 0.4,
+      "like": 10.3,
+      "i mean": 1,
+      "right": 3.5,
+      "okay": 2.7,
+      "ok": 0.1,
+      "you guys": 1.1,
+      "guys": 1.3,
+      "obviously": 0.7,
+      "pretty": 1.2,
+      "super": 0.3,
+      "really": 4,
+      "probably": 1.7,
+      "maybe": 1.1,
+      "i think": 0.8,
+      "i guess": 0.2,
+      "i feel like": 0.1,
+      "crazy": 1.2,
+      "insane": 0.2,
+      "wild": 0.2,
+      "gonna": 2,
+      "wanna": 0.1,
+      "gotta": 0.1,
+      "let's": 1.1,
+      "dude": 0.3,
+      "folks": 0,
+      "so": 10.2,
+      "now": 5,
+      "well": 2.5,
+      "anyway": 0.1,
+      "yeah": 2.2,
+      "oh my gosh": 0.8,
+      "guess what": 0.2,
+      "what if i told you": 0,
+      "fun fact": 0.2,
+      "let me explain": 0,
+      "you see": 0.5,
+      "i'm not gonna lie": 0.2,
+      "i'm not going to lie": 0.1,
+      "which is": 0.9,
+      "and so": 1.1,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0.1,
+      "for sure": 0.1,
+      "definitely": 0.5
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.316,
+        "M": 0.367,
+        "L": 0.195,
+        "X": 0.122
+      },
+      "next": {
+        "S": {
+          "S": 0.43,
+          "M": 0.34,
+          "L": 0.152,
+          "X": 0.079
+        },
+        "M": {
+          "S": 0.29,
+          "M": 0.4,
+          "L": 0.201,
+          "X": 0.109
+        },
+        "L": {
+          "S": 0.244,
+          "M": 0.371,
+          "L": 0.232,
+          "X": 0.152
+        },
+        "X": {
+          "S": 0.213,
+          "M": 0.331,
+          "L": 0.228,
+          "X": 0.227
+        }
+      },
+      "cv": 8.094,
+      "drop": 0.232
+    },
+    "openers": {
+      "and": 10.4,
+      "so": 7.2,
+      "i": 5.7,
+      "you": 4.4,
+      "now": 3.8,
+      "but": 3.8,
+      "it's": 3.2,
+      "oh": 3,
+      "that's": 2.3,
+      "okay": 2.2,
+      "this": 1.9,
+      "it": 1.9,
+      "the": 1.7,
+      "we": 1.7,
+      "i'm": 1.5,
+      "all": 1.5,
+      "yeah": 1.4,
+      "well": 1.3,
+      "if": 1.3,
+      "that": 1.2,
+      "how": 1.1,
+      "they": 1,
+      "what": 0.9,
+      "there": 0.9,
+      "no": 0.7,
+      "a": 0.7,
+      "let's": 0.6,
+      "just": 0.6,
+      "she": 0.6,
+      "yes": 0.6
+    }
+  },
+  "signature_phrases": [
+    {
+      "phrase": "huge if true",
+      "df": 68,
+      "ref_df": 0,
+      "lift": 69,
+      "score": 4.986907561621818
+    },
+    {
+      "phrase": "about what",
+      "df": 60,
+      "ref_df": 2,
+      "lift": 20.6,
+      "score": 2.5671537090955026
+    },
+    {
+      "phrase": "to show you",
+      "df": 64,
+      "ref_df": 5.9,
+      "lift": 9.4,
+      "score": 2.489083579497956
+    },
+    {
+      "phrase": "but hang on",
+      "df": 36,
+      "ref_df": 0,
+      "lift": 37,
+      "score": 2.251545583197727
+    },
+    {
+      "phrase": "around the world",
+      "df": 40,
+      "ref_df": 0.7,
+      "lift": 24.8,
+      "score": 2.224383131491862
+    },
+    {
+      "phrase": "what's really",
+      "df": 40,
+      "ref_df": 0,
+      "lift": 41,
+      "score": 2.1007135926332468
+    },
+    {
+      "phrase": "much more",
+      "df": 56,
+      "ref_df": 3.3,
+      "lift": 13.4,
+      "score": 2.052689625089858
+    },
+    {
+      "phrase": "all kinds of",
+      "df": 36,
+      "ref_df": 0.7,
+      "lift": 22.4,
+      "score": 1.9379360225842512
+    },
+    {
+      "phrase": "oh my god",
+      "df": 60,
+      "ref_df": 8.5,
+      "lift": 6.4,
+      "score": 1.9328919249724157
+    },
+    {
+      "phrase": "all around the world",
+      "df": 28,
+      "ref_df": 0,
+      "lift": 29,
+      "score": 1.8856856647924256
+    },
+    {
+      "phrase": "it turns out that",
+      "df": 28,
+      "ref_df": 0,
+      "lift": 29,
+      "score": 1.8856856647924256
+    },
+    {
+      "phrase": "all of this",
+      "df": 56,
+      "ref_df": 7.2,
+      "lift": 7,
+      "score": 1.8818874246830213
+    },
+    {
+      "phrase": "and more",
+      "df": 64,
+      "ref_df": 7.2,
+      "lift": 7.9,
+      "score": 1.8749342342130908
+    },
+    {
+      "phrase": "the most",
+      "df": 88,
+      "ref_df": 19,
+      "lift": 4.5,
+      "score": 1.8607811685457585
+    },
+    {
+      "phrase": "of years",
+      "df": 52,
+      "ref_df": 3.3,
+      "lift": 12.4,
+      "score": 1.8525623594632659
+    },
+    {
+      "phrase": "one of the",
+      "df": 88,
+      "ref_df": 26.8,
+      "lift": 3.2,
+      "score": 1.7737084799558445
+    },
+    {
+      "phrase": "let me show you",
+      "df": 32,
+      "ref_df": 1.3,
+      "lift": 14.3,
+      "score": 1.7027055525923962
+    },
+    {
+      "phrase": "and what's",
+      "df": 44,
+      "ref_df": 2,
+      "lift": 15.2,
+      "score": 1.6932826520061326
+    },
+    {
+      "phrase": "i'm about to",
+      "df": 32,
+      "ref_df": 0.7,
+      "lift": 20,
+      "score": 1.6591971446841398
+    },
+    {
+      "phrase": "on the surface",
+      "df": 32,
+      "ref_df": 0.7,
+      "lift": 20,
+      "score": 1.6591971446841398
+    },
+    {
+      "phrase": "the link in",
+      "df": 28,
+      "ref_df": 0,
+      "lift": 29,
+      "score": 1.6330516892623879
+    },
+    {
+      "phrase": "one of the most",
+      "df": 40,
+      "ref_df": 4.6,
+      "lift": 7.4,
+      "score": 1.5962003524840516
+    },
+    {
+      "phrase": "that we know",
+      "df": 36,
+      "ref_df": 2,
+      "lift": 12.5,
+      "score": 1.5747233241190315
+    },
+    {
+      "phrase": "part of",
+      "df": 68,
+      "ref_df": 12.4,
+      "lift": 5.1,
+      "score": 1.5747143086814193
+    },
+    {
+      "phrase": "we can't",
+      "df": 52,
+      "ref_df": 5.2,
+      "lift": 8.5,
+      "score": 1.574556762703786
+    },
+    {
+      "phrase": "in order to",
+      "df": 40,
+      "ref_df": 3.3,
+      "lift": 9.6,
+      "score": 1.5674594640760342
+    },
+    {
+      "phrase": "right now",
+      "df": 100,
+      "ref_df": 32.7,
+      "lift": 3,
+      "score": 1.553123402469166
+    },
+    {
+      "phrase": "not just",
+      "df": 64,
+      "ref_df": 11.1,
+      "lift": 5.4,
+      "score": 1.5208013361111223
+    },
+    {
+      "phrase": "all of",
+      "df": 100,
+      "ref_df": 35.9,
+      "lift": 2.7,
+      "score": 1.4221568910298772
+    },
+    {
+      "phrase": "of our",
+      "df": 60,
+      "ref_df": 10.5,
+      "lift": 5.3,
+      "score": 1.4189324258820946
+    },
+    {
+      "phrase": "we know about",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.3891331421185735
+    },
+    {
+      "phrase": "let's do this",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.3891331421185735
+    },
+    {
+      "phrase": "you might have",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.3891331421185735
+    },
+    {
+      "phrase": "the world",
+      "df": 84,
+      "ref_df": 25.5,
+      "lift": 3.2,
+      "score": 1.3849906819029159
+    },
+    {
+      "phrase": "we're going",
+      "df": 76,
+      "ref_df": 20.3,
+      "lift": 3.6,
+      "score": 1.383174285369038
+    },
+    {
+      "phrase": "as we",
+      "df": 56,
+      "ref_df": 9.2,
+      "lift": 5.6,
+      "score": 1.3665622091508673
+    },
+    {
+      "phrase": "we don't",
+      "df": 80,
+      "ref_df": 23.5,
+      "lift": 3.3,
+      "score": 1.3515087776986858
+    },
+    {
+      "phrase": "more and more",
+      "df": 36,
+      "ref_df": 3.3,
+      "lift": 8.7,
+      "score": 1.3467047219100061
+    },
+    {
+      "phrase": "we as humans",
+      "df": 24,
+      "ref_df": 0,
+      "lift": 25,
+      "score": 1.3380615532624565
+    },
+    {
+      "phrase": "in my description",
+      "df": 24,
+      "ref_df": 0,
+      "lift": 25,
+      "score": 1.3380615532624565
+    },
+    {
+      "phrase": "the size of",
+      "df": 32,
+      "ref_df": 2,
+      "lift": 11.1,
+      "score": 1.3363414127150557
+    },
+    {
+      "phrase": "we know",
+      "df": 68,
+      "ref_df": 16.3,
+      "lift": 4,
+      "score": 1.3281539844426493
+    },
+    {
+      "phrase": "how do",
+      "df": 68,
+      "ref_df": 16.3,
+      "lift": 4,
+      "score": 1.3281539844426493
+    },
+    {
+      "phrase": "if we",
+      "df": 64,
+      "ref_df": 14.4,
+      "lift": 4.2,
+      "score": 1.3045871687030068
+    },
+    {
+      "phrase": "part of the",
+      "df": 44,
+      "ref_df": 7.2,
+      "lift": 5.5,
+      "score": 1.2984733891431135
+    },
+    {
+      "phrase": "all of the",
+      "df": 44,
+      "ref_df": 7.2,
+      "lift": 5.5,
+      "score": 1.2984733891431135
+    },
+    {
+      "phrase": "if you want to",
+      "df": 48,
+      "ref_df": 11.8,
+      "lift": 3.8,
+      "score": 1.2913308370813277
+    },
+    {
+      "phrase": "at the end of",
+      "df": 28,
+      "ref_df": 2,
+      "lift": 9.8,
+      "score": 1.2778313105016905
+    },
+    {
+      "phrase": "there are",
+      "df": 84,
+      "ref_df": 28.1,
+      "lift": 2.9,
+      "score": 1.273181020044231
+    },
+    {
+      "phrase": "which means",
+      "df": 52,
+      "ref_df": 8.5,
+      "lift": 5.6,
+      "score": 1.2643903196832076
+    },
+    {
+      "phrase": "about the",
+      "df": 72,
+      "ref_df": 20.3,
+      "lift": 3.4,
+      "score": 1.256056959994374
+    },
+    {
+      "phrase": "you might",
+      "df": 60,
+      "ref_df": 13.1,
+      "lift": 4.3,
+      "score": 1.2445313725377298
+    },
+    {
+      "phrase": "it turns out",
+      "df": 40,
+      "ref_df": 5.9,
+      "lift": 6,
+      "score": 1.2364150992551992
+    },
+    {
+      "phrase": "that we know about",
+      "df": 20,
+      "ref_df": 0,
+      "lift": 21,
+      "score": 1.2178089750893693
+    },
+    {
+      "phrase": "we can do this",
+      "df": 20,
+      "ref_df": 0,
+      "lift": 21,
+      "score": 1.2178089750893693
+    },
+    {
+      "phrase": "the link in my",
+      "df": 20,
+      "ref_df": 0,
+      "lift": 21,
+      "score": 1.2178089750893693
+    },
+    {
+      "phrase": "the size of a",
+      "df": 20,
+      "ref_df": 0,
+      "lift": 21,
+      "score": 1.2178089750893693
+    },
+    {
+      "phrase": "but it wasn't until",
+      "df": 20,
+      "ref_df": 0,
+      "lift": 21,
+      "score": 1.2178089750893693
+    },
+    {
+      "phrase": "it into",
+      "df": 48,
+      "ref_df": 7.2,
+      "lift": 6,
+      "score": 1.21438785464683
+    },
+    {
+      "phrase": "that we're",
+      "df": 60,
+      "ref_df": 13.7,
+      "lift": 4.1,
+      "score": 1.2060078191431225
+    },
+    {
+      "phrase": "this video",
+      "df": 60,
+      "ref_df": 13.7,
+      "lift": 4.1,
+      "score": 1.2060078191431225
+    },
+    {
+      "phrase": "on our",
+      "df": 40,
+      "ref_df": 3.9,
+      "lift": 8.3,
+      "score": 1.199221852597434
+    },
+    {
+      "phrase": "than we",
+      "df": 36,
+      "ref_df": 2.6,
+      "lift": 10.2,
+      "score": 1.1842047650851855
+    },
+    {
+      "phrase": "inside a",
+      "df": 36,
+      "ref_df": 2.6,
+      "lift": 10.2,
+      "score": 1.1842047650851855
+    },
+    {
+      "phrase": "that we",
+      "df": 96,
+      "ref_df": 39.9,
+      "lift": 2.4,
+      "score": 1.1734564050467986
+    },
+    {
+      "phrase": "know about",
+      "df": 52,
+      "ref_df": 9.8,
+      "lift": 4.9,
+      "score": 1.169553234826156
+    },
+    {
+      "phrase": "are we",
+      "df": 52,
+      "ref_df": 9.8,
+      "lift": 4.9,
+      "score": 1.169553234826156
+    },
+    {
+      "phrase": "that they",
+      "df": 84,
+      "ref_df": 31.4,
+      "lift": 2.6,
+      "score": 1.1467659420359393
+    },
+    {
+      "phrase": "our show",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.1342224609932043
+    },
+    {
+      "phrase": "we're now",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.1342224609932043
+    },
+    {
+      "phrase": "my whole",
+      "df": 28,
+      "ref_df": 0.7,
+      "lift": 17.5,
+      "score": 1.1342224609932043
+    },
+    {
+      "phrase": "but we",
+      "df": 60,
+      "ref_df": 15,
+      "lift": 3.8,
+      "score": 1.1338412614838709
+    },
+    {
+      "phrase": "the world and",
+      "df": 32,
+      "ref_df": 3.3,
+      "lift": 7.7,
+      "score": 1.1336582107514774
+    },
+    {
+      "phrase": "that can",
+      "df": 64,
+      "ref_df": 17.6,
+      "lift": 3.5,
+      "score": 1.1301931743699283
+    },
+    {
+      "phrase": "that there is",
+      "df": 24,
+      "ref_df": 0.7,
+      "lift": 15.1,
+      "score": 1.1289885128534727
+    },
+    {
+      "phrase": "the speed of",
+      "df": 24,
+      "ref_df": 0.7,
+      "lift": 15.1,
+      "score": 1.1289885128534727
+    },
+    {
+      "phrase": "of the earth",
+      "df": 24,
+      "ref_df": 0.7,
+      "lift": 15.1,
+      "score": 1.1289885128534727
+    },
+    {
+      "phrase": "how do we",
+      "df": 24,
+      "ref_df": 0.7,
+      "lift": 15.1,
+      "score": 1.1289885128534727
+    },
+    {
+      "phrase": "we're going to",
+      "df": 60,
+      "ref_df": 19.6,
+      "lift": 3,
+      "score": 1.1277751312497548
+    },
+    {
+      "phrase": "how do you",
+      "df": 48,
+      "ref_df": 11.8,
+      "lift": 3.8,
+      "score": 1.118325309602654
+    }
+  ],
+  "openings": [
+    {
+      "phrase": "look at this",
+      "videos": 4
+    },
+    {
+      "phrase": "this is a",
+      "videos": 4
+    },
+    {
+      "phrase": "since i was a kid",
+      "videos": 3
+    },
+    {
+      "phrase": "since i was a",
+      "videos": 3
+    },
+    {
+      "phrase": "i'm going to",
+      "videos": 3
+    },
+    {
+      "phrase": "i'm about to",
+      "videos": 3
+    },
+    {
+      "phrase": "since i was",
+      "videos": 3
+    },
+    {
+      "phrase": "i was a kid",
+      "videos": 3
+    },
+    {
+      "phrase": "to show you",
+      "videos": 3
+    },
+    {
+      "phrase": "one of the",
+      "videos": 3
+    },
+    {
+      "phrase": "was a kid",
+      "videos": 3
+    },
+    {
+      "phrase": "i was a",
+      "videos": 3
+    }
+  ],
+  "closings": [
+    {
+      "phrase": "optimistic science and tech",
+      "videos": 8
+    },
+    {
+      "phrase": "optimistic science and",
+      "videos": 8
+    },
+    {
+      "phrase": "science and tech",
+      "videos": 8
+    },
+    {
+      "phrase": "optimistic science and tech stories",
+      "videos": 7
+    },
+    {
+      "phrase": "science and tech stories",
+      "videos": 7
+    },
+    {
+      "phrase": "and tech stories",
+      "videos": 7
+    },
+    {
+      "phrase": "huge if true",
+      "videos": 7
+    },
+    {
+      "phrase": "optimistic science and tech stories subscribe",
+      "videos": 5
+    },
+    {
+      "phrase": "more optimistic science and tech stories",
+      "videos": 5
+    },
+    {
+      "phrase": "science and tech stories subscribe",
+      "videos": 5
+    },
+    {
+      "phrase": "more optimistic science and tech",
+      "videos": 5
+    },
+    {
+      "phrase": "more optimistic science and",
+      "videos": 5
+    },
+    {
+      "phrase": "and tech stories subscribe",
+      "videos": 5
+    },
+    {
+      "phrase": "more optimistic science",
+      "videos": 5
+    },
+    {
+      "phrase": "tech stories subscribe",
+      "videos": 5
+    },
+    {
+      "phrase": "subscribe to support our show",
+      "videos": 4
+    },
+    {
+      "phrase": "see you for the next one",
+      "videos": 4
+    },
+    {
+      "phrase": "subscribe to support our",
+      "videos": 4
+    },
+    {
+      "phrase": "see you for the next",
+      "videos": 4
+    },
+    {
+      "phrase": "you for the next one",
+      "videos": 4
+    },
+    {
+      "phrase": "subscribe to support",
+      "videos": 4
+    },
+    {
+      "phrase": "to support our show",
+      "videos": 4
+    },
+    {
+      "phrase": "you for the next",
+      "videos": 4
+    },
+    {
+      "phrase": "for the next one",
+      "videos": 4
+    },
+    {
+      "phrase": "support our show",
+      "videos": 4
+    }
+  ],
+  "note": "Transcripts are whisper output of whole videos, so react videos include clip audio. Use df (share of videos) and lift (vs other creators) for phrases; rates are indicative."
+}

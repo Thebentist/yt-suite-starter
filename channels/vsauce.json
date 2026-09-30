@@ -1,0 +1,13 @@
+{
+  "id": "vsauce",
+  "name": "Vsauce (Michael Stevens)",
+  "role": "voice-reference",
+  "host": "Michael Stevens",
+  "niche": "curiosity-driven science and philosophy explainers",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@Vsauce"
+    }
+  },
+  "notes": "Seeded with 36 transcripts (Vsauce long-form + @electricpants shorts) from the Sep 2026 study; filming notes in docs/vsauce-layer.md. Study only."
+}

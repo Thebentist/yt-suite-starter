@@ -1,0 +1,406 @@
+{
+ "video": "videos/bad-breath-for-good/review/v4b.mp4",
+ "duration": 790.1,
+ "threshold": 9,
+ "cuts": 115,
+ "shots": 116,
+ "medianShot": 3.83,
+ "meanShot": 6.81,
+ "within3s": 0.379,
+ "longHolds": 56,
+ "longHoldSeconds": 656.2,
+ "holds": [
+  {
+   "at": "0:00.0",
+   "to": "0:07.0",
+   "len": 7,
+   "onScreen": "Ben",
+   "said": ""
+  },
+  {
+   "at": "0:12.9",
+   "to": "0:17.3",
+   "len": 4.4,
+   "onScreen": "Ben",
+   "said": "they lean away and you're like, wait a second, is my breath stink? Is it me? head. You're"
+  },
+  {
+   "at": "0:26.8",
+   "to": "0:39.4",
+   "len": 12.5,
+   "onScreen": "Ben",
+   "said": "It's, I mean, it's the same thing as like you walk into somebody's house and they're just used to the way that"
+  },
+  {
+   "at": "0:39.4",
+   "to": "0:43.6",
+   "len": 4.2,
+   "onScreen": "Ben",
+   "said": "me, I'm an orthodontist. I've been in people's mouths all the time. I know what bad breath smells like."
+  },
+  {
+   "at": "0:43.6",
+   "to": "0:56.5",
+   "len": 12.9,
+   "onScreen": "Ben",
+   "said": "And more than likely, it's actually your mouth, like eight or nine times out of ten. It's gonna be your mouth "
+  },
+  {
+   "at": "1:06.4",
+   "to": "1:14.9",
+   "len": 8.5,
+   "onScreen": "Ben",
+   "said": "can't smell your own bad breath is because, well, your nose gets used to smells around you that are frequent. "
+  },
+  {
+   "at": "1:14.9",
+   "to": "1:20.0",
+   "len": 5.2,
+   "onScreen": "Ben",
+   "said": "And trust me, there's nothing more around you than your bad breath. I mean, literally, it's coming out of your"
+  },
+  {
+   "at": "1:20.0",
+   "to": "1:27.8",
+   "len": 7.8,
+   "onScreen": "Ben",
+   "said": "And this whole, like, cup your hand over your mouth and snippet thing, that doesn't really work either. You're"
+  },
+  {
+   "at": "1:27.8",
+   "to": "1:44.7",
+   "len": 16.9,
+   "onScreen": "Ben",
+   "said": "And people have actually tested how good we are at this. They had people that were worried about their breath,"
+  },
+  {
+   "at": "1:46.6",
+   "to": "1:57.2",
+   "len": 10.7,
+   "onScreen": "Ben",
+   "said": "It is kind of gross, but basically what you want to do is you want to lick your wrist, and then what you're go"
+  },
+  {
+   "at": "2:31.7",
+   "to": "2:39.9",
+   "len": 8.1,
+   "onScreen": "Ben",
+   "said": "this leads us to the back of the tongue. If you look at a tongue close up microscopically, it's not smooth at "
+  },
+  {
+   "at": "2:39.9",
+   "to": "2:48.5",
+   "len": 8.7,
+   "onScreen": "Ben",
+   "said": "bumps. And as you go further back, weirdly enough, they get longer and longer. It's almost like those old shag"
+  },
+  {
+   "at": "2:48.5",
+   "to": "3:03.2",
+   "len": 14.7,
+   "onScreen": "Ben",
+   "said": "And just like that real shag carpet, well, food, gunk, particles, all that get stuck in between those little s"
+  },
+  {
+   "at": "3:03.2",
+   "to": "3:23.9",
+   "len": 20.7,
+   "onScreen": "Ben",
+   "said": "And guess what? The bacteria, they absolutely love it down there. And fun fact, they're the kind that actually"
+  },
+  {
+   "at": "3:23.9",
+   "to": "3:37.8",
+   "len": 13.9,
+   "onScreen": "Ben",
+   "said": "So when the bacteria eat that and then they will poop out their remains, well, they poop out sulfur gas. We ac"
+  },
+  {
+   "at": "3:37.8",
+   "to": "3:43.5",
+   "len": 5.7,
+   "onScreen": "Ben",
+   "said": "it. Basically what you're smelling is the remains of the leftovers, that bacteria basically dissolve and poop "
+  },
+  {
+   "at": "3:43.5",
+   "to": "3:56.9",
+   "len": 13.4,
+   "onScreen": "Ben",
+   "said": "And the fun fact is, you can see it. That's right. If you stick your tongue out and it's super white, yellow, "
+  },
+  {
+   "at": "4:11.2",
+   "to": "4:24.1",
+   "len": 12.9,
+   "onScreen": "Ben",
+   "said": "breath. and they went through like 2,000 patients. And the number one cause of bad breath they found was just "
+  },
+  {
+   "at": "4:24.1",
+   "to": "4:49.0",
+   "len": 24.9,
+   "onScreen": "Ben",
+   "said": "Now the other spots in your mouth are kind of the same idea. In between your teeth, the food gets stuck there,"
+  },
+  {
+   "at": "4:50.9",
+   "to": "4:56.8",
+   "len": 5.9,
+   "onScreen": "Ben",
+   "said": "even worse because there were so many little spots for that food and gum to just get all over those brackets."
+  },
+  {
+   "at": "4:56.8",
+   "to": "5:04.8",
+   "len": 8,
+   "onScreen": "Ben",
+   "said": "And another thing, your spit is also a really big part of this. You see saliva is basically the power washer o"
+  },
+  {
+   "at": "5:04.8",
+   "to": "5:23.2",
+   "len": 18.3,
+   "onScreen": "Ben",
+   "said": "And unfortunately, when you sleep, that saliva amount slows way down. I think that's probably pretty much why "
+  },
+  {
+   "at": "5:23.2",
+   "to": "5:50.6",
+   "len": 27.5,
+   "onScreen": "Ben",
+   "said": "Now, if you keep going past your tongue, we reach another spot of bad breathification, and that is the tonsil "
+  },
+  {
+   "at": "5:53.2",
+   "to": "6:00.0",
+   "len": 6.8,
+   "onScreen": "Ben",
+   "said": "if you've ever grabbed a tonsil stone, smished it in your mouth and smelled it, you know exactly what I'm talk"
+  },
+  {
+   "at": "6:03.2",
+   "to": "6:25.0",
+   "len": 21.8,
+   "onScreen": "Ben",
+   "said": "And the crazy part is a lot of people have these, they got no idea. There was actually a study that looked at "
+  },
+  {
+   "at": "6:26.6",
+   "to": "6:59.8",
+   "len": 33.1,
+   "onScreen": "Ben",
+   "said": "Now we've gone for the teeth and the mouth and tongues all the way back to the tonsils. Well, let's keep going"
+  },
+  {
+   "at": "6:59.8",
+   "to": "7:11.0",
+   "len": 11.3,
+   "onScreen": "Ben",
+   "said": "But your stomach is not breathing out of your mouth all the time, there's a little valve that literally holds "
+  },
+  {
+   "at": "7:11.0",
+   "to": "7:22.1",
+   "len": 11,
+   "onScreen": "Ben",
+   "said": "now that we know where bad breath comes from, what next? You've had breath, you've had bad breath for a while,"
+  },
+  {
+   "at": "7:24.1",
+   "to": "7:31.9",
+   "len": 7.8,
+   "onScreen": "Ben",
+   "said": "And fun fact, if that mint is actually sugary, well, that bacteria is still in your mouth. And guess what? Tha"
+  },
+  {
+   "at": "7:45.0",
+   "to": "7:57.2",
+   "len": 12.2,
+   "onScreen": "Ben",
+   "said": "not like if you have that breath, you're not cleaning your mouth or taking care of your mouth. It's probably a"
+  },
+  {
+   "at": "8:01.4",
+   "to": "8:12.7",
+   "len": 11.3,
+   "onScreen": "Ben",
+   "said": "Now, to be fair, I don't want to oversell this. The research on fixing bad breath is honestly not great. There"
+  },
+  {
+   "at": "8:12.7",
+   "to": "8:44.0",
+   "len": 31.4,
+   "onScreen": "Ben",
+   "said": "And if you're thinking about a tongue scraper specifically, I'm sure most of you guys are. The studies do say "
+  },
+  {
+   "at": "8:47.0",
+   "to": "8:51.5",
+   "len": 4.5,
+   "onScreen": "Ben",
+   "said": "to just completely get rid of your bad breath, but it doesn't hurt. And so it's cheap, it's easy, and so"
+  },
+  {
+   "at": "8:51.5",
+   "to": "8:56.8",
+   "len": 5.3,
+   "onScreen": "Ben",
+   "said": "I would recommend doing it if you can and you have access to doing that. So what actually works? Well, if"
+  },
+  {
+   "at": "8:57.6",
+   "to": "9:23.8",
+   "len": 26.2,
+   "onScreen": "Ben",
+   "said": "I mean, obviously the easy one is like, yeah, just start tongue scraping. At least get the gunk and nastiness "
+  },
+  {
+   "at": "9:23.8",
+   "to": "9:32.4",
+   "len": 8.6,
+   "onScreen": "Ben",
+   "said": "Now obviously you want to clean between your teeth and floss every day because that same bacteria is sitting i"
+  },
+  {
+   "at": "9:32.4",
+   "to": "9:42.4",
+   "len": 10,
+   "onScreen": "Ben",
+   "said": "And if you have dry mouth, well make sure if you're going to use mince do like a xylitol mint or something lik"
+  },
+  {
+   "at": "9:42.4",
+   "to": "9:50.2",
+   "len": 7.8,
+   "onScreen": "Ben",
+   "said": "If these bacteria are the problem and doing all these things in the studies, like it helps, but it's like it's"
+  },
+  {
+   "at": "9:50.2",
+   "to": "9:57.8",
+   "len": 7.7,
+   "onScreen": "Ben",
+   "said": "if I told you that we actually, at something nice, my own company, created a way to deal with this that has ne"
+  },
+  {
+   "at": "9:57.8",
+   "to": "10:19.0",
+   "len": 21.2,
+   "onScreen": "Ben",
+   "said": "Well, we're the first company in the world to use these things called nano lipid emulsions. This is really coo"
+  },
+  {
+   "at": "10:19.0",
+   "to": "10:27.0",
+   "len": 8,
+   "onScreen": "Ben",
+   "said": "Because what we've done is we've taken that activated oil system, those nano lipid emulsions and we've actuall"
+  },
+  {
+   "at": "10:30.3",
+   "to": "10:38.0",
+   "len": 7.8,
+   "onScreen": "Ben",
+   "said": "actually took us two years development We have a universally backed double blind human study on this, so yes, "
+  },
+  {
+   "at": "10:43.9",
+   "to": "10:55.9",
+   "len": 12,
+   "onScreen": "Ben",
+   "said": "What it does it basically seeks it out, attaches to it, and then pops it. Like a water balloon. And the cool t"
+  },
+  {
+   "at": "10:55.9",
+   "to": "11:00.5",
+   "len": 4.6,
+   "onScreen": "Ben",
+   "said": "really want to take care of the bacteria, I highly recommend trying some of these and seeing the new tech."
+  },
+  {
+   "at": "11:00.5",
+   "to": "11:08.8",
+   "len": 8.3,
+   "onScreen": "Ben",
+   "said": "now for the tonsil stones, if you really want to know if you've got them or not, just look back in there with "
+  },
+  {
+   "at": "11:08.8",
+   "to": "11:17.6",
+   "len": 8.8,
+   "onScreen": "Ben",
+   "said": "or you'll get that feeling that something scratchy in the back of your throat, you know, like you got a small "
+  },
+  {
+   "at": "11:17.6",
+   "to": "11:43.7",
+   "len": 26.2,
+   "onScreen": "Ben",
+   "said": "Also, please don't go digging with like a cotton swab or your fingers or scrapers And because your tonsils are"
+  },
+  {
+   "at": "11:48.0",
+   "to": "12:00.9",
+   "len": 12.9,
+   "onScreen": "Ben",
+   "said": "Now, once these tonsil stones are out and clear, I would recommend gargling with something, whether it's like "
+  },
+  {
+   "at": "12:00.9",
+   "to": "12:06.4",
+   "len": 5.5,
+   "onScreen": "Ben",
+   "said": "years. But for now, there's no permanent fix. It just kind of means that you just got to do your part every da"
+  },
+  {
+   "at": "12:06.4",
+   "to": "12:25.5",
+   "len": 19.1,
+   "onScreen": "Ben",
+   "said": "I will say that, you know, I, if you've been doing all of these things that I'm talking about, and it's been t"
+  },
+  {
+   "at": "12:25.5",
+   "to": "12:31.9",
+   "len": 6.4,
+   "onScreen": "Ben",
+   "said": "it kind of thinks that you can't smell your bad breath on yourself, but at least now you know what you can and"
+  },
+  {
+   "at": "12:31.9",
+   "to": "12:36.1",
+   "len": 4.2,
+   "onScreen": "Ben",
+   "said": "it. And don't worry, because everybody, and I mean everybody's got these bacteria pretty"
+  },
+  {
+   "at": "12:38.4",
+   "to": "12:43.6",
+   "len": 5.2,
+   "onScreen": "Ben",
+   "said": "too. But now you know the spots that you need to clean to kind of help get it out of the way, at least a littl"
+  },
+  {
+   "at": "12:43.6",
+   "to": "12:48.8",
+   "len": 5.2,
+   "onScreen": "Ben",
+   "said": "kind of love it, because honestly, now that you have all this knowledge, you should be able to fix your bad br"
+  },
+  {
+   "at": "12:48.8",
+   "to": "12:55.8",
+   "len": 7,
+   "onScreen": "Ben",
+   "said": "With a scraper that only costs a few bucks, toothbrush and floss that you already have, or some new cool produ"
+  },
+  {
+   "at": "13:05.4",
+   "to": "13:10.1",
+   "len": 4.7,
+   "onScreen": "Ben",
+   "said": "let me know down in the comments below. And if you enjoyed it, you know what to do, I'll see you in the next o"
+  }
+ ]
+}

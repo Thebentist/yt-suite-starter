@@ -1,0 +1,45 @@
+{
+  "id": "thebentist",
+  "role": "voice-reference",
+  "role_note": "The original host this suite was built for (Dr. Ben Winters). Here he is a voice reference: transcripts of 103 of his real videos (66 long, 37 Shorts, about 228,000 words, mostly unscripted) show what natural spoken rhythm looks like next to a written script. Borrow rhythm (how sentences start, run on, hedge and turn to 'you'); never his catchphrases, persona, profession or claims. Never a swipe-research target. His rules (docs/ben-rules.md) and house voice (docs/style-prompts/bentist-measured.md) are worked examples of what the new host's files should look like.",
+  "name": "TheBentist",
+  "rules": "docs/ben-rules.md",
+  "host": "Dr. Ben Winters, orthodontist in Plano, Texas",
+  "niche": "orthodontics and dental reactions (Orthodontist Reacts, myth vs truth, dental explainers)",
+  "audience": "Teens, young adults and parents: braces wearers, people anxious about the dentist, people who love watching a real doctor react to wild dental content",
+  "language": "English",
+  "market": "United States first, then English-speaking worldwide",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@Thebentist",
+      "channel_id": "UCoaI5is-bILT3XVctKl5hpA",
+      "size": 9500000,
+      "size_as_of": "2026-09-27",
+      "size_note": "subscribers, channel page 2026-09-27"
+    },
+    "tiktok": {
+      "url": null,
+      "size": null
+    },
+    "instagram": {
+      "url": null,
+      "size": null
+    }
+  },
+  "voice": {
+    "style_prompt": "docs/style-prompts/bentist-measured.md",
+    "evidence": "docs/voice.md",
+    "fingerprint": "voice/thebentist/fingerprint.json"
+  },
+  "editing_style": "styles/thebentist-longform/style.json",
+  "editing_styles": {
+    "reaction": "styles/reaction/style.json",
+    "story": "styles/story/style.json",
+    "explainer": null
+  },
+  "editing_styles_note": "reaction = clip reactions (blend of Ben's two reaction videos + SSSniperWolf; styles/reaction-1 is Ben's faster one, reaction-2 his calmer one). story = Huge If True-style storytelling (Cleo Abram). explainer = Vsauce-style, not learned yet (the download was blocked). editing_style is the fallback.",
+  "notes": "His brand notes: docs/examples/thebentist-channel-brand.json.",
+  "transcribe_prompt": "Hi, I'm Dr. Ben Winters, an orthodontist. Um, so today we're talking about braces, Invisalign, cavities, Strep mutans, P. gingivalis, and your oral microbiome. Okay? Let's get into it.",
+  "script_wpm": 140,
+  "script_wpm_note": "Learned from the bad-breath read, 2026-09-28: script words per finished (silence-cut) minute when Ben records a script. He says 1.34 words per script word and speaks script content at 188 wpm after silence cuts (230 when riffing, = fingerprint median), so 2,543 script words ran 18:09. The default --wpm for retention-check.mjs and read-copy.mjs. Evidence: videos/bad-breath-for-good/take/read-lessons.md"
+}

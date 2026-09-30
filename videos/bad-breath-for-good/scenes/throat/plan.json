@@ -1,0 +1,534 @@
+[
+  {
+    "id": "throat-trip",
+    "output": "videos/bad-breath-for-good/scenes/out/throat-trip.mp4",
+    "start": {
+      "word": 1610,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 1633,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0,
+        "kind": "whoosh-long"
+      },
+      {
+        "t": 2.47,
+        "kind": "whoosh"
+      },
+      {
+        "t": 3.68,
+        "kind": "pop"
+      },
+      {
+        "t": 4.19,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 4.97,
+        "kind": "scribble"
+      },
+      {
+        "t": 6.66,
+        "kind": "whoosh"
+      },
+      {
+        "t": 7.09,
+        "kind": "scribble-short"
+      }
+    ]
+  },
+  {
+    "id": "crypts",
+    "output": "videos/bad-breath-for-good/scenes/out/crypts.mp4",
+    "start": {
+      "word": 1633,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 1699,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.03,
+        "kind": "sparkle"
+      },
+      {
+        "t": 2.07,
+        "kind": "pop"
+      },
+      {
+        "t": 3.59,
+        "kind": "whoosh"
+      },
+      {
+        "t": 4.93,
+        "kind": "pop"
+      },
+      {
+        "t": 7.99,
+        "kind": "pop-low"
+      },
+      {
+        "t": 9.49,
+        "kind": "pop-low"
+      },
+      {
+        "t": 13.09,
+        "kind": "pop"
+      },
+      {
+        "t": 17.36,
+        "kind": "tick"
+      }
+    ]
+  },
+  {
+    "id": "down-throat",
+    "output": "videos/bad-breath-for-good/scenes/out/down-throat.mp4",
+    "start": {
+      "word": 1904,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 1961,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0.76,
+        "kind": "pop-high"
+      },
+      {
+        "t": 2.34,
+        "kind": "pop"
+      },
+      {
+        "t": 2.63,
+        "kind": "whoosh-long"
+      },
+      {
+        "t": 5.71,
+        "kind": "whoosh"
+      },
+      {
+        "t": 8.6,
+        "kind": "pop"
+      },
+      {
+        "t": 9.15,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 9.98,
+        "kind": "bubble"
+      }
+    ]
+  },
+  {
+    "id": "reflux-sinus",
+    "output": "videos/bad-breath-for-good/scenes/out/reflux-sinus.mp4",
+    "start": {
+      "word": 1961,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 2043,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.65,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 3.95,
+        "kind": "whoosh"
+      },
+      {
+        "t": 4.63,
+        "kind": "bubble"
+      },
+      {
+        "t": 5.63,
+        "kind": "whoosh"
+      },
+      {
+        "t": 6.32,
+        "kind": "pop"
+      },
+      {
+        "t": 9.48,
+        "kind": "bubble-small"
+      },
+      {
+        "t": 11.89,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 13.33,
+        "kind": "pop"
+      },
+      {
+        "t": 15.27,
+        "kind": "pop-high"
+      },
+      {
+        "t": 16.11,
+        "kind": "sparkle"
+      }
+    ]
+  },
+  {
+    "id": "valve",
+    "output": "videos/bad-breath-for-good/scenes/out/valve.mp4",
+    "start": {
+      "word": 2043,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 2091,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.34,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 3.21,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 3.55,
+        "kind": "whoosh"
+      },
+      {
+        "t": 4.4,
+        "kind": "pop"
+      },
+      {
+        "t": 5.52,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 8.31,
+        "kind": "whoosh"
+      },
+      {
+        "t": 9.4,
+        "kind": "bubble"
+      },
+      {
+        "t": 9.83,
+        "kind": "whoosh"
+      },
+      {
+        "t": 10.5,
+        "kind": "ding"
+      }
+    ]
+  },
+  {
+    "id": "flashlight",
+    "output": "videos/bad-breath-for-good/scenes/out/flashlight.mp4",
+    "start": {
+      "word": 3738,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 3784,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.63,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 2.74,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 3.97,
+        "kind": "tick"
+      },
+      {
+        "t": 4.4,
+        "kind": "whoosh"
+      },
+      {
+        "t": 6.58,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 7.24,
+        "kind": "sparkle"
+      },
+      {
+        "t": 7.49,
+        "kind": "pop"
+      }
+    ]
+  },
+  {
+    "id": "scratchy",
+    "output": "videos/bad-breath-for-good/scenes/out/scratchy.mp4",
+    "start": {
+      "word": 3784,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 3829,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.75,
+        "kind": "scribble"
+      },
+      {
+        "t": 3.2,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 4.56,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 5.07,
+        "kind": "whoosh"
+      },
+      {
+        "t": 5.68,
+        "kind": "pop"
+      },
+      {
+        "t": 6.95,
+        "kind": "pop-high"
+      },
+      {
+        "t": 7.93,
+        "kind": "whoosh"
+      }
+    ]
+  },
+  {
+    "id": "dont-dig",
+    "output": "videos/bad-breath-for-good/scenes/out/dont-dig.mp4",
+    "start": {
+      "word": 3829,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 3919,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0.65,
+        "kind": "pop"
+      },
+      {
+        "t": 1.85,
+        "kind": "buzz"
+      },
+      {
+        "t": 2.97,
+        "kind": "buzz"
+      },
+      {
+        "t": 3.4,
+        "kind": "buzz"
+      },
+      {
+        "t": 4.09,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 6.49,
+        "kind": "pop-low"
+      },
+      {
+        "t": 7.11,
+        "kind": "pop-low"
+      },
+      {
+        "t": 7.79,
+        "kind": "pop-low"
+      }
+    ]
+  },
+  {
+    "id": "flosser-a",
+    "output": "videos/bad-breath-for-good/scenes/out/flosser-a.mp4",
+    "start": {
+      "word": 3919,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 3984,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.24,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.59,
+        "kind": "splash"
+      },
+      {
+        "t": 1.69,
+        "kind": "pop"
+      }
+    ]
+  },
+  {
+    "id": "flosser-card",
+    "output": "videos/bad-breath-for-good/scenes/out/flosser-card.mov",
+    "start": {
+      "word": 3984,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 4033,
+      "offset": -0.15
+    },
+    "transparent": true,
+    "lane": 2,
+    "sfx": [
+      {
+        "t": 0.86,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 4.81,
+        "kind": "pop"
+      }
+    ]
+  },
+  {
+    "id": "flosser-b",
+    "output": "videos/bad-breath-for-good/scenes/out/flosser-b.mp4",
+    "start": {
+      "word": 4033,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 4120,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0.33,
+        "kind": "splash"
+      },
+      {
+        "t": 2.44,
+        "kind": "impact"
+      },
+      {
+        "t": 3.83,
+        "kind": "whoosh"
+      },
+      {
+        "t": 4.53,
+        "kind": "bubble"
+      },
+      {
+        "t": 4.79,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 5.38,
+        "kind": "pop"
+      },
+      {
+        "t": 6.43,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 7.59,
+        "kind": "tick"
+      },
+      {
+        "t": 8.15,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 8.65,
+        "kind": "sparkle"
+      }
+    ]
+  },
+  {
+    "id": "gargle",
+    "output": "videos/bad-breath-for-good/scenes/out/gargle.mp4",
+    "start": {
+      "word": 4165,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 4287,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 1.67,
+        "kind": "pop-high"
+      },
+      {
+        "t": 1.93,
+        "kind": "sparkle"
+      },
+      {
+        "t": 2.81,
+        "kind": "whoosh"
+      },
+      {
+        "t": 3.02,
+        "kind": "bubble"
+      },
+      {
+        "t": 4.07,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 5.83,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 8.55,
+        "kind": "whoosh"
+      },
+      {
+        "t": 9.65,
+        "kind": "ding"
+      },
+      {
+        "t": 11.4,
+        "kind": "scribble-short"
+      }
+    ]
+  }
+]

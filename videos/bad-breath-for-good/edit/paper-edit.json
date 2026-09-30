@@ -1,0 +1,641 @@
+{
+  "about": "Paper edit for the Huge If True-style cut of raw/take.mp4 (2026-09-28). Word indices are raw/transcript.words.json (inclusive). Order = raw order (no reordering). 'special' entries are raw stretches the assembler inserts itself (muted watching under the TikTok, the wrist-test wait).",
+  "keep": [
+    {
+      "beat": "open",
+      "special": "tiktok-watch",
+      "raw": [
+        81.25,
+        88.25
+      ],
+      "note": "From Ben's 'Oh, you're doing your friend's makeup...' (after his mouse clicks, Ben 2026-09-28: start after the click) to the end of the TikTok (it started at his click ~80.8 s); his voice on, the TikTok's audio with it.",
+      "gainDb": 0
+    },
+    {
+      "beat": "open",
+      "w": [
+        234,
+        235
+      ],
+      "note": "That sucks."
+    },
+    {
+      "beat": "hook",
+      "w": [
+        252,
+        291
+      ],
+      "note": "Okay, so we've all been through it (Ben, 2026-09-28: keep 'we've all been there'); leaning away; is my breath stink? Is it me?"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        305,
+        329
+      ],
+      "note": "how do I get rid of it; who's gonna ever tell me (the long loop)"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        330,
+        387
+      ],
+      "note": "bad at smelling your own breath; the house analogy"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        388,
+        464
+      ],
+      "note": "not what you ate; trust me I'm an orthodontist; 8 or 9 out of 10 (stat 1)"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        465,
+        469
+      ],
+      "note": "super common (S034 retake dropped)"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        477,
+        494
+      ],
+      "note": "1 in 3 (stat 2); not alone"
+    },
+    {
+      "beat": "hook",
+      "w": [
+        495,
+        529
+      ],
+      "note": "the real question; where is it coming from (loop 2). S041 dropped: the title card lands here"
+    },
+    {
+      "beat": "cant-smell",
+      "w": [
+        539,
+        631
+      ],
+      "note": "nose gets used to it; coming out of your face all day; cupping your hand doesn't work"
+    },
+    {
+      "beat": "cant-smell",
+      "w": [
+        632,
+        642
+      ],
+      "note": "people have tested this"
+    },
+    {
+      "beat": "cant-smell",
+      "w": [
+        650,
+        702
+      ],
+      "note": "the study: self-rating vs a professional smeller ... and guess what?"
+    },
+    {
+      "beat": "cant-smell",
+      "w": [
+        711,
+        720
+      ],
+      "note": "people only got it right like half of the time (stat 3; 'they almost always got it wrong' dropped: the study found 38% agreement, so 'almost always wrong' overstates it)"
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        721,
+        775
+      ],
+      "note": "there is something you can do: lick your wrist, 10 seconds, smell it"
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        782,
+        791
+      ],
+      "note": "go ahead and do that right now. I'll wait. (first half of the stumble dropped)"
+    },
+    {
+      "beat": "wrist",
+      "special": "wrist-wait",
+      "raw": [
+        344.46,
+        345.8
+      ],
+      "note": "Ben (v4a 2:01): no 10-second wait. Keep only the sniff + grimace after I'll wait (to 345.8, before he looks off at the screen), then jump to 'Okay, so if it smells bad'. The old 5.5 s extend from 18:17 is gone.",
+      "afterWord": 791
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        792,
+        855
+      ],
+      "note": "if it smells bad... Sorry. If it didn't, not in the clear: the tip is the cleanest part"
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        856,
+        873
+      ],
+      "note": "rubbing across your teeth and the roof of your mouth (S064 garbled retake dropped)"
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        888,
+        898
+      ],
+      "note": "water and saliva always hitting it"
+    },
+    {
+      "beat": "wrist",
+      "w": [
+        899,
+        929
+      ],
+      "note": "a dentist checks the back: scrape with the mirror, let it dry, smell"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        930,
+        1056
+      ],
+      "note": "the back of the tongue: bumps get longer, shag carpet, gunk, mucus, dead cells, spit can't reach, bacteria love it"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        1071,
+        1127
+      ],
+      "note": "don't like oxygen (last take S079); perfect spot; they eat the gunk"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        1133,
+        1143
+      ],
+      "note": "some of that stuff, specifically proteins, have sulfur (second take)"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        1144,
+        1186
+      ],
+      "note": "poop out sulfur gas; volatile sulfur compounds; rotten egg"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        1197,
+        1216
+      ],
+      "note": "what you're smelling is the leftovers bacteria poop out (the gross-out line)"
+    },
+    {
+      "beat": "tongue",
+      "w": [
+        1221,
+        1270
+      ],
+      "note": "you can see it: coated tongue; that's probably where it's coming from"
+    },
+    {
+      "beat": "clinic",
+      "w": [
+        1271,
+        1319
+      ],
+      "note": "you'd think teeth; the Belgium clinic; Marc Quirynen, 'I completely botched that' (kept: human, gets a correct-spelling card)"
+    },
+    {
+      "beat": "clinic",
+      "w": [
+        1328,
+        1334
+      ],
+      "note": "and they went through like 2,000 patients (stat 4)"
+    },
+    {
+      "beat": "clinic",
+      "w": [
+        1335,
+        1366
+      ],
+      "note": "number one cause: tongue coating, way more than gums or teeth"
+    },
+    {
+      "beat": "clinic",
+      "w": [
+        1367,
+        1370
+      ],
+      "note": "And a good chunk, (spliced to the second take's 'of people...')"
+    },
+    {
+      "beat": "clinic",
+      "w": [
+        1375,
+        1389
+      ],
+      "note": "of people didn't even have bad breath, just worried"
+    },
+    {
+      "beat": "other-spots",
+      "w": [
+        1390,
+        1508
+      ],
+      "note": "between teeth, gum disease, same sulfur smell, warning sign; braces"
+    },
+    {
+      "beat": "spit",
+      "w": [
+        1509,
+        1609
+      ],
+      "note": "saliva power washer; sleep; morning breath; open mouth; medications"
+    },
+    {
+      "beat": "tonsils",
+      "w": [
+        1610,
+        1762
+      ],
+      "note": "tonsil crypts, compacted stones, rotten food; they smell different; a mile away"
+    },
+    {
+      "beat": "tonsils",
+      "w": [
+        1778,
+        1858
+      ],
+      "note": "lots of people have them; CT study 1 in 4 (stat 5); a smaller slice than tongue coating"
+    },
+    {
+      "beat": "tonsils",
+      "w": [
+        1895,
+        1903
+      ],
+      "note": "something to look out for (S138 'no matter what' and S139 repeat dropped)"
+    },
+    {
+      "beat": "stomach",
+      "w": [
+        1904,
+        2091
+      ],
+      "note": "down the throat: is it my stomach? reflux, sinuses, diabetes ketones, the valve, so it's your mouth (S151 comment ask dropped)"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2129,
+        2160
+      ],
+      "note": "now that we know where it comes from, what next? mints, mouthwash, brushing harder"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2161,
+        2171
+      ],
+      "note": "and the reason none of it's really worked is because,"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2205,
+        2217
+      ],
+      "note": "you see, a mint just covers up your breath for a few minutes"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2231,
+        2260
+      ],
+      "note": "a sugary mint: bacteria eat sugar, you're feeding that bacteria (ends before 'to create more VSCs': research row 14, the sulfur-makers eat protein; graphic shows cavity bacteria)"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2269,
+        2328
+      ],
+      "note": "mouthwash same; brushing harder mostly the teeth"
+    },
+    {
+      "beat": "why-nothing",
+      "w": [
+        2340,
+        2417
+      ],
+      "note": "it's not that you're not cleaning; you're missing the one spot (S166 'misnomer' dropped)"
+    },
+    {
+      "beat": "honest",
+      "w": [
+        2418,
+        2465
+      ],
+      "note": "to be fair: research not great, studies weak"
+    },
+    {
+      "beat": "honest",
+      "w": [
+        2488,
+        2551
+      ],
+      "note": "tongue scraper better than a toothbrush but not by much; wears off; every day"
+    },
+    {
+      "beat": "honest",
+      "w": [
+        2552,
+        2626
+      ],
+      "note": "alcohol mouthwash (Ben's recommendation; research row 13 says the evidence is mixed: flagged)"
+    },
+    {
+      "beat": "honest",
+      "w": [
+        2627,
+        2674
+      ],
+      "note": "not a miracle, but it doesn't hurt; cheap, easy (S186 'not really going to solve your bad breath' dropped: contradicts the payoff)"
+    },
+    {
+      "beat": "works",
+      "w": [
+        2691,
+        2714
+      ],
+      "note": "so what actually works? start tongue scraping"
+    },
+    {
+      "beat": "works",
+      "w": [
+        2734,
+        2762
+      ],
+      "note": "get the gunk off your tongue, gums, teeth; do all the things"
+    },
+    {
+      "beat": "works",
+      "w": [
+        2763,
+        2857
+      ],
+      "note": "go as far back as you can; gagger tip"
+    },
+    {
+      "beat": "works",
+      "w": [
+        2858,
+        2936
+      ],
+      "note": "floss daily; xylitol mint instead of sugary"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3013,
+        3047
+      ],
+      "note": "AD starts: it helps but keeps coming back, what do you do?"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3120,
+        3151
+      ],
+      "note": "at Something Nice, my own company (disclosure in his words)"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3171,
+        3186
+      ],
+      "note": "nano lipid emulsions (clean take)"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3193,
+        3204
+      ],
+      "note": "biotech that targets certain bacteria"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3220,
+        3262
+      ],
+      "note": "bacteria make the VSCs; we target P. gingivalis"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3302,
+        3329
+      ],
+      "note": "put it in our toothpaste: Zero Pro"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3330,
+        3374
+      ],
+      "note": "and you can actually get this today... took us two years (of) development... we have a (university-)backed double blind human study on this, so yes, it is all there, it is all true, and it actually does work (Ben's note at 10:55: the pitch needs this; claims are his, flagged for his confirmation)"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3408,
+        3429
+      ],
+      "note": "increased saliva by 30 percent (claim: Ben to confirm)"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3501,
+        3544
+      ],
+      "note": "seeks it out, attaches, pops it like a water balloon; only the bacteria we target"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3553,
+        3593
+      ],
+      "note": "AD ends: I highly recommend trying these | v4b note 11:00 (cut off weird): end on \"Now, this tech is very, very new, and we are going to be seeing this all over the place.\" (w3576-3593)"
+    },
+    {
+      "beat": "ad",
+      "w": [
+        3695,
+        3706
+      ],
+      "note": "v4d note 10:56 ('cuts out of nowhere, see if there is a softer landing'): close the ad on 'And I'm excited to see the future of where these things go.' before 'Now for the tonsil stones'"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3738,
+        3779
+      ],
+      "note": "check with a flashlight: little white specks"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3784,
+        3828
+      ],
+      "note": "scratchy, something stuck: about to dislodge"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3829,
+        3843
+      ],
+      "note": "don't go digging with a cotton swab, fingers or scrapers (the 'strep' clause dropped)"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3899,
+        3918
+      ],
+      "note": "tonsils are delicate: scratch, bleed, infected (research row 18)"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3919,
+        3928
+      ],
+      "note": "if you absolutely have to flush them out with water,"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        3984,
+        4002
+      ],
+      "note": "I would recommend our AquaClean Duo; tonsil stone mode"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        4033,
+        4058
+      ],
+      "note": "a normal water flosser is too strong; ours is soft"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        4104,
+        4120
+      ],
+      "note": "lowest setting, tonsil stone mode"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        4134,
+        4162
+      ],
+      "note": "I developed it because I had tonsil stones back in the day (Ben's own story, on camera)"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        4165,
+        4192
+      ],
+      "note": "gargle salt water or alcohol-free mouthwash"
+    },
+    {
+      "beat": "tonsil-fix",
+      "w": [
+        4265,
+        4287
+      ],
+      "note": "keeps those holes clean"
+    },
+    {
+      "beat": "for-good",
+      "w": [
+        4373,
+        4394
+      ],
+      "note": "for now there's no permanent fix: do your part every day (the title's 'for good')"
+    },
+    {
+      "beat": "for-good",
+      "w": [
+        4456,
+        4558
+      ],
+      "note": "two weeks, nothing changed: dentist, then ENT (reflux, sinus)"
+    },
+    {
+      "beat": "ending",
+      "w": [
+        4559,
+        4707
+      ],
+      "note": "now you know; everybody has these bacteria; the spots to clean; a couple weeks"
+    },
+    {
+      "beat": "ending",
+      "w": [
+        4724,
+        4747
+      ],
+      "note": "people won't tell you... they react like this and you start crying (TikTok callback)"
+    },
+    {
+      "beat": "ending",
+      "w": [
+        4764,
+        4773
+      ],
+      "note": "would you tell a friend if their breath stunk?"
+    },
+    {
+      "beat": "ending",
+      "w": [
+        4805,
+        4832
+      ],
+      "note": "let me know in the comments; you know what to do; see you in the next one"
+    }
+  ]
+}

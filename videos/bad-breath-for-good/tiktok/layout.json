@@ -1,0 +1,29 @@
+{
+  "about": "Vertical layout overrides for pipeline/edit/shorts-build.mjs. graphics.<name>.mode: stack (default) | fill (9:16 crop, x = subject centre 0-1). overlays.<name>.mode: map (default over a graphic: stays where it was drawn) | box (default over Ben: parts cut out by region [x0,y0,x1,y1] fractions of the 16:9 frame and moved into zone [x,y,w,h] of the 1080x1920 frame) | pin (box, over any layout). react: the vertical clip Ben reacts to (source time = in + (t - at)). skip: long-cut overlays left out (chapter cards always are). tighten: dead-air pass (defaults in the builder); keepPauses: final-cut ranges whose pauses stay. platforms: one output per platform, each with its call-out render; cta: call-out placement and timing.",
+  "react": { "file": "sources/tiktok-30p.mov", "at": 0, "in": 0.45 },
+  "credit": "TikTok @sarahsaysyes34",
+  "skip": ["open-tiktok", "tiktok-callback", "get-rid"],
+  "hookSize": 60,
+  "tighten": {},
+  "keepPauses": [[117.6, 119.6]],
+  "platforms": {
+    "youtube": { "cta": "tiktok/cta/cta-youtube.mov" },
+    "tiktok": { "cta": "tiktok/cta/cta-tiktok.mov" }
+  },
+  "cta": { "zone": [40, 172, 1000, 120], "mid": "auto", "end": true },
+  "graphics": {
+    "tonsilstone3d": { "mode": "fill", "x": 0.5, "until": 358.6 },
+    "lipid3d-pop": { "mode": "fill", "x": 0.52, "until": 643.4 }
+  },
+  "overlays": {
+    "credential": { "parts": [{ "region": [0, 0.65, 0.5, 1], "zone": [40, 200, 1000, 170], "maxScale": 0.62 }] },
+    "quirynen": { "parts": [{ "region": [0, 0.7, 0.55, 1], "zone": [300, 190, 740, 130], "maxScale": 0.5, "align": "left" }] },
+    "quirynen-photo": { "parts": [{ "region": [0, 0.15, 0.3, 0.8], "zone": [40, 150, 250, 340], "maxScale": 0.55 }] },
+    "ad-chip": { "mode": "pin", "zone": [30, 150, 800, 76], "maxScale": 1.0, "align": "left" }
+  },
+  "captionFixes": [["gun problems", "gum problems"], ["mouth wrenches", "mouthwashes"], ["crips", "crypts"], ["Mark Quirion", "Marc Quirynen"]],
+  "clips": {
+    "friend-story": { "hookY": [228, 334] },
+    "zero-pro": { "hookY": [300, 406], "cta": { "zone": [40, 232, 1000, 120] } }
+  }
+}

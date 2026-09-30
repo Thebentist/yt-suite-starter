@@ -1,0 +1,32 @@
+{
+  "channel": "TheBentist",
+  "host": "Dr. Ben Winters (\"The Bentist\"), orthodontist in Plano, Texas",
+  "youtube": { "handle": "@Thebentist", "subscribers": "9.27M (Sep 2026)", "videos": 1900, "note": "Recent long-form videos land 6K-75K views with rare 300K+ outliers; vague-consequence titles ('This isn't normal..') underperform, specific/superlative titles ('57 Most SATISFYING Dental TikToks', 'I've only seen this once in my career') outperform." },
+  "audience": "Teens, young adults, and parents. Braces wearers, people anxious about the dentist, people who love watching a real doctor react to wild dental content.",
+  "voice": "Warm, funny, fast, genuinely kind. Never mocks the person in the clip, only the idea. Educates in the middle of a laugh. Uses 'you' constantly. Plain English, no jargon without an instant translation.",
+  "formats": [
+    "Orthodontist Reacts (commentary on viral dental / braces / DIY clips)",
+    "Myth vs Truth breakdowns (Google-searchable questions)",
+    "Ranked lists (worst dental hacks, best braces colors, etc.)",
+    "Story-driven explainers (why a trend went viral and what actually happens in the mouth)"
+  ],
+  "pillars": ["braces & orthodontics", "viral dental hacks (reacting)", "oral health myths", "dental fear & reassurance", "kids & parents"],
+  "never": [
+    "Give patient-specific medical advice",
+    "Shame a viewer for their teeth",
+    "Show or describe graphic gore",
+    "Repeat a claim without a mechanism ('here is what is actually happening in your mouth')"
+  ],
+  "cta": "Comment your braces color, subscribe for more reacts, and ask your orthodontist before trying anything you see online.",
+  "palette": {
+    "bg": "#0b0f1a",
+    "paper": "#f6f1e7",
+    "ink": "#12161f",
+    "primary": "#2e7cf6",
+    "accent": "#ffcc33",
+    "mint": "#3ddc97",
+    "coral": "#ff6b6b",
+    "violet": "#8b5cf6"
+  },
+  "video": { "width": 1920, "height": 1080, "fps": 30 }
+}

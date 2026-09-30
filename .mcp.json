@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "davinci-resolve": {
+      "command": "C:\\Program Files\\Blackmagic Design\\DaVinci Resolve\\ResolveMCP.exe",
+      "args": []
+    }
+  }
+}

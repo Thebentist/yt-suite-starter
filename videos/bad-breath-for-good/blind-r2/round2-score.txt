@@ -1,0 +1,70 @@
+verdict-a.json: accuracy 100% | caught 16/16 AI | false alarms 0/16 real | FAIL
+verdict-b.json: accuracy 100% | caught 16/16 AI | false alarms 0/16 real | FAIL
+
+Overall: FAIL (pass needs every judge under 60% and no paragraph caught by all 2)
+
+Script paragraphs caught (most often first):
+
+#1 caught by 2: So for most people it really is the mouth. How much is everything else I don't know the studies kind of go back and forth on that one. So for my doctors out there let me know down ...
+   - verdict-a.json: Tidy signposting and a tidy closing line ('the reason none of it really sticks is kind of all the same reason'); calls out 'my doctors out there' in a scripted way (conf 4)
+   - verdict-b.json: Neatly staged hedge ('studies go back and forth') plus a tidy list and a closing thesis line; too orderly and audience-cue inserted. (conf 3)
+
+#3 caught by 2: There's an ear nose and throat doctor at Northwestern Dr. James Burns who basically says don't scrape at them at home at all. So warm salt water gargles are a good place to start. ...
+   - verdict-a.json: Cites a named specialist with credentials then a neat practical tip sequence; 'made to blast stuff off teeth so it's way too strong' is explanatory and polished (conf 4)
+   - verdict-b.json: Cited-expert paraphrase ('basically says') followed by a tidy step-by-step advice sequence with a reasoned 'way too strong' conclusion. (conf 3)
+
+#4 caught by 2: And you can actually see it sometimes. If you stick your tongue out in the mirror and the back is kind of white or yellowish that is what we call a coated tongue and that's probabl...
+   - verdict-a.json: Setup-then-twist ('you'd think it'd be your teeth right?') plus a researched named source and a tidy self-deprecating 'probably saying that wrong' (conf 4)
+   - verdict-b.json: Setup-and-reversal structure ('you'd think it'd be your teeth right?') and a neat scripted 'probably saying that wrong' aside. (conf 3)
+
+#5 caught by 2: It's like a whole clinic just for breath. And they went through like 2000 patients and the number one cause by a lot was just that coating on the tongue. Way more than gum problems...
+   - verdict-a.json: Neatly packaged study summary ('2000 patients', 'number one cause by a lot') with smooth transition sentence (conf 4)
+   - verdict-b.json: Stat-then-implication sequence ('2000 patients', 'number one cause by a lot') with balanced comparison and a scripted transition ('Now the other spots'). (conf 3)
+
+#8 caught by 2: The research on fixing bad breath is honestly not great. It's a lot of small studies and there's a big review that went through a bunch of them and basically said the evidence for ...
+   - verdict-a.json: Evidence-hedging summary ('a big review... basically said the evidence for pretty much everything is weak') in even, balanced phrasing (conf 4)
+   - verdict-b.json: Evidence-summary voice ('a big review that went through a bunch of them and basically said') with a balanced hedge ('a little bit better... not by a ton'). (conf 4)
+
+#10 caught by 2: If you want to know if you have them you can look back there with a flashlight and see if there's little white or yellow spots on your tonsils. Or you'll get that feeling like some...
+   - verdict-a.json: Clean list of symptoms then a tidy safety instruction and reason ('Your tonsils bleed really easily and they can get infected') (conf 4)
+   - verdict-b.json: Symptom-then-advice list with clean cause-and-effect close ('bleed really easily and they can get infected'); no rambling. (conf 4)
+
+#12 caught by 2: So first off the reason you can't smell your own breath is your nose basically gets used to anything that's around you all the time. It just kind of stops noticing it. And there's ...
+   - verdict-a.json: Orderly 'So first off' explanation with a well-formed analogy-free mechanism and a punchy 'coming out of your face all day' (conf 4)
+   - verdict-b.json: Neat explanatory setup ('first off the reason...') with a punchy staged joke ('coming out of your face all day') and a tidy myth-bust. (conf 4)
+
+#14 caught by 2: In between your teeth food gets stuck and it just sits there and the same kind of bacteria get to it and if that goes on long enough well your gums start getting infected and event...
+   - verdict-a.json: Smooth causal chain from food to infection to bone loss to sulfur smell, closed by a slot-in 'dude' aside (conf 4)
+   - verdict-b.json: Cause-and-effect chain delivered in a smooth ladder, with a dropped-in 'dude' that feels inserted to sound casual. (conf 3)
+
+#17 caught by 2: And if it didn't well that doesn't totally mean you're in the clear. Because your wrist is really only getting the tip of your tongue and the tip is actually the cleanest part of y...
+   - verdict-a.json: Neat explanatory reasoning ('the tip is actually the cleanest part') and a clean 'That is why when a dentist checks this for real' payoff (conf 4)
+   - verdict-b.json: Very orderly reasoning ('the tip is actually the cleanest part', 'It's the back that's the problem') even though 'wrist' looks like a transcription slip. (conf 2)
+
+#19 caught by 2: It's probably that shag carpet on the back of your tongue and getting rid of it is honestly just cleaning back there every day which is kind of wild that it's that simple. And it's...
+   - verdict-a.json: Polished vivid metaphor ('shag carpet') and a tidy reassuring conclusion with 'I kind of love that because it means' (conf 5)
+   - verdict-b.json: Simile plus tidy reassurance ('kind of wild that it's that simple', 'I kind of love that') and a neat costs-a-few-bucks payoff. (conf 4)
+
+#22 caught by 2: Because you're actually pretty bad at smelling your own breath. Everybody is. It's kind of like when you walk into somebody else's house and it's got a smell and yours doesn't well...
+   - verdict-a.json: Credibility line ('I'm an orthodontist I'm in people's mouths all day so trust me') delivered as a neat ethos beat, tidy analogy and stat (conf 4)
+   - verdict-b.json: Credential aside written as ethos ('I'm an orthodontist I'm in people's mouths all day') and a neat analogy with a specific '8 or 9 out of 10' close. (conf 4)
+
+#23 caught by 2: A scraper or your toothbrush whichever one you're actually going to do. You want to go as far back as you can set it down gently and pull it forward rinse it and do that a few time...
+   - verdict-a.json: Clean instruction sequence, then a pre-emptive 'I'm not gonna lie' and a tidy imagined objection with a fix (conf 4)
+   - verdict-b.json: Instructional sequence with anticipated objection and answer ('And I'm not gonna lie... people are like I'm never doing that again and no...'), well organized. (conf 4)
+
+#25 caught by 2: A mint just covers it up for a few minutes and then the smell's right back because the bacteria are still sitting back there making it and if it's a sugary mint you're feeding your...
+   - verdict-a.json: Parallel list of failed remedies each with a compact reason, closing with a thesis-flip line 'people kind of have this backwards' (conf 4)
+   - verdict-b.json: Parallel list of failed fixes (mint, mouthwash, brushing) each with its own tidy reason and a thesis close ('people kind of have this backwards'). (conf 4)
+
+#26 caught by 2: So I'd still skip the alcohol if your mouth's already dry but I wouldn't lose sleep over it. So I'm not saying cleaning your tongue is some miracle thing but it's cheap and it's sa...
+   - verdict-a.json: Balanced hedge-then-verdict ('not a miracle thing but it's cheap and it's safe') with neat recommendation wrap-up (conf 4)
+   - verdict-b.json: Balanced hedging conclusion ('not saying... miracle thing but it's cheap and it's safe') and a neat 'if you came in and asked me' call to action. (conf 4)
+
+#27 caught by 2: It's nasty. If you've ever squished one you know exactly what I'm talking about. And plenty of people have them and have no idea. I think there was a study that looked at CT scans ...
+   - verdict-a.json: Studied stat ('1 in 4 people' from CT scans) with proportion caveat and a transition to the next section (conf 4)
+   - verdict-b.json: Hedged stat ('I think there was a study... about 1 in 4') and a framed rhetorical question ending; rounded and sequenced. (conf 3)
+
+#28 caught by 2: So the back of your tongue. If you look at a tongue up close it's not smooth at all. It's covered in these little tiny bumps and as you go further back they get longer and longer. ...
+   - verdict-a.json: Descriptive scene-setting with tidy list of contents ('bits of food and mucus and dead cells') and the recycled shag carpet metaphor (conf 5)
+   - verdict-b.json: Scaffolded description ('If you look at a tongue up close...') with a colorful simile and a smooth list of contents that ends cleanly. (conf 4)

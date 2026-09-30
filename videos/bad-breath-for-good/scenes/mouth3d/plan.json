@@ -1,0 +1,305 @@
+[
+  {
+    "id": "papillae3d",
+    "output": "videos/bad-breath-for-good/scenes/out/papillae3d.mp4",
+    "start": {
+      "word": 940,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 991,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "replaces": [
+      "papillae-fly"
+    ],
+    "sfx": [
+      {
+        "t": 0.05,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.17,
+        "kind": "whoosh-long"
+      },
+      {
+        "t": 2.93,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 5.94,
+        "kind": "pop"
+      },
+      {
+        "t": 6.66,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 7.26,
+        "kind": "whoosh-long"
+      },
+      {
+        "t": 9.61,
+        "kind": "pop"
+      },
+      {
+        "t": 9.76,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 12.42,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 14.07,
+        "kind": "whoosh-soft"
+      }
+    ]
+  },
+  {
+    "id": "carpet3d",
+    "output": "videos/bad-breath-for-good/scenes/out/carpet3d.mp4",
+    "start": {
+      "word": 991,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 1046,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "replaces": [
+      "carpet-gunk"
+    ],
+    "sfx": [
+      {
+        "t": 0.05,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.23,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 2.39,
+        "kind": "whoosh"
+      },
+      {
+        "t": 4.55,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 7.81,
+        "kind": "pop"
+      },
+      {
+        "t": 8.68,
+        "kind": "pop"
+      },
+      {
+        "t": 9.17,
+        "kind": "pop-high"
+      },
+      {
+        "t": 11.19,
+        "kind": "splash"
+      },
+      {
+        "t": 13.2,
+        "kind": "pop-low"
+      },
+      {
+        "t": 13.8,
+        "kind": "scribble-short"
+      }
+    ]
+  },
+  {
+    "id": "coated3d",
+    "output": "videos/bad-breath-for-good/scenes/out/coated3d.mp4",
+    "start": {
+      "word": 1221,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 1270,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "replaces": [
+      "coated-tongue"
+    ],
+    "sfx": [
+      {
+        "t": 0.05,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.73,
+        "kind": "sparkle"
+      },
+      {
+        "t": 3.31,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 4.38,
+        "kind": "pop"
+      },
+      {
+        "t": 4.65,
+        "kind": "pop"
+      },
+      {
+        "t": 7.06,
+        "kind": "pop-low"
+      },
+      {
+        "t": 9.42,
+        "kind": "pop-high"
+      },
+      {
+        "t": 10.86,
+        "kind": "pop"
+      },
+      {
+        "t": 11.78,
+        "kind": "whoosh-soft"
+      }
+    ]
+  },
+  {
+    "id": "scrape3d",
+    "output": "videos/bad-breath-for-good/scenes/out/scrape3d.mp4",
+    "start": {
+      "word": 2702,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 2858,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "replaces": [
+      "scrape-how"
+    ],
+    "sfx": [
+      {
+        "t": 2.27,
+        "kind": "whoosh"
+      },
+      {
+        "t": 2.47,
+        "kind": "pop"
+      },
+      {
+        "t": 5.42,
+        "kind": "pop"
+      },
+      {
+        "t": 6.25,
+        "kind": "pop"
+      },
+      {
+        "t": 6.98,
+        "kind": "pop"
+      },
+      {
+        "t": 10.36,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 10.93,
+        "kind": "pop"
+      },
+      {
+        "t": 11.71,
+        "kind": "scribble"
+      },
+      {
+        "t": 13.87,
+        "kind": "splash"
+      },
+      {
+        "t": 14.8,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 14.85,
+        "kind": "pop"
+      },
+      {
+        "t": 16.29,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 18.17,
+        "kind": "buzz"
+      },
+      {
+        "t": 18.27,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 20.73,
+        "kind": "pop"
+      },
+      {
+        "t": 22.61,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 25.35,
+        "kind": "pop-high"
+      },
+      {
+        "t": 25.94,
+        "kind": "sparkle"
+      }
+    ]
+  },
+  {
+    "id": "regrow3d",
+    "output": "videos/bad-breath-for-good/scenes/out/regrow3d.mp4",
+    "start": {
+      "word": 4373,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 4456,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "replaces": [
+      "no-permanent"
+    ],
+    "sfx": [
+      {
+        "t": 0.1,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.93,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 2.69,
+        "kind": "whoosh-long"
+      },
+      {
+        "t": 4.02,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 4.2,
+        "kind": "pop-high"
+      },
+      {
+        "t": 4.3,
+        "kind": "sparkle"
+      }
+    ]
+  }
+]

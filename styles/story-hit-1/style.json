@@ -1,0 +1,126 @@
+{
+  "name": "story-hit-1",
+  "version": 1,
+  "learnedFrom": {
+    "url": "https://www.youtube.com/watch?v=yWgHx0HE8m8",
+    "title": "Something’s Happening to the Ozone Hole",
+    "channel": "Cleo Abram",
+    "uploadDate": "2026-08-29",
+    "duration": 981,
+    "id": "yWgHx0HE8m8",
+    "start": 0,
+    "end": 981,
+    "analysedSeconds": 981
+  },
+  "measured": {
+    "durationSec": 981,
+    "video": {
+      "width": 854,
+      "height": 480,
+      "fps": 23.98
+    },
+    "shots": {
+      "cuts": 374,
+      "cutsPerMin": 22.87,
+      "cutsPerMinFirst60": 28,
+      "meanShotSec": 2.62,
+      "medianShotSec": 1.83,
+      "p10ShotSec": 0.67,
+      "p75ShotSec": 3.04,
+      "p90ShotSec": 5.63,
+      "histogram": {
+        "<1s": 59,
+        "1-2s": 151,
+        "2-4s": 99,
+        "4-8s": 52,
+        "8-15s": 14,
+        "15s+": 0
+      },
+      "threshold": 0.12,
+      "sensitivity": {
+        "0.08": 390,
+        "0.12": 374,
+        "0.2": 348,
+        "0.3": 294,
+        "0.4": 245
+      }
+    },
+    "speech": {
+      "pauseCount": 924,
+      "pausesPerMin": 56.51,
+      "pauseMedianSec": 0.17,
+      "pauseP75Sec": 0.29,
+      "pauseP90Sec": 0.42,
+      "silentShare": 0.22,
+      "floorDb": -34.2,
+      "speechDb": -12.1,
+      "thresholdDb": -27.6,
+      "wordsPerMin": 157.19,
+      "fillersLeftPerMin": 0,
+      "stuttersLeftPerMin": 0.06,
+      "words": 2570,
+      "fillers": 0,
+      "stutters": 1
+    },
+    "loudness": {
+      "integratedLufs": -13.5,
+      "lraLu": 6.5,
+      "truePeakDbtp": 1.7
+    },
+    "musicBed": {
+      "likely": true,
+      "pauseLevelDb": -32.84,
+      "pauseStdDb": 6.17,
+      "speechDb": -12.1,
+      "relativeDb": -20.74
+    }
+  },
+  "edit": {
+    "takes": {
+      "fillers": "cut",
+      "stutters": "cut",
+      "retakes": "cut"
+    },
+    "pause": {
+      "keepBetweenSentences": 0.17,
+      "maxBetweenSentences": 0.29,
+      "keepInSentence": 0.27,
+      "maxInSentence": 0.42
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.12,
+      "every": 2,
+      "maxHoldSec": 4,
+      "minSegmentSec": 0.8
+    },
+    "cutRate": {
+      "targetCutsPerMin": 15,
+      "targetCutsPerMinFirst60": 28
+    },
+    "music": {
+      "gainDb": -20.74
+    },
+    "deliver": {
+      "loudnessLufs": -13.5,
+      "truePeakDbtp": 1.7
+    }
+  },
+  "sheets": [
+    "styles/story-hit-1/sheets/first60-01.png",
+    "styles/story-hit-1/sheets/first60-02.png",
+    "styles/story-hit-1/sheets/overview-01.png",
+    "styles/story-hit-1/sheets/overview-02.png",
+    "styles/story-hit-1/sheets/overview-03.png",
+    "styles/story-hit-1/sheets/cuts-01.png",
+    "styles/story-hit-1/sheets/cuts-02.png"
+  ],
+  "adjustedAfterLooking": {
+    "by": "Claude (subagent), from the contact sheets, 2026-09-28",
+    "changes": {
+      "edit.cutRate.targetCutsPerMin": [22.87, 15],
+      "edit.punchIn.scale": [1.12, 1.12]
+    },
+    "why": "The measured 22.87 cuts/min is b-roll and graphics, not host framing: the host is recognisable in only 14 of 89 overview tiles, and of the 24 checked detections (cuts-01/02, 0:00.7-0:34.9) 21 are real picture changes and none is a host framing change (1 host to b-roll at 0:00.709, 13 b-roll to b-roll, 7 animation/archival/graphic), 3 are false (grainy VHS archive at 0:32.7, 0:33.3, 0:34.7). So the A-roll should not chase 22.87: it holds one framing up to maxHoldSec 4 s (60 / 4 = 15 framing changes a minute) and the b-roll layer supplies the rest. targetCutsPerMinFirst60 stays 28: the one host run in the hook (first60 tiles 0:37-0:41, real about 0:37.5-0:43) shows three framings in about 5 s. edit.punchIn.scale is confirmed, not changed (recorded 1.12 -> 1.12 so a re-run knows it was checked): the studio base framing is locked (the wall print lines up within 0.3 px on the cut-sheet 0:00.709 tile and the 6:58 and 14:18 overview tiles) and the other three studio tiles (2:12, 6:25, 7:42) are 1.10-1.16x bigger and shifted toward the face, i.e. about 1.1x punch-ins on about half the studio shots. Overview tile labels on these sheets are about 11 s early (pre-fix learn.mjs); cut-sheet times are exact."
+  }
+}

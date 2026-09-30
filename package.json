@@ -1,0 +1,32 @@
+{
+  "name": "yt-suite-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Claude Code skills and tools for a YouTube channel: research, voice, scripts, DaVinci Resolve editing, shorts",
+  "scripts": {
+    "swipe": "node pipeline/swipe/swipe.mjs",
+    "voice:corpus": "node pipeline/voice/corpus.mjs",
+    "voice:fingerprint": "node pipeline/voice/fingerprint.mjs",
+    "voice:check": "node pipeline/voice/voice-check.mjs",
+    "transcribe": "node pipeline/edit/transcribe.mjs",
+    "doctor": "node pipeline/doctor.mjs",
+    "source-transcript": "node pipeline/script/source-transcript.mjs",
+    "resolve:build": "node pipeline/resolve/build-timeline.mjs",
+    "resolve:preview": "node pipeline/resolve/preview.mjs",
+    "resolve:smoke": "node pipeline/resolve/smoke.mjs",
+    "resolve:check": "node pipeline/resolve/check-import.mjs",
+    "style:learn": "node pipeline/style/learn.mjs",
+    "style:diff": "node pipeline/style/diff.mjs",
+    "review": "node pipeline/review/server.mjs --port 4600"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^1.0.1",
+    "exceljs": "^4.4.0",
+    "ffmpeg-static": "^5.3.0",
+    "ffprobe-static": "^3.1.0"
+  }
+}

@@ -1,0 +1,165 @@
+[
+ {
+  "near": 313.13,
+  "edge": "in",
+  "from": 313.133,
+  "to": 313.7,
+  "why": "'people only' restart; start at 'In fact, people only got it right'"
+ },
+ {
+  "near": 341.45,
+  "edge": "in",
+  "from": 341.367,
+  "to": 342.667,
+  "why": "first 'so go ahead and do right' attempt"
+ },
+ {
+  "near": 517.2,
+  "edge": "in",
+  "from": 517.067,
+  "to": 519.1,
+  "why": "'and some of that stuff' said twice; keep the second"
+ },
+ {
+  "near": 626.33,
+  "edge": "in",
+  "from": 626.333,
+  "to": 627.067,
+  "why": "'and the number' false start before 'and they went through like 2,000 patients'"
+ },
+ {
+  "near": 1032.1,
+  "edge": "in",
+  "from": 1032,
+  "to": 1036.067,
+  "why": "first mint take ('you see a mint just covers up your breath for,')"
+ },
+ {
+  "near": 1054,
+  "edge": "out",
+  "from": 1054,
+  "to": 1053.833,
+  "why": "end on 'feeding that bacteria', before 'to create more VSCs' (research row 14)"
+ },
+ {
+  "near": 1254.3,
+  "edge": "out",
+  "from": 1254.3,
+  "to": 1254.5,
+  "why": "'tongue scraping' was clipped"
+ },
+ {
+  "near": 1373.43,
+  "edge": "in",
+  "from": 1373.433,
+  "to": 1373.7,
+  "why": "'actually works' tail of the dropped 'so what actually works?'"
+ },
+ {
+  "near": 1426.4,
+  "edge": "out",
+  "from": 1426.5,
+  "to": 1426.9,
+  "why": "'certain bacteria' was clipped"
+ },
+ {
+  "near": 1443.95,
+  "edge": "out",
+  "from": 1444.333,
+  "to": 1443.433,
+  "why": "stray 'So' after 'volatile sulfur compounds'"
+ },
+ {
+  "near": 1466.9,
+  "edge": "out",
+  "from": 1466.7,
+  "to": 1467.433,
+  "why": "'Zero Pro' was clipped"
+ },
+ {
+  "near": 1697.73,
+  "edge": "in",
+  "from": 1697.733,
+  "to": 1697.567,
+  "why": "'But if you're gonna' was clipped"
+ },
+ {
+  "near": 89.8,
+  "edge": "out",
+  "from": 89.8,
+  "to": 90.233,
+  "why": "'that sucks' was clipped to 'that suck' (Ben's note)"
+ },
+ {
+  "remove": [
+   122.965,
+   124.75
+  ],
+  "why": "first 'because to be honest...' take (keep the restart 'because to be honest, who's gonna ever tell me')"
+ },
+ {
+  "remove": [
+   213.3,
+   214.2
+  ],
+  "why": "'Because, because' (Ben's note at 1:06): drop the first 'Because'"
+ },
+ {
+  "remove": [
+   833.115,
+   835.09
+  ],
+  "why": "'And I can, I can, I can, and I can... I can tell': keep only the last take 'I can tell if somebody has tonsil stones a mile away' (found in v4c by transcribing a short clip; the full-cut transcript smoothed it over)"
+ },
+ {
+  "remove": [
+   1008.4,
+   1010.1
+  ],
+  "why": "'you've had breath, you've had bad breath' : keep the last"
+ },
+ {
+  "remove": [
+   1718.365,
+   1718.885
+  ],
+  "why": "'like salt water, warm salt water rinse' -> 'like warm salt water rinse'"
+ },
+ {
+  "remove": [
+   1811.355,
+   1812.86
+  ],
+  "why": "'I will say that, you know, I...' false start before 'if you've been doing...'"
+ },
+ {
+  "remove": [
+   1748.185,
+   1748.895
+  ],
+  "why": "v4b note 11:57 'another stutter': 'And what that, what that does' -> keep the second 'what that does'"
+ },
+ {
+  "remove": [
+   1062.495,
+   1063.395
+  ],
+  "why": "v4b note 7:32 (Ben): cut the stumble 'And most mout-' and keep 'and most mouthwash, to be honest...' (the raw transcript merged both into one long 'mouthwash')"
+ },
+ {
+  "keep": [
+   215.48,
+   215.66
+  ],
+  "how": "extended next piece",
+  "why": "the onset of the second 'because' was clipped"
+ },
+ {
+  "keep": [
+   1903.28,
+   1903.49
+  ],
+  "how": "extended previous piece",
+  "why": "v4d note 12:54: 'different way.' trails off quietly (-38 to -48 dB), under tighten's -33 dB speech threshold, so the clip ended before 'way' finished"
+ }
+]

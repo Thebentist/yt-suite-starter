@@ -1,0 +1,347 @@
+{
+  "channel_url": "https://www.youtube.com/@kallawaymarketing",
+  "videos": {
+    "94ezZMYPzls": {
+      "id": "94ezZMYPzls",
+      "views": 45000,
+      "duration": 1178,
+      "title": "I Reversed Engineered Social Media Algorithms",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:13:37.679Z",
+      "model": "ggml-small.en.bin"
+    },
+    "W--tE9w_N_A": {
+      "id": "W--tE9w_N_A",
+      "views": 70000,
+      "duration": 1236,
+      "title": "How to Become A Master Storyteller (It'll Blow Up Your Business)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:14:57.845Z",
+      "model": "ggml-small.en.bin"
+    },
+    "pNIYikmYsyw": {
+      "id": "pNIYikmYsyw",
+      "views": 112000,
+      "duration": 1891,
+      "title": "The Psychology of Killer Hooks",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:16:42.621Z",
+      "model": "ggml-small.en.bin"
+    },
+    "LvuoNlYRs7g": {
+      "id": "LvuoNlYRs7g",
+      "views": 95000,
+      "duration": 1659,
+      "title": "How to Make ANY Topic Addictive on Social Media (The Illusion of Novelty)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:18:22.998Z",
+      "model": "ggml-small.en.bin"
+    },
+    "a7VjpIqq8Xk": {
+      "id": "a7VjpIqq8Xk",
+      "views": 40000,
+      "duration": 1656,
+      "title": "How To Create Irresistible Hooks With Claude (and blow up your content)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:20:07.775Z",
+      "model": "ggml-small.en.bin"
+    },
+    "KyC8r-zitVE": {
+      "id": "KyC8r-zitVE",
+      "views": 328000,
+      "duration": 1308,
+      "title": "The Neuroscience of Addictive Storytelling (And How to Master It)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:21:16.496Z",
+      "model": "ggml-small.en.bin"
+    },
+    "8cQidXgtGmU": {
+      "id": "8cQidXgtGmU",
+      "views": 1000000,
+      "duration": 1041,
+      "title": "How Social Media Algorithms Actually Work (And How to Beat Them)",
+      "format": "long",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "pcnrzBwoVUk": {
+      "id": "pcnrzBwoVUk",
+      "views": 138000,
+      "duration": 1153,
+      "title": "Say This in Your Videos, It�ll Improve Your Storytelling by 10x",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:22:53.719Z",
+      "model": "ggml-small.en.bin"
+    },
+    "8VolLwMCLuY": {
+      "id": "8VolLwMCLuY",
+      "views": 78000,
+      "duration": 915,
+      "title": "Copy This Hook, It'll Blow Up Your Social Media",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:23:53.015Z",
+      "model": "ggml-small.en.bin"
+    },
+    "onQoYdxWXdA": {
+      "id": "onQoYdxWXdA",
+      "views": 87000,
+      "duration": 1319,
+      "title": "How to Create a Killer Hook (Impossible to Skip)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:25:15.616Z",
+      "model": "ggml-small.en.bin"
+    },
+    "SDHKQbKC7gA": {
+      "id": "SDHKQbKC7gA",
+      "views": 42000,
+      "duration": 1723,
+      "title": "Storytelling Is Easier Than You Think",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:26:44.822Z",
+      "model": "ggml-small.en.bin"
+    },
+    "jtmstMt4WLc": {
+      "id": "jtmstMt4WLc",
+      "views": 644000,
+      "duration": 1346,
+      "title": "How to Become a Storytelling Genius (Dopamine Ladders)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:28:12.661Z",
+      "model": "ggml-small.en.bin"
+    },
+    "7pCEsr-0KIw": {
+      "id": "7pCEsr-0KIw",
+      "views": 48000,
+      "duration": 1054,
+      "title": "If You Don't Understand Psychology, You Don't Understand Social Media",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:29:53.852Z",
+      "model": "ggml-small.en.bin"
+    },
+    "tVZOS5Z019U": {
+      "id": "tVZOS5Z019U",
+      "views": 27000,
+      "duration": 1608,
+      "title": "I Studied 10,000+ Videos, These Mistakes Are Killing Your Content",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:31:29.526Z",
+      "model": "ggml-small.en.bin"
+    },
+    "jZCupmAOMAE": {
+      "id": "jZCupmAOMAE",
+      "views": 55000,
+      "duration": 1484,
+      "title": "Why The Smartest Creators I Know Focus on Packaging, Not Content",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:33:02.479Z",
+      "model": "ggml-small.en.bin"
+    },
+    "S9FlxFv9dxg": {
+      "id": "S9FlxFv9dxg",
+      "views": 189000,
+      "duration": 997,
+      "title": "The ONLY 6 Words You Need to Hook ANY Viewer",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:34:05.602Z",
+      "model": "ggml-small.en.bin"
+    },
+    "cAEYGdSnt9M": {
+      "id": "cAEYGdSnt9M",
+      "views": 40000,
+      "duration": 1993,
+      "title": "6 Content Mistakes That Are KILLING Small Creators (Nobody Teaches This)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:36:15.237Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_Z11mjFh2zY": {
+      "id": "_Z11mjFh2zY",
+      "views": 110000,
+      "duration": 1955,
+      "title": "How to Script Viral Videos 10x Faster (Nobody Teaches This)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:38:11.025Z",
+      "model": "ggml-small.en.bin"
+    },
+    "pirnGDCZD3Y": {
+      "id": "pirnGDCZD3Y",
+      "views": 84000,
+      "duration": 1519,
+      "title": "The Science-Based Method To Create Irresistible Ideas",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:40:04.966Z",
+      "model": "ggml-small.en.bin"
+    },
+    "0f6_pRAIJjI": {
+      "id": "0f6_pRAIJjI",
+      "views": 69000,
+      "duration": 1014,
+      "title": "How to write a script so good viewers can�t stop watching",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:41:16.446Z",
+      "model": "ggml-small.en.bin"
+    },
+    "mbX4W5G0BPs": {
+      "id": "mbX4W5G0BPs",
+      "views": 44000,
+      "duration": 1354,
+      "title": "The Easiest Way to Make Viral Content (For ANY Business)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:42:45.221Z",
+      "model": "ggml-small.en.bin"
+    },
+    "vb-2eZX_B0M": {
+      "id": "vb-2eZX_B0M",
+      "views": 23000,
+      "duration": 958,
+      "title": "The �Viral� Trap, Explained",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:43:51.249Z",
+      "model": "ggml-small.en.bin"
+    },
+    "2byPP_9F0-Q": {
+      "id": "2byPP_9F0-Q",
+      "views": 1000000,
+      "duration": 949,
+      "title": "Give me 15 mins, and I'll make your hooks impossible to skip",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:45:16.219Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Iqy644uOOqM": {
+      "id": "Iqy644uOOqM",
+      "views": null,
+      "duration": 1679,
+      "title": "How to Create Irresistible Thumbnails (and blow up your content)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:47:20.296Z",
+      "model": "ggml-small.en.bin"
+    },
+    "u7Sb-GIdBqw": {
+      "id": "u7Sb-GIdBqw",
+      "views": 81000,
+      "duration": 2202,
+      "title": "44 Tricks To Instantly Get More Views on Social Media",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:49:22.846Z",
+      "model": "ggml-small.en.bin"
+    },
+    "oRYfJ_yxz6M": {
+      "id": "oRYfJ_yxz6M",
+      "views": 62000,
+      "duration": 1742,
+      "title": "How to Build an Audience of Buyers (Not just empty views)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:51:45.833Z",
+      "model": "ggml-small.en.bin"
+    },
+    "9K1b6dSdc50": {
+      "id": "9K1b6dSdc50",
+      "views": 46000,
+      "duration": 1002,
+      "title": "6 Levels of Storytelling Every Creator MUST Master",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:52:51.311Z",
+      "model": "ggml-small.en.bin"
+    },
+    "YD2vbag4X8Y": {
+      "id": "YD2vbag4X8Y",
+      "views": 56000,
+      "duration": 1205,
+      "title": "Why Your Content Isn�t Getting Views (and how to fix it)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:54:48.253Z",
+      "model": "ggml-small.en.bin"
+    },
+    "96HQjrqA_s4": {
+      "id": "96HQjrqA_s4",
+      "views": 54000,
+      "duration": 1127,
+      "title": "Storytelling Tactics Top Creators Use To Hook You",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:57:10.645Z",
+      "model": "ggml-small.en.bin"
+    },
+    "xnOe8aA9Pmw": {
+      "id": "xnOe8aA9Pmw",
+      "views": 323000,
+      "duration": 1316,
+      "title": "I Studied 100 Viral Hooks, These 6 Will Make You Go Viral",
+      "format": "long",
+      "transcribed_at": "2026-09-28T17:58:32.226Z",
+      "model": "ggml-small.en.bin"
+    },
+    "p4W23V_LLvE": {
+      "id": "p4W23V_LLvE",
+      "views": 43000,
+      "duration": 996,
+      "title": "How to Make Addictive Videos (and blow up your social media)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:00:28.626Z",
+      "model": "ggml-small.en.bin"
+    },
+    "7I50PECz7SU": {
+      "id": "7I50PECz7SU",
+      "views": null,
+      "duration": 1199,
+      "title": "How To Write A Killer Script That Keeps Viewers Hooked",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:02:31.643Z",
+      "model": "ggml-small.en.bin"
+    },
+    "wgXGimZvDa4": {
+      "id": "wgXGimZvDa4",
+      "views": 154000,
+      "duration": 818,
+      "title": "7 Storytelling Mistakes That Are KILLING Small Creators",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:03:22.247Z",
+      "model": "ggml-small.en.bin"
+    },
+    "g_6TIu7zHDw": {
+      "id": "g_6TIu7zHDw",
+      "views": null,
+      "duration": 1768,
+      "title": "18 Psychology Tricks to Get Viewers Addicted to Your Videos",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:04:55.836Z",
+      "model": "ggml-small.en.bin"
+    },
+    "LmXpbP7dD48": {
+      "id": "LmXpbP7dD48",
+      "views": 832000,
+      "duration": 995,
+      "title": "How to Create Irresistible Hooks (and blow up your content)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:05:49.343Z",
+      "model": "ggml-small.en.bin"
+    },
+    "t5Z-Q1bg1tU": {
+      "id": "t5Z-Q1bg1tU",
+      "views": 2700000,
+      "duration": 674,
+      "title": "How To Become A Master Storyteller",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:06:33.459Z",
+      "model": "ggml-small.en.bin"
+    },
+    "IywTdYKncqY": {
+      "id": "IywTdYKncqY",
+      "views": 75000,
+      "duration": 720,
+      "title": "How to use psychology to hack viewers brains (& make more money)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:07:19.944Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ECQB_attJUg": {
+      "id": "ECQB_attJUg",
+      "views": 71000,
+      "duration": 783,
+      "title": "I Cracked The Social Media Algorithm (Full Formula Explained)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T18:08:07.812Z",
+      "model": "ggml-small.en.bin"
+    }
+  },
+  "listed_at": "2026-09-28T17:12:22.634Z"
+}

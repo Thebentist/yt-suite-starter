@@ -1,0 +1,202 @@
+{
+  "about": "Cut-edge fixes found by machine listening (listen-check.mjs on the cut's own audio + snippet-listen.mjs on the raw), 2026-09-28. near = the current edge in raw seconds; valley = where the new edge goes (quietest 30 ms).",
+  "edges": [
+    {
+      "near": 313.13,
+      "edge": "in",
+      "valley": [
+        313.42,
+        313.72
+      ],
+      "why": "'people only' restart; start at 'In fact, people only got it right'"
+    },
+    {
+      "near": 341.45,
+      "edge": "in",
+      "valley": [
+        342.55,
+        342.8
+      ],
+      "why": "first 'so go ahead and do right' attempt"
+    },
+    {
+      "near": 517.2,
+      "edge": "in",
+      "valley": [
+        518.95,
+        519.12
+      ],
+      "why": "'and some of that stuff' said twice; keep the second"
+    },
+    {
+      "near": 626.33,
+      "edge": "in",
+      "valley": [
+        626.95,
+        627.15
+      ],
+      "why": "'and the number' false start before 'and they went through like 2,000 patients'"
+    },
+    {
+      "near": 1032.1,
+      "edge": "in",
+      "valley": [
+        1035.9,
+        1036.25
+      ],
+      "why": "first mint take ('you see a mint just covers up your breath for,')"
+    },
+    {
+      "near": 1054,
+      "edge": "out",
+      "valley": [
+        1053.78,
+        1053.95
+      ],
+      "why": "end on 'feeding that bacteria', before 'to create more VSCs' (research row 14)"
+    },
+    {
+      "near": 1254.3,
+      "edge": "out",
+      "valley": [
+        1254.45,
+        1254.62
+      ],
+      "why": "'tongue scraping' was clipped"
+    },
+    {
+      "near": 1373.43,
+      "edge": "in",
+      "valley": [
+        1373.55,
+        1373.75
+      ],
+      "why": "'actually works' tail of the dropped 'so what actually works?'"
+    },
+    {
+      "near": 1426.4,
+      "edge": "out",
+      "valley": [
+        1426.9,
+        1427.1
+      ],
+      "why": "'certain bacteria' was clipped"
+    },
+    {
+      "near": 1443.95,
+      "edge": "out",
+      "valley": [
+        1443.3,
+        1443.6
+      ],
+      "why": "stray 'So' after 'volatile sulfur compounds'"
+    },
+    {
+      "near": 1466.9,
+      "edge": "out",
+      "valley": [
+        1467.15,
+        1467.45
+      ],
+      "why": "'Zero Pro' was clipped"
+    },
+    {
+      "near": 1697.73,
+      "edge": "in",
+      "valley": [
+        1697.55,
+        1697.72
+      ],
+      "why": "'But if you're gonna' was clipped"
+    },
+    {
+      "near": 89.8,
+      "edge": "out",
+      "valley": [
+        90,
+        90.25
+      ],
+      "why": "'that sucks' was clipped to 'that suck' (Ben's note)"
+    }
+  ],
+  "remove": [
+    {
+      "raw": [
+        123,
+        124.72
+      ],
+      "snap": 0.05,
+      "why": "first 'because to be honest...' take (keep the restart 'because to be honest, who's gonna ever tell me')"
+    },
+    {
+      "raw": [
+        213.3,
+        214.2
+      ],
+      "why": "'Because, because' (Ben's note at 1:06): drop the first 'Because'"
+    },
+    {
+      "raw": [
+        833.1,
+        835.08
+      ],
+      "snap": 0.05,
+      "why": "'And I can, I can, I can, and I can... I can tell': keep only the last take 'I can tell if somebody has tonsil stones a mile away' (found in v4c by transcribing a short clip; the full-cut transcript smoothed it over)"
+    },
+    {
+      "raw": [
+        1008.4,
+        1010.1
+      ],
+      "why": "'you've had breath, you've had bad breath' : keep the last"
+    },
+    {
+      "raw": [
+        1718.37,
+        1718.91
+      ],
+      "snap": 0.04,
+      "why": "'like salt water, warm salt water rinse' -> 'like warm salt water rinse'"
+    },
+    {
+      "raw": [
+        1811.4,
+        1812.88
+      ],
+      "snap": 0.06,
+      "why": "'I will say that, you know, I...' false start before 'if you've been doing...'"
+    },
+    {
+      "raw": [
+        1748.2,
+        1748.9
+      ],
+      "snap": 0.03,
+      "why": "v4b note 11:57 'another stutter': 'And what that, what that does' -> keep the second 'what that does'"
+    },
+    {
+      "raw": [
+        1062.5,
+        1063.39
+      ],
+      "snap": 0.02,
+      "why": "v4b note 7:32 (Ben): cut the stumble 'And most mout-' and keep 'and most mouthwash, to be honest...' (the raw transcript merged both into one long 'mouthwash')"
+    }
+  ],
+  "keep": [
+    {
+      "raw": [
+        215.48,
+        215.66
+      ],
+      "why": "the onset of the second 'because' was clipped"
+    },
+    {
+      "raw": [
+        1903.28,
+        1903.49
+      ],
+      "why": "v4d note 12:54: 'different way.' trails off quietly (-38 to -48 dB), under tighten's -33 dB speech threshold, so the clip ended before 'way' finished"
+    }
+  ]
+}

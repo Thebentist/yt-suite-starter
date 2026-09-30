@@ -1,0 +1,35 @@
+{
+  "about": "Every graphic/clip on V2+ with its anchor. start/end: {special}, {word, offset, edge}, {beat, at}. Rendered files live in scenes/out/.",
+  "scenes": [
+    {
+      "id": "tiktok-open-raw",
+      "output": "videos/bad-breath-for-good/sources/tiktok-30p.mov",
+      "start": {
+        "special": "tiktok-watch"
+      },
+      "duration": 7,
+      "transparent": true,
+      "position": [
+        -4150,
+        0
+      ],
+      "note": "placeholder until scenes/open-tiktok renders",
+      "replacedBy": "open-tiktok",
+      "lane": 1,
+      "in": 0.45
+    }
+  ],
+  "markers": [],
+  "overrides": {
+    "open-tiktok": {
+      "in": 0.45,
+      "duration": 7
+    },
+    "cgi-mouthwash": {
+      "skip": "teeth/alcohol-mouthwash now opens on its own 3D bottle; a CGI bottle cutaway on top would show two different bottles back to back"
+    },
+    "few-bucks": {
+      "skip": "the flat price tag could not follow the 3D scraper between camera angles (string ended in empty space); cgi-lineup now hangs the tag on the scraper itself"
+    }
+  }
+}

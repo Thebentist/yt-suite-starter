@@ -1,0 +1,4 @@
+{
+  "about": "Word-map timing correction (pipeline/edit/assemble.mjs). wordLead moves every word of edit/cut-words.json earlier by this many seconds. Whisper's starts run late: on 2026-09-29 the cut measured median 0.23 s late on words after a pause (heardStats.startBias in the map summary), and 0.15-0.18 s mid-phrase by short-window listening (Ben, v4d 9:58: 'text is a little off of my voice matching up'). 0.15 is the conservative middle. A uniform shift: scenes keep their internal timing, only their placement moves.",
+  "wordLead": 0.15
+}

@@ -1,0 +1,101 @@
+{
+  "about": "A-roll framing. default for unpunched pieces, punch for build-timeline's punched pieces, inserts by special, pieces by index (overrides).",
+  "default": {
+    "scale": 1,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "punch": {
+    "scale": 1.12,
+    "position": [
+      0,
+      -52
+    ]
+  },
+  "inserts": {
+    "tiktok-watch": {
+      "scale": 1,
+      "position": [
+        500,
+        0
+      ]
+    }
+  },
+  "pieces": {},
+  "moments": [
+    {
+      "words": [
+        234,
+        235
+      ],
+      "scale": 1.35,
+      "face": [
+        0.52,
+        0.36
+      ],
+      "why": "That sucks."
+    },
+    {
+      "words": [
+        810,
+        810
+      ],
+      "scale": 1.45,
+      "face": [
+        0.54,
+        0.42
+      ],
+      "why": "Sorry. (the grimace)"
+    },
+    {
+      "words": [
+        1306,
+        1310
+      ],
+      "scale": 1.3,
+      "face": [
+        0.52,
+        0.39
+      ],
+      "why": "I completely botched that"
+    },
+    {
+      "words": [
+        1483,
+        1485
+      ],
+      "scale": 1.35,
+      "face": [
+        0.53,
+        0.42
+      ],
+      "why": "oh my gosh (braces)"
+    },
+    {
+      "words": [
+        1755,
+        1757
+      ],
+      "scale": 1.3,
+      "face": [
+        0.5,
+        0.42
+      ],
+      "why": "a mile away"
+    },
+    {
+      "words": [
+        4134,
+        4146
+      ],
+      "scale": 1.25,
+      "face": [
+        0.53,
+        0.44
+      ],
+      "why": "I developed it because I had tonsil stones"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "between-teeth",
+    "output": "videos/bad-breath-for-good/scenes/out/between-teeth.mp4",
+    "start": {"word": 1390, "offset": -0.15},
+    "end": {"word": 1457, "offset": -0.15},
+    "transparent": false,
+    "sfx": [
+      { "t": 0.85, "kind": "pop" },
+      { "t": 3.39, "kind": "whoosh-soft" },
+      { "t": 4.54, "kind": "pop-low" },
+      { "t": 6.23, "kind": "bubble-small" },
+      { "t": 10.09, "kind": "whoosh-soft" },
+      { "t": 11.3, "kind": "pop" },
+      { "t": 11.83, "kind": "impact" },
+      { "t": 12.8, "kind": "pop-high" },
+      { "t": 17.53, "kind": "pop" }
+    ]
+  },
+  {
+    "id": "warning-sign",
+    "output": "videos/bad-breath-for-good/scenes/out/warning-sign.mp4",
+    "start": {"word": 1457, "offset": -0.15},
+    "end": {"word": 1477, "edge": "end", "offset": 0.25},
+    "transparent": false,
+    "sfx": [
+      { "t": 0.05, "kind": "whoosh-soft" },
+      { "t": 0.33, "kind": "pop" },
+      { "t": 1.91, "kind": "scribble-short" },
+      { "t": 2.67, "kind": "whoosh" },
+      { "t": 3.66, "kind": "buzz" },
+      { "t": 4.41, "kind": "scribble-short" }
+    ]
+  },
+  {
+    "id": "braces",
+    "output": "videos/bad-breath-for-good/scenes/out/braces.mp4",
+    "start": {"word": 1488, "offset": -0.15},
+    "end": {"word": 1508, "edge": "end", "offset": 0.25},
+    "transparent": false,
+    "sfx": [
+      { "t": 0.56, "kind": "pop" },
+      { "t": 1.12, "kind": "whoosh-soft" },
+      { "t": 2.04, "kind": "scribble" },
+      { "t": 2.55, "kind": "whoosh-soft" },
+      { "t": 3.33, "kind": "pop-low" },
+      { "t": 4.24, "kind": "whoosh-soft" },
+      { "t": 5.14, "kind": "pop" }
+    ]
+  },
+  {
+    "id": "alcohol-mouthwash",
+    "output": "videos/bad-breath-for-good/scenes/out/alcohol-mouthwash.mp4",
+    "start": {"word": 2552, "offset": -0.15},
+    "end": {"word": 2626, "edge": "end", "offset": 0.25},
+    "transparent": false,
+    "sfx": [
+      { "t": 1.14, "kind": "pop" },
+      { "t": 2.8, "kind": "whoosh-soft" },
+      { "t": 3.43, "kind": "splash" },
+      { "t": 5.33, "kind": "whoosh-soft" },
+      { "t": 5.73, "kind": "pop" },
+      { "t": 7.37, "kind": "whoosh-soft" },
+      { "t": 8.3, "kind": "splash" },
+      { "t": 11.25, "kind": "pop" },
+      { "t": 12.82, "kind": "whoosh" },
+      { "t": 13.12, "kind": "buzz" },
+      { "t": 15.42, "kind": "ding" }
+    ]
+  },
+  {
+    "id": "floss",
+    "output": "videos/bad-breath-for-good/scenes/out/floss.mp4",
+    "start": {"word": 2858, "offset": -0.15},
+    "end": {"word": 2891, "offset": -0.15},
+    "transparent": false,
+    "sfx": [
+      { "t": 1.24, "kind": "whoosh-soft" },
+      { "t": 2.13, "kind": "tick" },
+      { "t": 3.43, "kind": "pop" },
+      { "t": 6.17, "kind": "scribble-short" },
+      { "t": 7.15, "kind": "whoosh-soft" },
+      { "t": 7.35, "kind": "pop" }
+    ]
+  },
+  {
+    "id": "xylitol",
+    "output": "videos/bad-breath-for-good/scenes/out/xylitol.mp4",
+    "start": {"word": 2891, "offset": -0.15},
+    "end": {"word": 2936, "edge": "end", "offset": 0.25},
+    "transparent": false,
+    "sfx": [
+      { "t": 0.71, "kind": "pop" },
+      { "t": 2.44, "kind": "whoosh-soft" },
+      { "t": 3.24, "kind": "pop-low" },
+      { "t": 4.11, "kind": "ding" },
+      { "t": 6.42, "kind": "pop" },
+      { "t": 6.77, "kind": "buzz" },
+      { "t": 8.19, "kind": "pop" },
+      { "t": 8.37, "kind": "bubble" }
+    ]
+  }
+]

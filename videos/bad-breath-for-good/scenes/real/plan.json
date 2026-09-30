@@ -1,0 +1,328 @@
+[
+ {
+  "id": "quirynen-photo",
+  "output": "videos/bad-breath-for-good/scenes/out/quirynen-photo.mov",
+  "start": {
+   "word": 1302,
+   "offset": -0.2
+  },
+  "end": {
+   "word": 1310,
+   "edge": "end",
+   "offset": 0.6
+  },
+  "transparent": true,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.1,
+    "kind": "tick"
+   }
+  ]
+ },
+ {
+  "id": "paper-memon",
+  "output": "videos/bad-breath-for-good/scenes/out/paper-memon.mp4",
+  "start": {
+   "word": 439,
+   "offset": -0.12
+  },
+  "end": {
+   "word": 448,
+   "offset": 0.1
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.02,
+    "kind": "paper"
+   },
+   {
+    "t": 1.26,
+    "kind": "tick"
+   },
+   {
+    "t": 2.36,
+    "kind": "scribble-short"
+   }
+  ]
+ },
+ {
+  "id": "headlines",
+  "output": "videos/bad-breath-for-good/scenes/out/headlines.mp4",
+  "start": {
+   "word": 465,
+   "offset": -0.12
+  },
+  "end": {
+   "word": 477,
+   "offset": -0.04
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "paper"
+   },
+   {
+    "t": 0.4,
+    "kind": "paper"
+   },
+   {
+    "t": 0.69,
+    "kind": "paper"
+   },
+   {
+    "t": 1,
+    "kind": "tick"
+   },
+   {
+    "t": 1.18,
+    "kind": "scribble-short"
+   }
+  ]
+ },
+ {
+  "id": "paper-romano",
+  "output": "videos/bad-breath-for-good/scenes/out/paper-romano.mp4",
+  "start": {
+   "word": 632,
+   "offset": -0.12
+  },
+  "end": {
+   "word": 650,
+   "offset": -0.1
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.02,
+    "kind": "paper"
+   },
+   {
+    "t": 1.56,
+    "kind": "tick"
+   },
+   {
+    "t": 2.25,
+    "kind": "scribble-short"
+   }
+  ]
+ },
+ {
+  "id": "micro-papillae",
+  "output": "videos/bad-breath-for-good/scenes/out/micro-papillae.mp4",
+  "start": {
+   "word": 945,
+   "offset": 0.08
+  },
+  "end": {
+   "word": 949,
+   "offset": -0.08
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "tick"
+   },
+   {
+    "t": 0.2,
+    "kind": "pop"
+   },
+   {
+    "t": 0.8,
+    "kind": "tick"
+   }
+  ]
+ },
+ {
+  "id": "micro-bacteria",
+  "output": "videos/bad-breath-for-good/scenes/out/micro-bacteria.mp4",
+  "start": {
+   "word": 1049,
+   "offset": -0.1
+  },
+  "end": {
+   "word": 1053,
+   "offset": -0.06
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "tick"
+   },
+   {
+    "t": 0.18,
+    "kind": "pop"
+   }
+  ]
+ },
+ {
+  "id": "paper-quirynen",
+  "output": "videos/bad-breath-for-good/scenes/out/paper-quirynen.mp4",
+  "start": {
+   "word": 1310,
+   "edge": "end",
+   "offset": 0.6
+  },
+  "end": {
+   "word": 1328,
+   "offset": -0.15
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.02,
+    "kind": "paper"
+   },
+   {
+    "t": 0.44,
+    "kind": "tick"
+   },
+   {
+    "t": 0.89,
+    "kind": "scribble-short"
+   }
+  ]
+ },
+ {
+  "id": "micro-pging",
+  "output": "videos/bad-breath-for-good/scenes/out/micro-pging.mp4",
+  "start": {
+   "word": 1444,
+   "offset": -0.1
+  },
+  "end": {
+   "word": 1448,
+   "offset": 0.12
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "tick"
+   },
+   {
+    "t": 0.14,
+    "kind": "pop"
+   }
+  ]
+ },
+ {
+  "id": "micro-tonsil",
+  "output": "videos/bad-breath-for-good/scenes/out/micro-tonsil.mov",
+  "start": {
+   "word": 1630,
+   "offset": -0.08
+  },
+  "end": {
+   "word": 1633,
+   "offset": 0.55
+  },
+  "transparent": true,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.02,
+    "kind": "tick"
+   },
+   {
+    "t": 0.16,
+    "kind": "pop-high"
+   }
+  ]
+ },
+ {
+  "id": "archival-tried",
+  "output": "videos/bad-breath-for-good/scenes/out/archival-tried.mp4",
+  "start": {
+   "word": 2153,
+   "offset": -0.1
+  },
+  "end": {
+   "word": 2161,
+   "offset": -0.05
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "tock"
+   },
+   {
+    "t": 1.15,
+    "kind": "tock"
+   },
+   {
+    "t": 1.84,
+    "kind": "tock"
+   }
+  ]
+ },
+ {
+  "id": "archival-mouthwash",
+  "output": "videos/bad-breath-for-good/scenes/out/archival-mouthwash.mp4",
+  "start": {
+   "word": 2269,
+   "offset": -0.1
+  },
+  "end": {
+   "word": 2272,
+   "offset": 0
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0,
+    "kind": "tock"
+   },
+   {
+    "t": 0.48,
+    "kind": "scribble-short"
+   }
+  ]
+ },
+ {
+  "id": "paper-cochrane",
+  "output": "videos/bad-breath-for-good/scenes/out/paper-cochrane.mp4",
+  "start": {
+   "word": 2444,
+   "offset": -0.1
+  },
+  "end": {
+   "word": 2455,
+   "offset": -0.1
+  },
+  "transparent": false,
+  "lane": 3,
+  "sfx": [
+   {
+    "t": 0.02,
+    "kind": "paper"
+   },
+   {
+    "t": 0.36,
+    "kind": "scribble-short"
+   },
+   {
+    "t": 0.94,
+    "kind": "tick"
+   },
+   {
+    "t": 1.59,
+    "kind": "scribble-short"
+   }
+  ]
+ }
+]

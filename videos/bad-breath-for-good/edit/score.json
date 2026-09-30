@@ -1,0 +1,331 @@
+{
+ "about": "Score arrangement for the Huge If True cut (see pipeline/motion/score.mjs). Sections and hits are pinned to words of the cut (anchor), so the music follows re-cuts; at is only the fallback. D minor, 96 bpm.",
+ "bpm": 96,
+ "sections": [
+  {
+   "at": 0,
+   "energy": 0.15,
+   "layers": [
+    "pad"
+   ],
+   "note": "TikTok cold open: TikTok audio carries it, pad only"
+  },
+  {
+   "at": 8.6,
+   "energy": 0.45,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "the hook",
+   "anchor": {
+    "word": 252,
+    "offset": -0.3
+   }
+  },
+  {
+   "at": 44,
+   "energy": 0.6,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "hat"
+   ],
+   "note": "8 or 9 out of 10, 1 in 3",
+   "anchor": {
+    "word": 440,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 57,
+   "energy": 0.35,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "the real question: pull back",
+   "anchor": {
+    "word": 495,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 66.2,
+   "energy": 0.55,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "beat"
+   ],
+   "note": "after the title card",
+   "anchor": {
+    "word": 539,
+    "offset": -0.4
+   }
+  },
+  {
+   "at": 90.1,
+   "energy": 0.45,
+   "layers": [
+    "pad",
+    "arp",
+    "sub"
+   ],
+   "note": "the study",
+   "anchor": {
+    "word": 632,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 107.1,
+   "energy": 0.35,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "wrist test instructions",
+   "anchor": {
+    "word": 728,
+    "offset": -0.3
+   }
+  },
+  {
+   "at": 134.2,
+   "energy": 0.4,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "if it smells bad",
+   "anchor": {
+    "word": 792,
+    "offset": -0.1
+   }
+  },
+  {
+   "at": 167.3,
+   "energy": 0.7,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "beat",
+    "hat"
+   ],
+   "note": "the trip: back of the tongue",
+   "anchor": {
+    "word": 940,
+    "offset": -0.15
+   }
+  },
+  {
+   "at": 241.5,
+   "energy": 0.5,
+   "layers": [
+    "pad",
+    "arp",
+    "sub"
+   ],
+   "note": "coated tongue",
+   "anchor": {
+    "word": 1232,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 259.4,
+   "energy": 0.6,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "hat"
+   ],
+   "note": "the Leuven clinic",
+   "anchor": {
+    "word": 1299,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 283.4,
+   "energy": 0.5,
+   "layers": [
+    "pad",
+    "arp",
+    "sub"
+   ],
+   "note": "other spots, saliva",
+   "anchor": {
+    "word": 1403,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 344.3,
+   "energy": 0.65,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "beat"
+   ],
+   "note": "tonsil stones",
+   "anchor": {
+    "word": 1628,
+    "offset": -0.3
+   }
+  },
+  {
+   "at": 409.8,
+   "energy": 0.4,
+   "layers": [
+    "pad",
+    "sub"
+   ],
+   "note": "is it your stomach",
+   "anchor": {
+    "word": 1931,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 455.6,
+   "energy": 0.55,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "hat"
+   ],
+   "note": "why nothing worked",
+   "anchor": {
+    "word": 2161,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 508.4,
+   "energy": 0.3,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "the honest part",
+   "anchor": {
+    "word": 2428,
+    "offset": -0.3
+   }
+  },
+  {
+   "at": 562.9,
+   "energy": 0.6,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "beat",
+    "hat"
+   ],
+   "note": "what actually works",
+   "anchor": {
+    "word": 2763,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 611.1,
+   "energy": 0.5,
+   "layers": [
+    "pad",
+    "arp",
+    "sub"
+   ],
+   "key": 3,
+   "note": "AD (brighter key)",
+   "anchor": {
+    "word": 3120,
+    "offset": -0.3
+   }
+  },
+  {
+   "at": 682.5,
+   "energy": 0.5,
+   "layers": [
+    "pad",
+    "arp",
+    "sub",
+    "hat"
+   ],
+   "note": "tonsil stones: check and flush",
+   "anchor": {
+    "word": 3740,
+    "offset": -0.4
+   }
+  },
+  {
+   "at": 743.9,
+   "energy": 0.4,
+   "layers": [
+    "pad",
+    "arp"
+   ],
+   "note": "for good",
+   "anchor": {
+    "word": 4456,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 770,
+   "energy": 0.55,
+   "layers": [
+    "pad",
+    "arp",
+    "sub"
+   ],
+   "note": "the ending",
+   "anchor": {
+    "word": 4589,
+    "offset": -0.2
+   }
+  },
+  {
+   "at": 807.6,
+   "energy": 0.3,
+   "layers": [
+    "pad"
+   ],
+   "note": "would you tell a friend; sign-off",
+   "anchor": {
+    "word": 4764,
+    "offset": -0.3
+   }
+  }
+ ],
+ "hits": [
+  {
+   "kind": "drop",
+   "dur": 1.4,
+   "anchor": {
+    "word": 791,
+    "edge": "end",
+    "offset": 0.05
+   },
+   "note": "the sniff + grimace after I will wait: music drops out for the gag"
+  },
+  {
+   "kind": "drop",
+   "dur": 1.2,
+   "anchor": {
+    "word": 810,
+    "offset": -0.35
+   },
+   "note": "beat of silence before Sorry."
+  }
+ ]
+}

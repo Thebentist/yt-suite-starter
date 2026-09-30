@@ -1,0 +1,13 @@
+{
+  "id": "cleoabram",
+  "name": "Huge If True (Cleo Abram)",
+  "role": "voice-reference",
+  "host": "Cleo Abram",
+  "niche": "optimistic science and technology explainers",
+  "platforms": {
+    "youtube": {
+      "url": "https://www.youtube.com/@CleoAbram"
+    }
+  },
+  "notes": "Voice reference for /write-script voice:cleoabram. Structure bible: docs/huge-if-true-writing.md. Study only: never publish as her or copy her sentences."
+}

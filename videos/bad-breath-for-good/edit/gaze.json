@@ -1,0 +1,20 @@
+{
+  "about": "Gaze pass (pipeline/edit/assemble.mjs, data from pipeline/edit/gaze.mjs). Ben 2026-09-28 on v4a: he glances at the script screen after finishing a line; cut those glances at line ends and starts, never cut a word, leave mid-sentence glances (reading a name) alone. Thresholds are offsets from his own mid-speech median (lookL/lookR/down/lids: blendshape scores; eyeH: iris offset in eye widths; yaw: nose offset in face widths).",
+  "calibDb": -30,
+  "protectDb": -42,
+  "protectTail": 0.03,
+  "protectHead": 0.02,
+  "minRunFrames": 6,
+  "minPiece": 0.3,
+  "edgeWindow": 0.5,
+  "reportMin": 0.1,
+  "thresholds": {
+    "lookL": 0.3,
+    "lookR": 99,
+    "eyeH": 0.07,
+    "yaw": 0.22,
+    "down": 99,
+    "lids": 0.45
+  },
+  "calibNote": "2026-09-28 on 11.8k frames: speaking lookL p50 0.09 vs silent p50 0.32 (the glance toward the screen, image left); lookR and eyeLookDown read high while he faces the lens (p50 0.36 / 0.52), so both are off (99). Lids (eyeBlink) catches the look-down only when it lasts minRunFrames (a blink is shorter)."
+}

@@ -1,0 +1,963 @@
+{
+  "channel_url": "https://www.youtube.com/@Thebentist",
+  "videos": {
+    "LUjnbsBWGcE": {
+      "id": "LUjnbsBWGcE",
+      "duration": 1315,
+      "views": 16000,
+      "title": "This is the WORST Dentist ever..",
+      "format": "long"
+    },
+    "AN4K7xY__BQ": {
+      "id": "AN4K7xY__BQ",
+      "duration": 1143,
+      "views": 48000,
+      "title": "65 Most Unsatisfying Videos on the Internet..",
+      "format": "long",
+      "transcribed_at": "2026-09-27T23:59:24.509Z",
+      "model": "ggml-base.en.bin"
+    },
+    "RdpFG9C0Z9s": {
+      "id": "RdpFG9C0Z9s",
+      "duration": 990,
+      "views": 14000,
+      "title": "Is This ASMR Tooth Restoration Real??",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:06:06.018Z",
+      "model": "ggml-base.en.bin"
+    },
+    "XlZ8Socu9U0": {
+      "id": "XlZ8Socu9U0",
+      "duration": 2136,
+      "views": 11000,
+      "title": "Do TikTok Dental HACKS Really Work?",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:12:37.819Z",
+      "model": "ggml-base.en.bin"
+    },
+    "3glVMZtfYOU": {
+      "id": "3glVMZtfYOU",
+      "duration": 1138,
+      "views": 31000,
+      "title": "Why I became a dentist..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:15:53.142Z",
+      "model": "ggml-base.en.bin"
+    },
+    "L3YhRNqmGY0": {
+      "id": "L3YhRNqmGY0",
+      "duration": 765,
+      "views": 13000,
+      "title": "Dental ASMR has gotten out of hand..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:17:39.849Z",
+      "model": "ggml-base.en.bin"
+    },
+    "ETwtQ9crwyc": {
+      "id": "ETwtQ9crwyc",
+      "duration": 885,
+      "views": 19000,
+      "title": "44 SATISFYING dental TIKTOKS you need to see..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:20:07.687Z",
+      "model": "ggml-base.en.bin"
+    },
+    "q8regjBdFxo": {
+      "id": "q8regjBdFxo",
+      "duration": 757,
+      "views": 17000,
+      "title": "Is soda ACTUALLY bad for your teeth??",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:50:41.897Z",
+      "model": "ggml-small.en.bin"
+    },
+    "PrEgcm82LRI": {
+      "id": "PrEgcm82LRI",
+      "duration": 796,
+      "views": 16000,
+      "title": "They Rebuilt This Tooth From Nothing..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:22:43.625Z",
+      "model": "ggml-base.en.bin"
+    },
+    "RVXQmWSSfAo": {
+      "id": "RVXQmWSSfAo",
+      "duration": 950,
+      "views": 15000,
+      "title": "Answering your most PAINFUL Dental Questions..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:53:09.637Z",
+      "model": "ggml-small.en.bin"
+    },
+    "hvy9YTnb4-g": {
+      "id": "hvy9YTnb4-g",
+      "duration": 993,
+      "views": 19000,
+      "title": "They did WHAT to their teeth??",
+      "format": "long",
+      "transcribed_at": "2026-09-28T00:57:23.043Z",
+      "model": "ggml-small.en.bin"
+    },
+    "NGOf5DmEFvA": {
+      "id": "NGOf5DmEFvA",
+      "duration": 663,
+      "views": 40000,
+      "title": "Can you actually REGROW Teeth??",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:00:21.656Z",
+      "model": "ggml-small.en.bin"
+    },
+    "gmKGbLmHhEQ": {
+      "id": "gmKGbLmHhEQ",
+      "duration": 921,
+      "views": 13000,
+      "title": "Becoming a PROFESSIONAL DENTIST..  (VR)",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:03:31.114Z",
+      "model": "ggml-small.en.bin"
+    },
+    "h1OqzD7ysMk": {
+      "id": "h1OqzD7ysMk",
+      "duration": 875,
+      "views": 11000,
+      "title": "This isn't normal..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:07:07.038Z",
+      "model": "ggml-small.en.bin"
+    },
+    "XVgjWz0yLFk": {
+      "id": "XVgjWz0yLFk",
+      "duration": 972,
+      "views": 10000,
+      "title": "This has gone too far..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:11:06.929Z",
+      "model": "ggml-small.en.bin"
+    },
+    "p_rJ_7w4ME0": {
+      "id": "p_rJ_7w4ME0",
+      "duration": 829,
+      "views": 8500,
+      "title": "She really did that..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:13:23.978Z",
+      "model": "ggml-small.en.bin"
+    },
+    "dAWWhLE8DWc": {
+      "id": "dAWWhLE8DWc",
+      "duration": 734,
+      "views": 5700,
+      "title": "43 Funniest Dental TikToks on the Internet..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:16:18.985Z",
+      "model": "ggml-small.en.bin"
+    },
+    "XoixE289qKc": {
+      "id": "XoixE289qKc",
+      "duration": 969,
+      "views": 23000,
+      "title": "I Ranked The Most Famous Teeth Transformations..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:20:17.926Z",
+      "model": "ggml-small.en.bin"
+    },
+    "s4NUrJIh_bc": {
+      "id": "s4NUrJIh_bc",
+      "duration": 857,
+      "views": 373000,
+      "title": "57 Most SATISFYING Dental TikToks..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:24:24.183Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ViX0hGwzm8M": {
+      "id": "ViX0hGwzm8M",
+      "duration": 704,
+      "views": 6100,
+      "title": "The internet has gone too far..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:25:39.102Z",
+      "model": "ggml-small.en.bin"
+    },
+    "9JjBrR_e_GU": {
+      "id": "9JjBrR_e_GU",
+      "duration": 880,
+      "views": 15000,
+      "title": "The Craziest Dental Transformation EVER!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:28:44.143Z",
+      "model": "ggml-small.en.bin"
+    },
+    "JGCAtg57pJg": {
+      "id": "JGCAtg57pJg",
+      "duration": 931,
+      "views": 18000,
+      "title": "Watching Teeth NIGHTMARES So You Don't Have To..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:32:02.638Z",
+      "model": "ggml-small.en.bin"
+    },
+    "iSbVvOJt4W4": {
+      "id": "iSbVvOJt4W4",
+      "duration": 719,
+      "views": 37000,
+      "title": "They actually showed this on camera..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:35:10.011Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_VBzQ0Ic090": {
+      "id": "_VBzQ0Ic090",
+      "duration": 928,
+      "views": 3900,
+      "title": "I genuinely Cannot Explain This..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:39:32.772Z",
+      "model": "ggml-small.en.bin"
+    },
+    "4Btw9XT0cGc": {
+      "id": "4Btw9XT0cGc",
+      "duration": 878,
+      "views": 62000,
+      "title": "These people are in BIG trouble..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:44:22.846Z",
+      "model": "ggml-small.en.bin"
+    },
+    "-3DfCAGLtsQ": {
+      "id": "-3DfCAGLtsQ",
+      "duration": 882,
+      "views": 91000,
+      "title": "I've only seen this once in my career..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:47:55.738Z",
+      "model": "ggml-small.en.bin"
+    },
+    "f_-6kLDu_bE": {
+      "id": "f_-6kLDu_bE",
+      "duration": 1066,
+      "views": 65000,
+      "title": "She did it to herself..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T01:54:04.710Z",
+      "model": "ggml-small.en.bin"
+    },
+    "xUWbbTYW894": {
+      "id": "xUWbbTYW894",
+      "duration": 1264,
+      "views": 18000,
+      "title": "This could be happening to you..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:01:26.208Z",
+      "model": "ggml-small.en.bin"
+    },
+    "PEA7rPExjxk": {
+      "id": "PEA7rPExjxk",
+      "duration": 1018,
+      "views": 57000,
+      "title": "Everyone needs to see this..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:13:53.791Z",
+      "model": "ggml-small.en.bin"
+    },
+    "mWD5Kblov0o": {
+      "id": "mWD5Kblov0o",
+      "duration": 957,
+      "views": 23000,
+      "title": "Thank God we have Dentists..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:16:28.708Z",
+      "model": "ggml-small.en.bin"
+    },
+    "T0xd_Ku3X6w": {
+      "id": "T0xd_Ku3X6w",
+      "duration": 803,
+      "views": 14000,
+      "title": "This is A PROBLEM.",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:18:36.797Z",
+      "model": "ggml-small.en.bin"
+    },
+    "kA4Uhrn6eJE": {
+      "id": "kA4Uhrn6eJE",
+      "duration": 939,
+      "views": 29000,
+      "title": "It's not looking good..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:20:56.403Z",
+      "model": "ggml-small.en.bin"
+    },
+    "redokqnkHHI": {
+      "id": "redokqnkHHI",
+      "duration": 956,
+      "views": 19000,
+      "title": "This is genuinely insane..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:22:26.254Z",
+      "model": "ggml-small.en.bin"
+    },
+    "GFqZ9Ej2xKo": {
+      "id": "GFqZ9Ej2xKo",
+      "duration": 891,
+      "views": 264000,
+      "title": "He really popped this live on TikTok..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:24:01.997Z",
+      "model": "ggml-small.en.bin"
+    },
+    "LaG-mXDFucs": {
+      "id": "LaG-mXDFucs",
+      "duration": 878,
+      "views": 62000,
+      "title": "I'm a Dentist and have NEVER seen this..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:26:17.311Z",
+      "model": "ggml-small.en.bin"
+    },
+    "DY7ZtvZBgCw": {
+      "id": "DY7ZtvZBgCw",
+      "duration": 826,
+      "views": 42000,
+      "title": "Everyone was making fun of her..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:28:10.304Z",
+      "model": "ggml-small.en.bin"
+    },
+    "qOdP2mUvGT8": {
+      "id": "qOdP2mUvGT8",
+      "duration": 1081,
+      "views": 20000,
+      "title": "That's gonna HURT..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:29:44.463Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ZfzPdvD-sj0": {
+      "id": "ZfzPdvD-sj0",
+      "duration": 902,
+      "views": 28000,
+      "title": "I'm Scared to talk about this..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:31:15.025Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ZnlbB_WMAfI": {
+      "id": "ZnlbB_WMAfI",
+      "duration": 545,
+      "views": 12000,
+      "title": "He really did that..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:32:41.299Z",
+      "model": "ggml-small.en.bin"
+    },
+    "GuNmhHuF9LE": {
+      "id": "GuNmhHuF9LE",
+      "duration": 869,
+      "views": 20000,
+      "title": "This Teeth Situation is Insane",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:34:12.016Z",
+      "model": "ggml-small.en.bin"
+    },
+    "xIa4b50z9vQ": {
+      "id": "xIa4b50z9vQ",
+      "duration": 863,
+      "views": 17000,
+      "title": "We have a lot to talk about..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:36:06.001Z",
+      "model": "ggml-small.en.bin"
+    },
+    "irSK2gbcOm4": {
+      "id": "irSK2gbcOm4",
+      "duration": 1078,
+      "views": 17000,
+      "title": "I literally can't believe this is real..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:37:34.308Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Tr2K_faDjR8": {
+      "id": "Tr2K_faDjR8",
+      "duration": 902,
+      "views": 52000,
+      "title": "OH NO.. YOU WON'T BELIEVE THIS",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:39:05.103Z",
+      "model": "ggml-small.en.bin"
+    },
+    "UPO3-uXe1jI": {
+      "id": "UPO3-uXe1jI",
+      "duration": null,
+      "views": 5900,
+      "title": "Dentist Reacts To Teeth Cleaning Routine! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:39:31.305Z",
+      "model": "ggml-small.en.bin"
+    },
+    "GoqghBZzJTQ": {
+      "id": "GoqghBZzJTQ",
+      "duration": null,
+      "views": 14000,
+      "title": "How My Dental Journey Came Full Circle! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:39:50.731Z",
+      "model": "ggml-small.en.bin"
+    },
+    "TxvTLN6ou7o": {
+      "id": "TxvTLN6ou7o",
+      "duration": null,
+      "views": 30000,
+      "title": "Dentist Reacts To Homemade Grillz! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:40:15.849Z",
+      "model": "ggml-small.en.bin"
+    },
+    "igMW8mv1u9Q": {
+      "id": "igMW8mv1u9Q",
+      "duration": null,
+      "views": 31000,
+      "title": "Why A Single Tooth Is More Important Than You Think! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:40:33.777Z",
+      "model": "ggml-small.en.bin"
+    },
+    "AFgGYo9lkeQ": {
+      "id": "AFgGYo9lkeQ",
+      "duration": null,
+      "views": 23000,
+      "title": "The Embarrassing Truth About WISDOM TEETH! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:40:53.791Z",
+      "model": "ggml-small.en.bin"
+    },
+    "KHS7_cntRNI": {
+      "id": "KHS7_cntRNI",
+      "duration": null,
+      "views": 31000,
+      "title": "POV You Left Whitening Strips On For 3 HOURS! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:41:16.458Z",
+      "model": "ggml-small.en.bin"
+    },
+    "9lyAXVKEAnY": {
+      "id": "9lyAXVKEAnY",
+      "duration": null,
+      "views": 22000,
+      "title": "They really bout that life ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:41:32.678Z",
+      "model": "ggml-small.en.bin"
+    },
+    "N7SPTsKvumg": {
+      "id": "N7SPTsKvumg",
+      "duration": null,
+      "views": 29000,
+      "title": "Can Cavities Go Away On Their Own?! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:41:51.641Z",
+      "model": "ggml-small.en.bin"
+    },
+    "BiFKcj0_xE0": {
+      "id": "BiFKcj0_xE0",
+      "duration": null,
+      "views": 27000,
+      "title": "Grill Removal Looks TERRIFYING! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:42:10.357Z",
+      "model": "ggml-small.en.bin"
+    },
+    "yCGv54HMygs": {
+      "id": "yCGv54HMygs",
+      "duration": null,
+      "views": 21000,
+      "title": "How Your Body HEALS In Crazy Ways! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:42:32.917Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Ofmh0ZAEIyw": {
+      "id": "Ofmh0ZAEIyw",
+      "duration": null,
+      "views": 12000,
+      "title": "Is Fluoride ACTUALLY Bad For You?! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:42:52.202Z",
+      "model": "ggml-small.en.bin"
+    },
+    "kIQCttnZW4Q": {
+      "id": "kIQCttnZW4Q",
+      "duration": null,
+      "views": 29000,
+      "title": "Dentist Reveals Teeth Whitening MYTHS! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:43:10.345Z",
+      "model": "ggml-small.en.bin"
+    },
+    "zoOX-bB1WPU": {
+      "id": "zoOX-bB1WPU",
+      "duration": null,
+      "views": 16000,
+      "title": "How Dentists FIX Tooth Gaps Properly! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:43:28.895Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_XS7Jx6mTH0": {
+      "id": "_XS7Jx6mTH0",
+      "duration": null,
+      "views": 63000,
+      "title": "How Ancient Civilizations Modified Their TEETH! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:43:48.498Z",
+      "model": "ggml-small.en.bin"
+    },
+    "wIiirZVr82k": {
+      "id": "wIiirZVr82k",
+      "duration": null,
+      "views": 21000,
+      "title": "Does Mewing ACTUALLY Change Your Jawline?! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:44:09.203Z",
+      "model": "ggml-small.en.bin"
+    },
+    "MAmz3_cI-OI": {
+      "id": "MAmz3_cI-OI",
+      "duration": null,
+      "views": 115000,
+      "title": "How Braces Can Change Your LIFE! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:44:34.125Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_Y8IIXbfGA0": {
+      "id": "_Y8IIXbfGA0",
+      "duration": null,
+      "views": 24000,
+      "title": "Dentist Reveals What ACTUALLY Causes Cavities! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:44:58.316Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Z7XBKKK_DVM": {
+      "id": "Z7XBKKK_DVM",
+      "duration": null,
+      "views": 42000,
+      "title": "Why Does Her Tongue Look Like THIS?! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:45:18.578Z",
+      "model": "ggml-small.en.bin"
+    },
+    "JC2Qf7JsMok": {
+      "id": "JC2Qf7JsMok",
+      "duration": null,
+      "views": 26000,
+      "title": "Can Your Teeth Move BACK After Braces?!  ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:45:38.776Z",
+      "model": "ggml-small.en.bin"
+    },
+    "22C9EnOqJLY": {
+      "id": "22C9EnOqJLY",
+      "duration": null,
+      "views": 35000,
+      "title": "How Your Dentist Knows If You DID THR DEED! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:45:58.275Z",
+      "model": "ggml-small.en.bin"
+    },
+    "36dl8RI4DIg": {
+      "id": "36dl8RI4DIg",
+      "duration": null,
+      "views": 46000,
+      "title": "Dentist Reacts To Tooth RECONSTRUCTION! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:46:18.584Z",
+      "model": "ggml-small.en.bin"
+    },
+    "h76VdVFfVcc": {
+      "id": "h76VdVFfVcc",
+      "duration": null,
+      "views": 35000,
+      "title": "Why Your Teeth Are Naturally YELLOW! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:46:37.332Z",
+      "model": "ggml-small.en.bin"
+    },
+    "9KPYf7wWYTA": {
+      "id": "9KPYf7wWYTA",
+      "duration": null,
+      "views": 21000,
+      "title": "Why You Should ALWAYS Get A 2nd Opinion! ",
+      "format": "short",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "fK0l3nPyIog": {
+      "id": "fK0l3nPyIog",
+      "duration": null,
+      "views": 28000,
+      "title": "Dentist Reacts To The ART of Restorative Dentistry! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:47:08.545Z",
+      "model": "ggml-small.en.bin"
+    },
+    "iUpnPmpNdgE": {
+      "id": "iUpnPmpNdgE",
+      "duration": null,
+      "views": 41000,
+      "title": "Does This Dental Hack ACTUALLY Work? ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:47:30.473Z",
+      "model": "ggml-small.en.bin"
+    },
+    "k7Ut7KFwVVI": {
+      "id": "k7Ut7KFwVVI",
+      "duration": null,
+      "views": 82000,
+      "title": "Dentist Reveals What This Blue Liquid REALLY Is! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:47:51.797Z",
+      "model": "ggml-small.en.bin"
+    },
+    "k70DmvtdLM8": {
+      "id": "k70DmvtdLM8",
+      "duration": null,
+      "views": 117000,
+      "title": "How These Can RUIN Your Teeth! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:48:24.758Z",
+      "model": "ggml-small.en.bin"
+    },
+    "A-2xoBSKn-Y": {
+      "id": "A-2xoBSKn-Y",
+      "duration": null,
+      "views": 33000,
+      "title": "Dentist Reacts To Tooth Restoration! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:48:54.632Z",
+      "model": "ggml-small.en.bin"
+    },
+    "xaQhdP__Lag": {
+      "id": "xaQhdP__Lag",
+      "duration": null,
+      "views": 1100000,
+      "title": "This Seems Like A Waste Of A ToothBrush! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:49:14.652Z",
+      "model": "ggml-small.en.bin"
+    },
+    "384A2d8QkHk": {
+      "id": "384A2d8QkHk",
+      "duration": null,
+      "views": 86000,
+      "title": "What Happens When A Root Canal FAILS! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:49:36.148Z",
+      "model": "ggml-small.en.bin"
+    },
+    "DB_h6av8q-8": {
+      "id": "DB_h6av8q-8",
+      "duration": null,
+      "views": 110000,
+      "title": "Dentist Unravels Yellow Teeth Mystery! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:50:10.284Z",
+      "model": "ggml-small.en.bin"
+    },
+    "E4XrIVi8sXU": {
+      "id": "E4XrIVi8sXU",
+      "duration": null,
+      "views": 20000,
+      "title": "How Oral Science Is Changing EVERYTHING! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:50:30.918Z",
+      "model": "ggml-small.en.bin"
+    },
+    "yHbwPdWlos0": {
+      "id": "yHbwPdWlos0",
+      "duration": null,
+      "views": 23000,
+      "title": "The Misinformation About REGROWING Teeth! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:50:51.512Z",
+      "model": "ggml-small.en.bin"
+    },
+    "aoBD6tuhbEM": {
+      "id": "aoBD6tuhbEM",
+      "duration": null,
+      "views": 19000,
+      "title": "You Will Not Believe This Smile Transformation! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:51:12.230Z",
+      "model": "ggml-small.en.bin"
+    },
+    "N4FgSFFqYK8": {
+      "id": "N4FgSFFqYK8",
+      "duration": null,
+      "views": 17000,
+      "title": "Dentist Does VR Smile Transformation! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:51:33.580Z",
+      "model": "ggml-small.en.bin"
+    },
+    "KNPMOqEO96g": {
+      "id": "KNPMOqEO96g",
+      "duration": null,
+      "views": 21000,
+      "title": "Real Dentist Tries Tooth Gems In VR! ",
+      "format": "short",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "5cGb6f3QF2g": {
+      "id": "5cGb6f3QF2g",
+      "duration": null,
+      "views": 68000,
+      "title": "Can Your Teeth Now GROW BACK?! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:52:08.364Z",
+      "model": "ggml-small.en.bin"
+    },
+    "3Nixl19AQAM": {
+      "id": "3Nixl19AQAM",
+      "duration": null,
+      "views": 36000,
+      "title": "The Truth Between Crowns vs Veneers! ",
+      "format": "short",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "I38wZsHiOCc": {
+      "id": "I38wZsHiOCc",
+      "duration": null,
+      "views": 21000,
+      "title": "Real Dentist Repairing Teeth In VR! ",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:52:45.394Z",
+      "model": "ggml-small.en.bin"
+    },
+    "KKKgZY5DvUQ": {
+      "id": "KKKgZY5DvUQ",
+      "duration": null,
+      "views": 21000,
+      "title": "Real Dentist vs VR Dentist!",
+      "format": "short",
+      "transcribed_at": "2026-09-28T02:53:02.507Z",
+      "model": "ggml-small.en.bin"
+    },
+    "u688teOCgG0": {
+      "id": "u688teOCgG0",
+      "views": 1500000,
+      "duration": 732,
+      "title": "How Braces Are Put On - Watch Before You Get Braces!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:03:25.418Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Vjp2vPx_1kY": {
+      "id": "Vjp2vPx_1kY",
+      "views": 1100000,
+      "duration": 620,
+      "title": "BRACES VS INVISALIGN � Which Is Best?!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:04:04.637Z",
+      "model": "ggml-small.en.bin"
+    },
+    "h9iJ-CCb9rE": {
+      "id": "h9iJ-CCb9rE",
+      "views": 1000000,
+      "duration": 487,
+      "title": "Orthodontist Debunks Top Dental/Braces Myths",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:04:36.987Z",
+      "model": "ggml-small.en.bin"
+    },
+    "D4mvh3QRaSE": {
+      "id": "D4mvh3QRaSE",
+      "views": 896000,
+      "duration": 635,
+      "title": "People Who Instantly Got What They Deserved",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:05:20.504Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ZdoBlIBq0-4": {
+      "id": "ZdoBlIBq0-4",
+      "views": 715000,
+      "duration": 732,
+      "title": "Real Orthodontist Explains HOW BRACES WORK",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:06:08.179Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Z80ZTz58wcY": {
+      "id": "Z80ZTz58wcY",
+      "views": 587000,
+      "duration": 1048,
+      "title": "How This Man Reversed His ROTTING Teeth!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:07:06.848Z",
+      "model": "ggml-small.en.bin"
+    },
+    "O0ixiWrq2Kg": {
+      "id": "O0ixiWrq2Kg",
+      "views": 577000,
+      "duration": 484,
+      "title": "Orthodontist Busts DUMBEST Dental Myths",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:07:39.986Z",
+      "model": "ggml-small.en.bin"
+    },
+    "zE7oU2_jSAo": {
+      "id": "zE7oU2_jSAo",
+      "views": 491000,
+      "duration": 312,
+      "title": "She THOUGHT She Got Veneers, What She Really Got Was WAY Worse!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:08:08.059Z",
+      "model": "ggml-small.en.bin"
+    },
+    "7rATe7eYPZw": {
+      "id": "7rATe7eYPZw",
+      "views": 486000,
+      "duration": 469,
+      "title": "Orthodontist Debunks Top Dental/Braces Myths Pt.2",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:08:41.699Z",
+      "model": "ggml-small.en.bin"
+    },
+    "QvZ2ThobbFA": {
+      "id": "QvZ2ThobbFA",
+      "views": 245000,
+      "duration": 599,
+      "title": "Why BRACES Cost So Much... The TRUTH",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:09:19.053Z",
+      "model": "ggml-small.en.bin"
+    },
+    "RTvK4CzCTko": {
+      "id": "RTvK4CzCTko",
+      "views": 183000,
+      "duration": 585,
+      "title": "Why You Have Bleeding Gums",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:09:59.012Z",
+      "model": "ggml-small.en.bin"
+    },
+    "UAU2gv0XwAA": {
+      "id": "UAU2gv0XwAA",
+      "views": 148000,
+      "duration": 558,
+      "title": "Doctor VS Dentist Challenge! Who�s SMARTER?!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:10:32.500Z",
+      "model": "ggml-small.en.bin"
+    },
+    "U7EbLuX29d4": {
+      "id": "U7EbLuX29d4",
+      "views": 120000,
+      "duration": 684,
+      "title": "Dentist Explains Why YOU Should Get Braces!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:11:18.863Z",
+      "model": "ggml-small.en.bin"
+    },
+    "nCbdBrXhh_k": {
+      "id": "nCbdBrXhh_k",
+      "views": 114000,
+      "duration": 601,
+      "title": "Which Drinks Are ACTUALLY Good For Your Teeth?",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:11:55.758Z",
+      "model": "ggml-small.en.bin"
+    },
+    "zTLOiRk8kzY": {
+      "id": "zTLOiRk8kzY",
+      "views": 114000,
+      "duration": 491,
+      "title": "Why Charcoal Toothpaste Is TERRIBLE For You",
+      "format": "long",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "_cZnkmF93EQ": {
+      "id": "_cZnkmF93EQ",
+      "views": 91000,
+      "duration": 483,
+      "title": "These Teeth CHANGE COLORS?!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:12:44.120Z",
+      "model": "ggml-small.en.bin"
+    },
+    "yOrczeZLCL0": {
+      "id": "yOrczeZLCL0",
+      "views": 85000,
+      "duration": 732,
+      "title": "This Company Discovered How to REGROW Your Teeth!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:13:29.100Z",
+      "model": "ggml-small.en.bin"
+    },
+    "gs7cBK9qvUQ": {
+      "id": "gs7cBK9qvUQ",
+      "views": 71000,
+      "duration": 664,
+      "title": "Brushing Your Teeth IS BAD For You!?",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:14:11.516Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_HHPA8N5d7w": {
+      "id": "_HHPA8N5d7w",
+      "views": 56000,
+      "duration": 1051,
+      "title": "This is genuinely bad..",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:15:15.507Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Z5fNmtRxq8k": {
+      "id": "Z5fNmtRxq8k",
+      "views": 54000,
+      "duration": 477,
+      "title": "Why Cavemen Had Straighter Teeth Than Humans!",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:15:50.487Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Mt6sQcBgcU0": {
+      "id": "Mt6sQcBgcU0",
+      "views": 45000,
+      "duration": 1427,
+      "title": "Why is no one talking about this??",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:17:03.945Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_crt0OUrBVo": {
+      "id": "_crt0OUrBVo",
+      "views": 29000,
+      "duration": 1249,
+      "title": "How to Care for Your Baby's Teeth...",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:18:14.189Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ZslF83s6QZ8": {
+      "id": "ZslF83s6QZ8",
+      "views": 21000,
+      "duration": 914,
+      "title": "Are Sugar-Free Products Better for Your Teeth!?",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:19:06.266Z",
+      "model": "ggml-small.en.bin"
+    },
+    "TIHLjYtFTYg": {
+      "id": "TIHLjYtFTYg",
+      "views": 14000,
+      "duration": 1213,
+      "title": "What Your Teeth Are Secretly Telling You",
+      "format": "long",
+      "transcribed_at": "2026-09-28T23:20:08.264Z",
+      "model": "ggml-small.en.bin"
+    }
+  },
+  "listed_at": "2026-09-28T23:02:44.535Z"
+}

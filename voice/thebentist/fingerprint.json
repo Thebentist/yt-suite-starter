@@ -1,0 +1,1488 @@
+{
+  "channel": "thebentist",
+  "built_at": "2026-09-28T23:20:13.945Z",
+  "transcripts": 79,
+  "long": 53,
+  "shorts": 9,
+  "unpunctuated": [
+    "22C9EnOqJLY",
+    "9lyAXVKEAnY",
+    "aoBD6tuhbEM",
+    "f_-6kLDu_bE",
+    "h9iJ-CCb9rE",
+    "irSK2gbcOm4",
+    "JGCAtg57pJg",
+    "qOdP2mUvGT8",
+    "QvZ2ThobbFA",
+    "redokqnkHHI",
+    "TIHLjYtFTYg",
+    "u688teOCgG0",
+    "UAU2gv0XwAA",
+    "Vjp2vPx_1kY",
+    "XlZ8Socu9U0",
+    "xUWbbTYW894",
+    "_XS7Jx6mTH0"
+  ],
+  "duplicates": [
+    {
+      "vid": "36dl8RI4DIg",
+      "of": "PrEgcm82LRI",
+      "share": 0.74
+    },
+    {
+      "vid": "384A2d8QkHk",
+      "of": "PrEgcm82LRI",
+      "share": 0.83
+    },
+    {
+      "vid": "5cGb6f3QF2g",
+      "of": "NGOf5DmEFvA",
+      "share": 0.85
+    },
+    {
+      "vid": "A-2xoBSKn-Y",
+      "of": "PrEgcm82LRI",
+      "share": 0.92
+    },
+    {
+      "vid": "DB_h6av8q-8",
+      "of": "4Btw9XT0cGc",
+      "share": 0.95
+    },
+    {
+      "vid": "E4XrIVi8sXU",
+      "of": "NGOf5DmEFvA",
+      "share": 0.94
+    },
+    {
+      "vid": "fK0l3nPyIog",
+      "of": "PrEgcm82LRI",
+      "share": 0.86
+    },
+    {
+      "vid": "GoqghBZzJTQ",
+      "of": "3glVMZtfYOU",
+      "share": 0.88
+    },
+    {
+      "vid": "h76VdVFfVcc",
+      "of": "PrEgcm82LRI",
+      "share": 0.82
+    },
+    {
+      "vid": "iUpnPmpNdgE",
+      "of": "4Btw9XT0cGc",
+      "share": 0.79
+    },
+    {
+      "vid": "JC2Qf7JsMok",
+      "of": "RVXQmWSSfAo",
+      "share": 0.68
+    },
+    {
+      "vid": "k70DmvtdLM8",
+      "of": "4Btw9XT0cGc",
+      "share": 0.85
+    },
+    {
+      "vid": "k7Ut7KFwVVI",
+      "of": "PrEgcm82LRI",
+      "share": 0.87
+    },
+    {
+      "vid": "KHS7_cntRNI",
+      "of": "iSbVvOJt4W4",
+      "share": 0.9
+    },
+    {
+      "vid": "N7SPTsKvumg",
+      "of": "RVXQmWSSfAo",
+      "share": 0.74
+    },
+    {
+      "vid": "Ofmh0ZAEIyw",
+      "of": "RVXQmWSSfAo",
+      "share": 0.8
+    },
+    {
+      "vid": "TxvTLN6ou7o",
+      "of": "p_rJ_7w4ME0",
+      "share": 0.95
+    },
+    {
+      "vid": "UPO3-uXe1jI",
+      "of": "p_rJ_7w4ME0",
+      "share": 0.92
+    },
+    {
+      "vid": "wIiirZVr82k",
+      "of": "RVXQmWSSfAo",
+      "share": 0.71
+    },
+    {
+      "vid": "xaQhdP__Lag",
+      "of": "4Btw9XT0cGc",
+      "share": 0.87
+    },
+    {
+      "vid": "yCGv54HMygs",
+      "of": "p_rJ_7w4ME0",
+      "share": 0.88
+    },
+    {
+      "vid": "yHbwPdWlos0",
+      "of": "NGOf5DmEFvA",
+      "share": 0.95
+    },
+    {
+      "vid": "zoOX-bB1WPU",
+      "of": "RVXQmWSSfAo",
+      "share": 0.71
+    },
+    {
+      "vid": "_Y8IIXbfGA0",
+      "of": "RVXQmWSSfAo",
+      "share": 0.79
+    }
+  ],
+  "words": 170290,
+  "wpm": {
+    "median": 229.5,
+    "p25": 209.1,
+    "p75": 242.6
+  },
+  "all": {
+    "words": 170290,
+    "sentences": 12128,
+    "sentence_len": {
+      "mean": 14,
+      "median": 10,
+      "p10": 3,
+      "p90": 27
+    },
+    "fragment_share": 18.4,
+    "long_share": 12.3,
+    "question_share": 8.7,
+    "exclaim_share": 0.2,
+    "comma_per_sentence": 0.8,
+    "you_per_1k": 43.1,
+    "i_per_1k": 28.4,
+    "we_per_1k": 10.5,
+    "contraction_ratio": 78.2,
+    "markers": {
+      "you know": 5.3,
+      "kind of": 2.4,
+      "sort of": 0,
+      "actually": 5.9,
+      "basically": 1.3,
+      "honestly": 0.2,
+      "literally": 0.5,
+      "like": 11.5,
+      "i mean": 1.2,
+      "right": 3.5,
+      "okay": 3,
+      "ok": 0.2,
+      "you guys": 1.8,
+      "guys": 2,
+      "obviously": 1,
+      "pretty": 1.3,
+      "super": 0.6,
+      "really": 4.7,
+      "probably": 2.1,
+      "maybe": 1.5,
+      "i think": 0.9,
+      "i guess": 0.3,
+      "i feel like": 0.1,
+      "crazy": 1.7,
+      "insane": 0.2,
+      "wild": 0.2,
+      "gonna": 1.9,
+      "wanna": 0.1,
+      "gotta": 0.2,
+      "let's": 1.4,
+      "dude": 0.4,
+      "folks": 0,
+      "so": 11.7,
+      "now": 4.3,
+      "well": 2.3,
+      "anyway": 0,
+      "yeah": 2.5,
+      "oh my gosh": 1.1,
+      "guess what": 0.2,
+      "what if i told you": 0.1,
+      "fun fact": 0.3,
+      "let me explain": 0,
+      "you see": 0.7,
+      "i'm not gonna lie": 0.3,
+      "i'm not going to lie": 0.2,
+      "which is": 0.9,
+      "and so": 1.2,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0.1,
+      "for sure": 0.2,
+      "definitely": 0.7
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.312,
+        "M": 0.366,
+        "L": 0.199,
+        "X": 0.123
+      },
+      "next": {
+        "S": {
+          "S": 0.42,
+          "M": 0.341,
+          "L": 0.158,
+          "X": 0.081
+        },
+        "M": {
+          "S": 0.293,
+          "M": 0.4,
+          "L": 0.198,
+          "X": 0.109
+        },
+        "L": {
+          "S": 0.246,
+          "M": 0.365,
+          "L": 0.24,
+          "X": 0.149
+        },
+        "X": {
+          "S": 0.202,
+          "M": 0.329,
+          "L": 0.239,
+          "X": 0.23
+        }
+      },
+      "cv": 2.964,
+      "drop": 0.229
+    },
+    "openers": {
+      "and": 12.1,
+      "so": 8.6,
+      "i": 6.7,
+      "you": 5.2,
+      "but": 3.8,
+      "oh": 3.4,
+      "it's": 3.3,
+      "now": 2.8,
+      "that's": 2.8,
+      "okay": 2.5,
+      "it": 2,
+      "we": 1.7,
+      "yeah": 1.6,
+      "i'm": 1.6,
+      "this": 1.6,
+      "all": 1.6,
+      "the": 1.4,
+      "how": 1.3,
+      "that": 1.3,
+      "if": 1.2,
+      "they": 1.1,
+      "what": 1,
+      "well": 0.9,
+      "let's": 0.8,
+      "she": 0.7,
+      "they're": 0.7,
+      "no": 0.7,
+      "you're": 0.6,
+      "he": 0.6,
+      "he's": 0.6
+    }
+  },
+  "by_format": {
+    "long": {
+      "words": 168074,
+      "sentences": 11960,
+      "sentence_len": {
+        "mean": 14.1,
+        "median": 10,
+        "p10": 3,
+        "p90": 27
+      },
+      "fragment_share": 18.4,
+      "long_share": 12.3,
+      "question_share": 8.7,
+      "exclaim_share": 0.2,
+      "comma_per_sentence": 0.8,
+      "you_per_1k": 43.3,
+      "i_per_1k": 28.3,
+      "we_per_1k": 10.4,
+      "contraction_ratio": 78.2,
+      "markers": {
+        "you know": 5.3,
+        "kind of": 2.5,
+        "sort of": 0,
+        "actually": 6,
+        "basically": 1.3,
+        "honestly": 0.2,
+        "literally": 0.5,
+        "like": 11.6,
+        "i mean": 1.2,
+        "right": 3.5,
+        "okay": 3,
+        "ok": 0.2,
+        "you guys": 1.8,
+        "guys": 2,
+        "obviously": 1,
+        "pretty": 1.3,
+        "super": 0.6,
+        "really": 4.8,
+        "probably": 2.1,
+        "maybe": 1.4,
+        "i think": 0.9,
+        "i guess": 0.3,
+        "i feel like": 0.1,
+        "crazy": 1.7,
+        "insane": 0.2,
+        "wild": 0.2,
+        "gonna": 1.9,
+        "wanna": 0.1,
+        "gotta": 0.2,
+        "let's": 1.4,
+        "dude": 0.4,
+        "folks": 0,
+        "so": 11.8,
+        "now": 4.2,
+        "well": 2.3,
+        "anyway": 0,
+        "yeah": 2.5,
+        "oh my gosh": 1.1,
+        "guess what": 0.2,
+        "what if i told you": 0.1,
+        "fun fact": 0.3,
+        "let me explain": 0,
+        "you see": 0.7,
+        "i'm not gonna lie": 0.2,
+        "i'm not going to lie": 0.2,
+        "which is": 0.9,
+        "and so": 1.2,
+        "all these different things": 0,
+        "at the end of the day": 0,
+        "to be honest": 0.1,
+        "for sure": 0.2,
+        "definitely": 0.7
+      },
+      "cadence": {
+        "dist": {
+          "S": 0.311,
+          "M": 0.367,
+          "L": 0.199,
+          "X": 0.123
+        },
+        "next": {
+          "S": {
+            "S": 0.42,
+            "M": 0.341,
+            "L": 0.157,
+            "X": 0.082
+          },
+          "M": {
+            "S": 0.292,
+            "M": 0.401,
+            "L": 0.197,
+            "X": 0.11
+          },
+          "L": {
+            "S": 0.245,
+            "M": 0.367,
+            "L": 0.24,
+            "X": 0.147
+          },
+          "X": {
+            "S": 0.2,
+            "M": 0.331,
+            "L": 0.239,
+            "X": 0.229
+          }
+        },
+        "cv": 2.98,
+        "drop": 0.228
+      },
+      "openers": {
+        "and": 12.1,
+        "so": 8.6,
+        "i": 6.7,
+        "you": 5.2,
+        "but": 3.9,
+        "oh": 3.3,
+        "it's": 3.3,
+        "now": 2.8,
+        "that's": 2.8,
+        "okay": 2.5,
+        "it": 2,
+        "we": 1.7,
+        "yeah": 1.6,
+        "i'm": 1.6,
+        "this": 1.6,
+        "all": 1.5,
+        "the": 1.4,
+        "how": 1.3,
+        "that": 1.3,
+        "if": 1.2,
+        "they": 1.1,
+        "what": 1,
+        "well": 0.9,
+        "let's": 0.8,
+        "she": 0.7,
+        "they're": 0.7,
+        "no": 0.7,
+        "he": 0.6,
+        "you're": 0.6,
+        "yes": 0.6
+      }
+    },
+    "short": {
+      "words": 2216,
+      "sentences": 167,
+      "sentence_len": {
+        "mean": 13.3,
+        "median": 9,
+        "p10": 4,
+        "p90": 29
+      },
+      "fragment_share": 19.8,
+      "long_share": 13.2,
+      "question_share": 9.6,
+      "exclaim_share": 0.6,
+      "comma_per_sentence": 0.8,
+      "you_per_1k": 28,
+      "i_per_1k": 39.3,
+      "we_per_1k": 16.7,
+      "contraction_ratio": 81.3,
+      "markers": {
+        "you know": 2.3,
+        "kind of": 0.9,
+        "sort of": 0,
+        "actually": 5,
+        "basically": 1.4,
+        "honestly": 0,
+        "literally": 1.4,
+        "like": 8.1,
+        "i mean": 0.9,
+        "right": 3.2,
+        "okay": 6.8,
+        "ok": 0,
+        "you guys": 1.4,
+        "guys": 1.8,
+        "obviously": 0.9,
+        "pretty": 0,
+        "super": 0.5,
+        "really": 2.3,
+        "probably": 1.4,
+        "maybe": 2.3,
+        "i think": 0.5,
+        "i guess": 0,
+        "i feel like": 0.9,
+        "crazy": 1.8,
+        "insane": 0.5,
+        "wild": 0,
+        "gonna": 6.3,
+        "wanna": 0,
+        "gotta": 0,
+        "let's": 3.6,
+        "dude": 0.9,
+        "folks": 0,
+        "so": 10.4,
+        "now": 5.9,
+        "well": 0,
+        "anyway": 0,
+        "yeah": 1.8,
+        "oh my gosh": 0.5,
+        "guess what": 0,
+        "what if i told you": 0.5,
+        "fun fact": 0,
+        "let me explain": 0,
+        "you see": 0,
+        "i'm not gonna lie": 1.4,
+        "i'm not going to lie": 0.5,
+        "which is": 0.5,
+        "and so": 1.4,
+        "all these different things": 0,
+        "at the end of the day": 0,
+        "to be honest": 0,
+        "for sure": 0.5,
+        "definitely": 0.5
+      },
+      "cadence": {
+        "dist": {
+          "S": 0.353,
+          "M": 0.317,
+          "L": 0.198,
+          "X": 0.132
+        },
+        "next": {
+          "S": {
+            "S": 0.441,
+            "M": 0.373,
+            "L": 0.136,
+            "X": 0.051
+          },
+          "M": {
+            "S": 0.358,
+            "M": 0.321,
+            "L": 0.245,
+            "X": 0.075
+          },
+          "L": {
+            "S": 0.281,
+            "M": 0.281,
+            "L": 0.188,
+            "X": 0.25
+          },
+          "X": {
+            "S": 0.227,
+            "M": 0.227,
+            "L": 0.227,
+            "X": 0.318
+          }
+        },
+        "cv": 0.869,
+        "drop": 0.259
+      },
+      "openers": {
+        "and": 12,
+        "i": 6,
+        "okay": 6,
+        "so": 5.4,
+        "we": 5.4,
+        "oh": 4.8,
+        "now": 4.8,
+        "that's": 4.2,
+        "let's": 3.6,
+        "you": 2.4,
+        "i'm": 2.4,
+        "but": 2.4,
+        "this": 2.4,
+        "a": 2.4,
+        "one": 1.8,
+        "all": 1.8,
+        "it": 1.8,
+        "it's": 1.8,
+        "yeah": 1.8,
+        "you're": 1.8,
+        "because": 1.2,
+        "another": 1.2,
+        "the": 1.2,
+        "we're": 1.2,
+        "are": 1.2,
+        "he's": 1.2,
+        "honey": 0.6,
+        "lots": 0.6,
+        "for": 0.6,
+        "fuck": 0.6
+      }
+    }
+  },
+  "reference": {
+    "docs": 133,
+    "words": 322756,
+    "sentences": 20866,
+    "sentence_len": {
+      "mean": 15.4,
+      "median": 13,
+      "p10": 4,
+      "p90": 28
+    },
+    "fragment_share": 12.3,
+    "long_share": 15.4,
+    "question_share": 6.6,
+    "exclaim_share": 1.2,
+    "comma_per_sentence": 0.7,
+    "you_per_1k": 31.4,
+    "i_per_1k": 18.5,
+    "we_per_1k": 10.2,
+    "contraction_ratio": 77.2,
+    "markers": {
+      "you know": 0.6,
+      "kind of": 1,
+      "sort of": 0.1,
+      "actually": 2,
+      "basically": 0.3,
+      "honestly": 0,
+      "literally": 0.3,
+      "like": 5.4,
+      "i mean": 0.2,
+      "right": 3.3,
+      "okay": 1,
+      "ok": 0.1,
+      "you guys": 0.2,
+      "guys": 0.5,
+      "obviously": 0.2,
+      "pretty": 0.5,
+      "super": 0.6,
+      "really": 2.8,
+      "probably": 0.5,
+      "maybe": 0.5,
+      "i think": 0.5,
+      "i guess": 0,
+      "i feel like": 0,
+      "crazy": 0.2,
+      "insane": 0.1,
+      "wild": 0.1,
+      "gonna": 0.6,
+      "wanna": 0.2,
+      "gotta": 0,
+      "let's": 0.9,
+      "dude": 0,
+      "folks": 0,
+      "so": 8.7,
+      "now": 5.9,
+      "well": 1.5,
+      "anyway": 0,
+      "yeah": 0.3,
+      "oh my gosh": 0,
+      "guess what": 0,
+      "what if i told you": 0,
+      "fun fact": 0,
+      "let me explain": 0,
+      "you see": 0.3,
+      "i'm not gonna lie": 0,
+      "i'm not going to lie": 0,
+      "which is": 0.6,
+      "and so": 0.5,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0,
+      "for sure": 0,
+      "definitely": 0.1
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.223,
+        "M": 0.356,
+        "L": 0.268,
+        "X": 0.154
+      },
+      "next": {
+        "S": {
+          "S": 0.33,
+          "M": 0.35,
+          "L": 0.216,
+          "X": 0.104
+        },
+        "M": {
+          "S": 0.215,
+          "M": 0.372,
+          "L": 0.271,
+          "X": 0.141
+        },
+        "L": {
+          "S": 0.176,
+          "M": 0.356,
+          "L": 0.284,
+          "X": 0.184
+        },
+        "X": {
+          "S": 0.166,
+          "M": 0.327,
+          "L": 0.307,
+          "X": 0.2
+        }
+      },
+      "cv": 3.567,
+      "drop": 0.172
+    },
+    "openers": {
+      "and": 11,
+      "so": 7.9,
+      "now": 6,
+      "the": 4.7,
+      "but": 3.6,
+      "this": 3.6,
+      "if": 3.6,
+      "it's": 3.5,
+      "i": 3.4,
+      "you": 3.1,
+      "all": 2.1,
+      "it": 1.9,
+      "that's": 1.7,
+      "we": 1.4,
+      "i'm": 1.2,
+      "that": 1.2,
+      "they": 1.1,
+      "okay": 1,
+      "when": 1,
+      "what": 1,
+      "there": 0.9,
+      "well": 0.8,
+      "in": 0.8,
+      "for": 0.8,
+      "a": 0.7,
+      "as": 0.5,
+      "there's": 0.5,
+      "i've": 0.5,
+      "we're": 0.5,
+      "let's": 0.5
+    }
+  },
+  "signature_phrases": [
+    {
+      "phrase": "oh my gosh",
+      "df": 62,
+      "ref_df": 0.8,
+      "lift": 36,
+      "score": 3.8490885224851716
+    },
+    {
+      "phrase": "and stuff",
+      "df": 69.6,
+      "ref_df": 0.8,
+      "lift": 40.3,
+      "score": 3.6396221857560027
+    },
+    {
+      "phrase": "your teeth and",
+      "df": 49.4,
+      "ref_df": 0,
+      "lift": 50.4,
+      "score": 3.3512810953616787
+    },
+    {
+      "phrase": "let's go ahead and",
+      "df": 43,
+      "ref_df": 0,
+      "lift": 44,
+      "score": 3.2580197207920834
+    },
+    {
+      "phrase": "i'm not gonna lie",
+      "df": 41.8,
+      "ref_df": 0,
+      "lift": 42.8,
+      "score": 3.13782984126987
+    },
+    {
+      "phrase": "what's up everybody",
+      "df": 45.6,
+      "ref_df": 0,
+      "lift": 46.6,
+      "score": 3.0316182300542773
+    },
+    {
+      "phrase": "of your teeth",
+      "df": 43,
+      "ref_df": 0,
+      "lift": 44,
+      "score": 2.821527844236628
+    },
+    {
+      "phrase": "go ahead and get",
+      "df": 36.7,
+      "ref_df": 0,
+      "lift": 37.7,
+      "score": 2.664986276130166
+    },
+    {
+      "phrase": "on your teeth",
+      "df": 40.5,
+      "ref_df": 0,
+      "lift": 41.5,
+      "score": 2.614016989243738
+    },
+    {
+      "phrase": "take care of",
+      "df": 40.5,
+      "ref_df": 0,
+      "lift": 41.5,
+      "score": 2.614016989243738
+    },
+    {
+      "phrase": "in your mouth",
+      "df": 44.3,
+      "ref_df": 0.8,
+      "lift": 25.9,
+      "score": 2.4960069758574255
+    },
+    {
+      "phrase": "or something like that",
+      "df": 36.7,
+      "ref_df": 0.8,
+      "lift": 21.5,
+      "score": 2.2533409486624585
+    },
+    {
+      "phrase": "more than likely",
+      "df": 35.4,
+      "ref_df": 0,
+      "lift": 36.4,
+      "score": 2.207400362098137
+    },
+    {
+      "phrase": "what's up everybody i'm",
+      "df": 31.6,
+      "ref_df": 0,
+      "lift": 32.6,
+      "score": 2.206145033806534
+    },
+    {
+      "phrase": "you know i",
+      "df": 49.4,
+      "ref_df": 3,
+      "lift": 12.6,
+      "score": 2.1643062484863185
+    },
+    {
+      "phrase": "we got",
+      "df": 73.4,
+      "ref_df": 8.3,
+      "lift": 8,
+      "score": 2.162575788718324
+    },
+    {
+      "phrase": "you guys tagged me",
+      "df": 30.4,
+      "ref_df": 0,
+      "lift": 31.4,
+      "score": 2.0938709951806596
+    },
+    {
+      "phrase": "see you next week",
+      "df": 30.4,
+      "ref_df": 0,
+      "lift": 31.4,
+      "score": 2.0938709951806596
+    },
+    {
+      "phrase": "what we call",
+      "df": 46.8,
+      "ref_df": 3,
+      "lift": 11.9,
+      "score": 2.011480997455734
+    },
+    {
+      "phrase": "your teeth are",
+      "df": 32.9,
+      "ref_df": 0,
+      "lift": 33.9,
+      "score": 2.0086862109471273
+    },
+    {
+      "phrase": "of the tooth",
+      "df": 32.9,
+      "ref_df": 0,
+      "lift": 33.9,
+      "score": 2.0086862109471273
+    },
+    {
+      "phrase": "to get rid of",
+      "df": 29.1,
+      "ref_df": 0,
+      "lift": 30.1,
+      "score": 1.9826510412715577
+    },
+    {
+      "phrase": "let's go ahead and get",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.971720675943949
+    },
+    {
+      "phrase": "i'll see you",
+      "df": 40.5,
+      "ref_df": 1.5,
+      "lift": 16.6,
+      "score": 1.9701021605184745
+    },
+    {
+      "phrase": "on there",
+      "df": 60.8,
+      "ref_df": 5.3,
+      "lift": 9.9,
+      "score": 1.9664914064563632
+    },
+    {
+      "phrase": "can cause",
+      "df": 43,
+      "ref_df": 0.8,
+      "lift": 25.1,
+      "score": 1.9625049107471055
+    },
+    {
+      "phrase": "and you know",
+      "df": 51.9,
+      "ref_df": 5.3,
+      "lift": 8.4,
+      "score": 1.9180048946729207
+    },
+    {
+      "phrase": "things like that",
+      "df": 49.4,
+      "ref_df": 4.5,
+      "lift": 9.1,
+      "score": 1.891862399575463
+    },
+    {
+      "phrase": "that being said",
+      "df": 35.4,
+      "ref_df": 0.8,
+      "lift": 20.8,
+      "score": 1.8631979929183586
+    },
+    {
+      "phrase": "so let's go ahead and",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.8512346980191905
+    },
+    {
+      "phrase": "all that type of stuff",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.8512346980191905
+    },
+    {
+      "phrase": "go ahead and",
+      "df": 60.8,
+      "ref_df": 9.8,
+      "lift": 5.7,
+      "score": 1.8375398836576078
+    },
+    {
+      "phrase": "a lot of people",
+      "df": 58.2,
+      "ref_df": 11.3,
+      "lift": 4.8,
+      "score": 1.8325082579220822
+    },
+    {
+      "phrase": "try and",
+      "df": 50.6,
+      "ref_df": 3,
+      "lift": 12.9,
+      "score": 1.830233654576756
+    },
+    {
+      "phrase": "let's see",
+      "df": 53.2,
+      "ref_df": 3.8,
+      "lift": 11.4,
+      "score": 1.828453358495255
+    },
+    {
+      "phrase": "first off",
+      "df": 44.3,
+      "ref_df": 1.5,
+      "lift": 18.1,
+      "score": 1.8142375161687503
+    },
+    {
+      "phrase": "of your mouth",
+      "df": 30.4,
+      "ref_df": 0,
+      "lift": 31.4,
+      "score": 1.813345474073855
+    },
+    {
+      "phrase": "we got a",
+      "df": 30.4,
+      "ref_df": 0,
+      "lift": 31.4,
+      "score": 1.813345474073855
+    },
+    {
+      "phrase": "the teeth and",
+      "df": 30.4,
+      "ref_df": 0,
+      "lift": 31.4,
+      "score": 1.813345474073855
+    },
+    {
+      "phrase": "i don't know",
+      "df": 69.6,
+      "ref_df": 15,
+      "lift": 4.4,
+      "score": 1.7875416852919999
+    },
+    {
+      "phrase": "stuff like that",
+      "df": 40.5,
+      "ref_df": 2.3,
+      "lift": 12.7,
+      "score": 1.7858679148152539
+    },
+    {
+      "phrase": "what we call a",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.7635605856210015
+    },
+    {
+      "phrase": "and things like that",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.7635605856210015
+    },
+    {
+      "phrase": "you know what i'm",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.7635605856210015
+    },
+    {
+      "phrase": "what do we got here",
+      "df": 24.1,
+      "ref_df": 0,
+      "lift": 25.1,
+      "score": 1.7321624949044503
+    },
+    {
+      "phrase": "you guys tagged me in",
+      "df": 24.1,
+      "ref_df": 0,
+      "lift": 25.1,
+      "score": 1.7321624949044503
+    },
+    {
+      "phrase": "we call",
+      "df": 59.5,
+      "ref_df": 6.8,
+      "lift": 7.8,
+      "score": 1.7270460884573715
+    },
+    {
+      "phrase": "i mean you",
+      "df": 29.1,
+      "ref_df": 0,
+      "lift": 30.1,
+      "score": 1.7170261685808383
+    },
+    {
+      "phrase": "but you know",
+      "df": 41.8,
+      "ref_df": 3,
+      "lift": 10.7,
+      "score": 1.713077023321141
+    },
+    {
+      "phrase": "you guys are",
+      "df": 39.2,
+      "ref_df": 2.3,
+      "lift": 12.4,
+      "score": 1.7090090675050893
+    },
+    {
+      "phrase": "you know what",
+      "df": 67.1,
+      "ref_df": 15,
+      "lift": 4.2,
+      "score": 1.6801186391145704
+    },
+    {
+      "phrase": "got some",
+      "df": 51.9,
+      "ref_df": 4.5,
+      "lift": 9.6,
+      "score": 1.6599089354617724
+    },
+    {
+      "phrase": "but you know what",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.655794650830882
+    },
+    {
+      "phrase": "teeth and then",
+      "df": 27.8,
+      "ref_df": 0,
+      "lift": 28.8,
+      "score": 1.621659358131366
+    },
+    {
+      "phrase": "you can actually",
+      "df": 44.3,
+      "ref_df": 4.5,
+      "lift": 8.2,
+      "score": 1.6165252103445191
+    },
+    {
+      "phrase": "a lot of people don't",
+      "df": 22.8,
+      "ref_df": 0,
+      "lift": 23.8,
+      "score": 1.6145783189940792
+    },
+    {
+      "phrase": "i'll see you next week",
+      "df": 22.8,
+      "ref_df": 0,
+      "lift": 23.8,
+      "score": 1.6145783189940792
+    },
+    {
+      "phrase": "yeah i",
+      "df": 50.6,
+      "ref_df": 4.5,
+      "lift": 9.4,
+      "score": 1.6020803508531631
+    },
+    {
+      "phrase": "got here",
+      "df": 36.7,
+      "ref_df": 0.8,
+      "lift": 21.5,
+      "score": 1.5933526651245526
+    },
+    {
+      "phrase": "get rid of",
+      "df": 36.7,
+      "ref_df": 2.3,
+      "lift": 11.6,
+      "score": 1.5574357171648008
+    },
+    {
+      "phrase": "and stuff like that",
+      "df": 24.1,
+      "ref_df": 0,
+      "lift": 25.1,
+      "score": 1.5492932346727935
+    },
+    {
+      "phrase": "hit that subscribe",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.5272882682607487
+    },
+    {
+      "phrase": "tagging me in",
+      "df": 26.6,
+      "ref_df": 0,
+      "lift": 27.6,
+      "score": 1.5272882682607487
+    },
+    {
+      "phrase": "but yeah",
+      "df": 35.4,
+      "ref_df": 0.8,
+      "lift": 20.8,
+      "score": 1.5212947908092416
+    },
+    {
+      "phrase": "so basically",
+      "df": 35.4,
+      "ref_df": 0.8,
+      "lift": 20.8,
+      "score": 1.5212947908092416
+    },
+    {
+      "phrase": "your mouth and",
+      "df": 30.4,
+      "ref_df": 0.8,
+      "lift": 17.9,
+      "score": 1.5183148719197592
+    },
+    {
+      "phrase": "all right what do we",
+      "df": 21.5,
+      "ref_df": 0,
+      "lift": 22.5,
+      "score": 1.4985646462169293
+    },
+    {
+      "phrase": "right what do we got",
+      "df": 21.5,
+      "ref_df": 0,
+      "lift": 22.5,
+      "score": 1.4985646462169293
+    },
+    {
+      "phrase": "i'm not going to lie",
+      "df": 21.5,
+      "ref_df": 0,
+      "lift": 22.5,
+      "score": 1.4985646462169293
+    },
+    {
+      "phrase": "is what we call",
+      "df": 26.6,
+      "ref_df": 0.8,
+      "lift": 15.7,
+      "score": 1.4654725898685235
+    },
+    {
+      "phrase": "like that and",
+      "df": 39.2,
+      "ref_df": 3.8,
+      "lift": 8.5,
+      "score": 1.4509178535050788
+    },
+    {
+      "phrase": "all right we got",
+      "df": 22.8,
+      "ref_df": 0,
+      "lift": 23.8,
+      "score": 1.4441227505072403
+    },
+    {
+      "phrase": "oh my goodness",
+      "df": 29.1,
+      "ref_df": 0.8,
+      "lift": 17.2,
+      "score": 1.4342885081831633
+    },
+    {
+      "phrase": "me in this",
+      "df": 29.1,
+      "ref_df": 0.8,
+      "lift": 17.2,
+      "score": 1.4342885081831633
+    },
+    {
+      "phrase": "i get it",
+      "df": 29.1,
+      "ref_df": 0.8,
+      "lift": 17.2,
+      "score": 1.4342885081831633
+    },
+    {
+      "phrase": "kind of crazy",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.4339602310699282
+    },
+    {
+      "phrase": "and guess what",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.4339602310699282
+    },
+    {
+      "phrase": "out of there",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.4339602310699282
+    },
+    {
+      "phrase": "you know i'm",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.4339602310699282
+    },
+    {
+      "phrase": "the tooth and",
+      "df": 25.3,
+      "ref_df": 0,
+      "lift": 26.3,
+      "score": 1.4339602310699282
+    }
+  ],
+  "openings": [
+    {
+      "phrase": "what's up everybody",
+      "videos": 25
+    },
+    {
+      "phrase": "what's up everybody i'm",
+      "videos": 18
+    },
+    {
+      "phrase": "up everybody i'm",
+      "videos": 18
+    },
+    {
+      "phrase": "what's up everybody i'm dr",
+      "videos": 14
+    },
+    {
+      "phrase": "up everybody i'm dr",
+      "videos": 14
+    },
+    {
+      "phrase": "everybody i'm dr",
+      "videos": 14
+    },
+    {
+      "phrase": "dr winners and",
+      "videos": 11
+    },
+    {
+      "phrase": "go ahead and",
+      "videos": 9
+    },
+    {
+      "phrase": "let's get into",
+      "videos": 8
+    },
+    {
+      "phrase": "some of the",
+      "videos": 8
+    },
+    {
+      "phrase": "what's up everybody i'm dr winners",
+      "videos": 7
+    },
+    {
+      "phrase": "what's up everybody i'm dr winters",
+      "videos": 7
+    },
+    {
+      "phrase": "up everybody i'm dr winners",
+      "videos": 7
+    },
+    {
+      "phrase": "up everybody i'm dr winters",
+      "videos": 7
+    },
+    {
+      "phrase": "everybody i'm dr winners",
+      "videos": 7
+    },
+    {
+      "phrase": "everybody i'm dr winters",
+      "videos": 7
+    },
+    {
+      "phrase": "what's up everybody it's",
+      "videos": 7
+    },
+    {
+      "phrase": "let's go ahead and get",
+      "videos": 7
+    },
+    {
+      "phrase": "let's go ahead and",
+      "videos": 7
+    },
+    {
+      "phrase": "you guys tagged me",
+      "videos": 7
+    },
+    {
+      "phrase": "let's get into it",
+      "videos": 7
+    },
+    {
+      "phrase": "up everybody it's",
+      "videos": 7
+    },
+    {
+      "phrase": "go ahead and get",
+      "videos": 7
+    },
+    {
+      "phrase": "you guys tagged",
+      "videos": 7
+    },
+    {
+      "phrase": "i'm dr winners",
+      "videos": 7
+    }
+  ],
+  "closings": [
+    {
+      "phrase": "i'll see you",
+      "videos": 24
+    },
+    {
+      "phrase": "see you next",
+      "videos": 21
+    },
+    {
+      "phrase": "you know what",
+      "videos": 18
+    },
+    {
+      "phrase": "see you next week",
+      "videos": 17
+    },
+    {
+      "phrase": "you next week",
+      "videos": 17
+    },
+    {
+      "phrase": "i'll see you next",
+      "videos": 15
+    },
+    {
+      "phrase": "in the next",
+      "videos": 15
+    },
+    {
+      "phrase": "in the next one",
+      "videos": 14
+    },
+    {
+      "phrase": "the next one",
+      "videos": 14
+    },
+    {
+      "phrase": "know what to",
+      "videos": 14
+    },
+    {
+      "phrase": "know what to do",
+      "videos": 13
+    },
+    {
+      "phrase": "what to do",
+      "videos": 13
+    },
+    {
+      "phrase": "i'll see you next week",
+      "videos": 12
+    },
+    {
+      "phrase": "see you in the next",
+      "videos": 12
+    },
+    {
+      "phrase": "you in the next",
+      "videos": 12
+    },
+    {
+      "phrase": "see you in the",
+      "videos": 12
+    },
+    {
+      "phrase": "see you in",
+      "videos": 12
+    },
+    {
+      "phrase": "you in the",
+      "videos": 12
+    },
+    {
+      "phrase": "see you in the next one",
+      "videos": 11
+    },
+    {
+      "phrase": "you in the next one",
+      "videos": 11
+    },
+    {
+      "phrase": "if you enjoyed",
+      "videos": 10
+    },
+    {
+      "phrase": "keep tagging me in",
+      "videos": 9
+    },
+    {
+      "phrase": "keep tagging me",
+      "videos": 9
+    },
+    {
+      "phrase": "tagging me in",
+      "videos": 9
+    },
+    {
+      "phrase": "me in the",
+      "videos": 9
+    }
+  ],
+  "note": "Transcripts are whisper output of whole videos, so react videos include clip audio. Use df (share of videos) and lift (vs other creators) for phrases; rates are indicative."
+}

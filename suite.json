@@ -1,0 +1,4 @@
+{
+  "about": "Which channel in channels/ is the host (the person on camera). Every tool that takes --channel defaults to it. Set during phase 1 of docs/START-HERE.md.",
+  "host": null
+}

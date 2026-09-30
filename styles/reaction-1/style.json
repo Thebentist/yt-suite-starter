@@ -1,0 +1,125 @@
+{
+  "name": "reaction-1",
+  "version": 1,
+  "learnedFrom": {
+    "url": "https://www.youtube.com/watch?v=JGCAtg57pJg",
+    "title": "Watching Teeth NIGHTMARES So You Don't Have To..",
+    "channel": "The Bentist",
+    "uploadDate": "2026-07-18",
+    "duration": 930,
+    "id": "JGCAtg57pJg",
+    "start": 0,
+    "end": 930,
+    "analysedSeconds": 930
+  },
+  "measured": {
+    "durationSec": 930,
+    "video": {
+      "width": 854,
+      "height": 480,
+      "fps": 30
+    },
+    "shots": {
+      "cuts": 247,
+      "cutsPerMin": 15.94,
+      "cutsPerMinFirst60": 15,
+      "meanShotSec": 3.75,
+      "medianShotSec": 2.37,
+      "p10ShotSec": 0.87,
+      "p75ShotSec": 4.77,
+      "p90ShotSec": 7.7,
+      "histogram": {
+        "<1s": 33,
+        "1-2s": 70,
+        "2-4s": 64,
+        "4-8s": 57,
+        "8-15s": 20,
+        "15s+": 4
+      },
+      "threshold": 0.12,
+      "sensitivity": {
+        "0.08": 303,
+        "0.12": 247,
+        "0.2": 173,
+        "0.3": 113,
+        "0.4": 57
+      }
+    },
+    "speech": {
+      "pauseCount": 486,
+      "pausesPerMin": 31.35,
+      "pauseMedianSec": 0.2,
+      "pauseP75Sec": 0.41,
+      "pauseP90Sec": 0.94,
+      "silentShare": 0.2,
+      "floorDb": -51.9,
+      "speechDb": -21.1,
+      "thresholdDb": -42.7,
+      "wordsPerMin": 207.03,
+      "fillersLeftPerMin": 0.19,
+      "stuttersLeftPerMin": 0.26,
+      "words": 3209,
+      "fillers": 3,
+      "stutters": 4
+    },
+    "loudness": {
+      "integratedLufs": -20.6,
+      "lraLu": 14.6,
+      "truePeakDbtp": 0.3
+    },
+    "musicBed": {
+      "likely": false,
+      "pauseLevelDb": -51.3,
+      "pauseStdDb": 7.92,
+      "speechDb": -21.1,
+      "relativeDb": -30.2
+    }
+  },
+  "edit": {
+    "takes": {
+      "fillers": "cut",
+      "stutters": "cut",
+      "retakes": "cut"
+    },
+    "pause": {
+      "keepBetweenSentences": 0.2,
+      "maxBetweenSentences": 0.32,
+      "keepInSentence": 0.3,
+      "maxInSentence": 0.45
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.4,
+      "every": 2,
+      "maxHoldSec": 4.77,
+      "minSegmentSec": 0.87
+    },
+    "cutRate": {
+      "targetCutsPerMin": 15.94,
+      "targetCutsPerMinFirst60": 15
+    },
+    "music": {
+      "gainDb": -22
+    },
+    "deliver": {
+      "loudnessLufs": -20.6,
+      "truePeakDbtp": 0.3
+    }
+  },
+  "sheets": [
+    "styles/reaction-1/sheets/first60-01.png",
+    "styles/reaction-1/sheets/first60-02.png",
+    "styles/reaction-1/sheets/overview-01.png",
+    "styles/reaction-1/sheets/overview-02.png",
+    "styles/reaction-1/sheets/overview-03.png",
+    "styles/reaction-1/sheets/cuts-01.png",
+    "styles/reaction-1/sheets/cuts-02.png"
+  ],
+  "adjustedAfterLooking": {
+    "by": "Claude (subagent), from the contact sheets, 2026-09-28",
+    "changes": {
+      "edit.punchIn.scale": [1.12, 1.4]
+    },
+    "why": "Tight framings measured against the base framing by the size/spacing of the background shelf cubes: about 1.45x at first60 0:03, about 1.4x inside the split layout (first60 0:09) and the card layout (first60 0:28), about 1.6x on host-only stretches (first60 0:59, overview 1:50, 3:40, 6:25, 14:40), with a few smaller steps near 1.2x (cuts-01 0:34.767). 1.12 is far below every punch-in seen; 1.4 is the middle of what the sheets show. Cut-rate targets kept: all 24 checked cuts are real picture changes, 17 of them change the host's zoom, and at least 4 host framing changes on the first60 sheet were not detected, so the clip/layout-only cuts are roughly offset by the misses."
+  }
+}

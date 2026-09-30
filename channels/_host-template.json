@@ -1,0 +1,29 @@
+{
+  "about": "Template for the HOST's channel (the person on camera). Copy to channels/<id>.json (id = short lowercase handle, e.g. 'janedoe'), fill every field from the phase-1 interview in docs/START-HERE.md, then set suite.json { \"host\": \"<id>\" }. Delete this 'about' line in the copy. Worked example: channels/thebentist.json.",
+  "id": "<id>",
+  "role": "host",
+  "name": "<channel name as shown on YouTube>",
+  "host": "<who is on camera, and the credential or experience that gives them authority>",
+  "niche": "<what the channel covers, and its main formats (reactions, explainers, stories, Q&A...)>",
+  "audience": "<who watches: ages, what they care about, why they come>",
+  "language": "English",
+  "market": "<primary country, then wider>",
+  "platforms": {
+    "youtube": { "url": "https://www.youtube.com/@<handle>", "channel_id": "<UC... id>", "size": 0, "size_as_of": "<YYYY-MM-DD>", "size_note": "subscribers, channel page" },
+    "tiktok": { "url": null, "size": null },
+    "instagram": { "url": null, "size": null }
+  },
+  "rules": "docs/host-rules.md",
+  "voice": {
+    "style_prompt": "docs/style-prompts/<id>-house-voice.md",
+    "evidence": "voice/<id>/voice-guide.md",
+    "fingerprint": "voice/<id>/fingerprint.json"
+  },
+  "editing_style": "styles/<id>-longform/style.json",
+  "editing_styles": { "reaction": "styles/reaction/style.json", "story": "styles/story/style.json", "explainer": null },
+  "editing_styles_note": "Until /edit-style has measured the host's own videos, the shipped styles are good starting points: story = Huge If True-style (Cleo Abram), reaction = a blend of clip-reaction channels.",
+  "transcribe_prompt": "<one or two sentences in the host's way of talking, with the names and jargon they use most; helps whisper spell them right>",
+  "script_wpm": 140,
+  "script_wpm_note": "Script words per finished minute when the host records a script. 140 is the original host's measured value; replace it after the first /read-check measures this host.",
+  "products": "<the host's own products or regular sponsors, if any, and how they like them worked in; or 'none'>"
+}

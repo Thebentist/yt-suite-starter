@@ -1,0 +1,23 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>motion render</title>
+<style>html,body{margin:0;background:transparent;overflow:hidden}canvas{display:block}</style>
+<script src="/pipeline/motion/gl.js"></script>
+<script src="/pipeline/motion/runtime.js"></script>
+<script>
+  // Load the scene named in ?scene=<repo-relative path>. A scene can share code with its siblings by listing libraries
+  // in comment lines at the top:   // @use videos/x/scenes/tongue/_lib.js
+  // (loaded in order, before the scene). Then flag readiness for the renderer.
+  (async function () {
+    const q = new URLSearchParams(location.search), src = q.get('scene');
+    window.addEventListener('error', (e) => { window.__error = (e.error && e.error.stack) || e.message; });
+    const load = (p) => new Promise((res, rej) => { const s = document.createElement('script'); s.src = '/' + p.replace(/^\/+/, '') + '?v=' + Date.now(); s.onload = res; s.onerror = () => rej(new Error('failed to load ' + p)); document.head.appendChild(s); });
+    try {
+      const text = await (await fetch('/' + src.replace(/^\/+/, '') + '?v=' + Date.now())).text();
+      const uses = [...text.matchAll(/^\s*\/\/\s*@use\s+(\S+)/gm)].map((m) => m[1]);
+      for (const u of uses) await load(u);
+      await load(src);
+      window.__ready = true;
+    } catch (e) { window.__error = e.message; }
+  })();
+</script>
+</head><body></body></html>

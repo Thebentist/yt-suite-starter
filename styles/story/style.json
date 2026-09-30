@@ -1,0 +1,110 @@
+{
+  "name": "story",
+  "version": 1,
+  "type": "story",
+  "blendedFrom": [
+    {
+      "style": "story-hit-1",
+      "title": "Something’s Happening to the Ozone Hole",
+      "channel": "Cleo Abram",
+      "url": "https://www.youtube.com/watch?v=yWgHx0HE8m8",
+      "analysedSeconds": 981
+    }
+  ],
+  "edit": {
+    "takes": {
+      "fillers": "cut",
+      "stutters": "cut",
+      "retakes": "cut"
+    },
+    "pause": {
+      "keepBetweenSentences": 0.17,
+      "maxBetweenSentences": 0.29,
+      "keepInSentence": 0.27,
+      "maxInSentence": 0.42
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.12,
+      "every": 2,
+      "maxHoldSec": 4,
+      "minSegmentSec": 0.8
+    },
+    "cutRate": {
+      "targetCutsPerMin": 15,
+      "targetCutsPerMinFirst60": 28
+    },
+    "music": {
+      "gainDb": -20.74
+    },
+    "deliver": {
+      "loudnessLufs": -13.5,
+      "truePeakDbtp": 1.7
+    }
+  },
+  "measuredBySource": {
+    "story-hit-1": {
+      "durationSec": 981,
+      "video": {
+        "width": 854,
+        "height": 480,
+        "fps": 23.98
+      },
+      "shots": {
+        "cuts": 374,
+        "cutsPerMin": 22.87,
+        "cutsPerMinFirst60": 28,
+        "meanShotSec": 2.62,
+        "medianShotSec": 1.83,
+        "p10ShotSec": 0.67,
+        "p75ShotSec": 3.04,
+        "p90ShotSec": 5.63,
+        "histogram": {
+          "<1s": 59,
+          "1-2s": 151,
+          "2-4s": 99,
+          "4-8s": 52,
+          "8-15s": 14,
+          "15s+": 0
+        },
+        "threshold": 0.12,
+        "sensitivity": {
+          "0.08": 390,
+          "0.12": 374,
+          "0.2": 348,
+          "0.3": 294,
+          "0.4": 245
+        }
+      },
+      "speech": {
+        "pauseCount": 924,
+        "pausesPerMin": 56.51,
+        "pauseMedianSec": 0.17,
+        "pauseP75Sec": 0.29,
+        "pauseP90Sec": 0.42,
+        "silentShare": 0.22,
+        "floorDb": -34.2,
+        "speechDb": -12.1,
+        "thresholdDb": -27.6,
+        "wordsPerMin": 157.19,
+        "fillersLeftPerMin": 0,
+        "stuttersLeftPerMin": 0.06,
+        "words": 2570,
+        "fillers": 0,
+        "stutters": 1
+      },
+      "loudness": {
+        "integratedLufs": -13.5,
+        "lraLu": 6.5,
+        "truePeakDbtp": 1.7
+      },
+      "musicBed": {
+        "likely": true,
+        "pauseLevelDb": -32.84,
+        "pauseStdDb": 6.17,
+        "speechDb": -12.1,
+        "relativeDb": -20.74
+      }
+    }
+  }
+}

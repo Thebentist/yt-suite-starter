@@ -1,0 +1,40 @@
+Voice check: script.md vs thebentist, compared with explainer videos (70 host passages)
+Spoken words: 2543, sentences: 158
+Closeness score: 79/100 (advisory)
+
+Cadence (share of sentences S 1-6 / M 7-14 / L 15-24 / X 25+ words): script 12/39/32/17  thebentist 26/36/24/14
+
+Rhythm
+  ✓ words per sentence (mean)    script   16.1  thebentist   13.7 (±2.7)
+  ✓ fragments ≤4 words (%)       script    8.9  thebentist   17.7 (±8.9%)
+  ✓ long sentences 25+ (%)       script   17.1  thebentist     14 (±8.4%)
+  ✓ questions (%)                script    4.4  thebentist    7.6 (±4.6%)
+  ✓ you/your per 1k              script   52.7  thebentist   40.6 (±14.2)
+  ✓ I/me/my per 1k               script   15.3  thebentist   24.1 (±9.6)
+  ✓ contractions (%)             script     91  thebentist     81 (±12%)
+  ✓ exclamations (%)             script      0  thebentist      0 (±3%)
+  ✗ cadence distance (0 = same)  script  0.177  thebentist      0 (≤0.12)  off
+  ✓ long→short drops (share)     script  0.128  thebentist  0.222 (±0.1)
+  ✗ length spread (cv)           script  0.563  thebentist  0.801 (±0.2)  too low
+
+His markers (per 1k words)
+  like                   script     9  thebentist  11.6  
+  so                     script    13  thebentist  11.1  
+  actually               script   6.3  thebentist   5.9  
+  now                    script   3.5  thebentist   5.2  
+  you know               script   0.8  thebentist     5  
+  maybe                  script   1.2  thebentist   4.5  
+  kind of                script   7.9  thebentist     3  overused
+  crazy                  script   0.8  thebentist     3  
+  well                   script   2.8  thebentist     3  
+  basically              script   3.1  thebentist   2.9  
+  right                  script   3.5  thebentist   2.9  
+  really                 script   6.3  thebentist   2.9  
+  okay                   script   0.4  thebentist   2.5  
+  probably               script   4.3  thebentist   1.8  
+
+Signature phrases used: "i'm not gonna lie" x1, "and stuff" x2, "your teeth and" x1, "more than likely" x2, "in your mouth" x2, "you know what" x1, "first off" x1, "i'll see you" x1, "what we call a" x1, "and actually" x1, "of your mouth" x2, "kind of crazy" x1, "you can actually" x2, "i don't know" x2, "see you" x1, "what we call" x1, "so yeah" x2, "yeah i" x1, "is what we call a" x1, "i'm not" x2, "i mean you" x1
+
+Words thebentist has never said on camera (51): scraper x4, wrist x3, carpet x3, reflux x3, shag x2, protein x2, rotten x2, eggs x2, coating x2, squished x2, mint x2, alcohol x2, sentence, lean, sniff, rate, rated, cleanest, bumps, oxygen, digesting, yellowish, coated, it'd, periodontist, crypts, slice, drips, diabetes, valve, esophagus, burping, mints, oversell, evidence, dries, trial, drier, skip, miracle
+
+Off-vocabulary words are not errors (a topic needs its terms), but written-register words here are the usual tell.

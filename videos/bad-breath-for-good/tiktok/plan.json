@@ -1,0 +1,75 @@
+{
+  "about": "TikTok cut lists from the final cut (v4f), built on the Kallaway short-form rules (research/strategy/kallaway-notes-*.md, pNIYikmYsyw, SDHKQbKC7gA): triple hook (text, spoken, visual) aligned; lock-in zone (confirm + trust) in the next 2-4 sentences; 3-4 story loops per minute, each reveal better than expected; but/so at every seam; the last line closes the loop (no cliffhangers, Ben 2026-09-29). Resolve with: node pipeline/edit/shorts-plan.mjs --slug bad-breath-for-good",
+  "clips": [
+    {
+      "id": "tonsil-stones",
+      "title": "Tonsil stones: what they are and how to get them out safely",
+      "textHook": ["1 in 4 people have tonsil stones", "and don't know it"],
+      "captionHook": "An orthodontist on tonsil stones: what they are and how to get them out without hurting yourself",
+      "lastLine": "keeps those holes clean so more food and gunk can't form in there",
+      "segments": [
+        { "from": "if you've ever grabbed a tonsil stone", "to": "It's not good", "near": 352, "trimIn": 352.233, "accept": ["have"], "note": "accept 'have': snippets from every start between 352.07 and 352.25 read 'Have you ever grabbed', so whisper hears the soft 'If you've' that way; Ben to hear the first second.",
+          "note2": "spoken hook: subject in sentence one, aimed at 'you'. trimIn: after a soft 'And' the transcript never had (the output check heard it)" },
+        { "from": "I can tell if somebody has tonsil stones", "to": "It's a way different smell", "near": 358, "note": "lock-in: his authority ('And' left out)" },
+        { "from": "And the crazy part is a lot of people have these", "to": "walking around", "near": 361, "note": "reveal 1: 1 in 4 on CT scans" },
+        { "from": "You see, your tonsils have these little holes", "to": "It's pretty bad", "near": 329.7, "trimOut": 348.8, "note": "reveal 2: what they are. trimOut: 'It's pretty bad.' ends before 348.88 (snippet check); whisper put 'bad' 0.3 s late and the snapped cut kept 'And tr-'" },
+        { "from": "if you really wanna know if you've got them", "to": "can't form in there", "near": 663.5, "note": "the fix: check, don't dig, low-pressure water (his AquaClean, native), gargle" }
+      ]
+    },
+    {
+      "id": "wrist-test",
+      "title": "You can't smell your own bad breath: the 10-second test",
+      "textHook": ["You can't smell your own bad breath", "Here's the 10-second test"],
+      "captionHook": "Why you can't smell your own breath, and the test an orthodontist would use",
+      "lastLine": "when a dentist checks you for real they go all the way to the back",
+      "segments": [
+        { "from": "you're actually really bad at smelling your own breath", "to": "the same thing with your mouth", "near": 22, "trimIn": 22.767, "note": "spoken hook + the house image ('And the crazy part is' left out). trimIn: 'is you're' has no gap; snippets from 22.70 to 22.80 all open on 'You're'" },
+        { "from": "trust me, I'm an orthodontist", "to": "I know what bad breath smells like", "near": 38.4, "trimOut": 42.67, "note": "lock-in: trust anchor ('Because' left out). trimOut: Ben d1 note 'cut dead space here' - 'smells like' trails off; snippets end cleanly on 'like' from 42.60" },
+        { "from": "the reason that you can't smell your own bad breath", "to": "and then smell that", "near": 65, "trimIn": 65.167, "note": "why, the cupped-hand myth, the study, the wrist test, the tip vs the back. trimIn: the pause after 'first off,' (whisper puts 'the reason' 0.25 s late; the snapped cut clipped 'the rea-')" }
+      ]
+    },
+    {
+      "id": "not-your-teeth",
+      "title": "The #1 cause of bad breath isn't your teeth",
+      "textHook": ["Bad breath isn't coming", "from your teeth"],
+      "captionHook": "A clinic that sees nothing but bad breath found the #1 cause, and it isn't your teeth",
+      "lastLine": "fix your bad breath in just a couple weeks",
+      "segments": [
+        { "from": "you think it would be your teeth", "to": "our whole lives", "near": 236, "note": "spoken hook: the common belief" },
+        { "from": "But there's this bad breath clinic", "to": "really worried that they did", "near": 240, "note": "the contrarian snapback + proof (the Belgian clinic)" },
+        { "from": "If you look at a tongue close up microscopically", "to": "where your bad breath is coming from", "near": 153, "note": "why: shag carpet, bacteria, sulfur gas, the coated tongue you can see" },
+        { "from": "now that you have all this knowledge", "to": "in a different way", "near": 766, "note": "the high note: fixable in a couple weeks" }
+      ]
+    },
+    {
+      "id": "friend-story",
+      "title": "Your friend says your breath stinks: where it comes from and how to fix it",
+      "textHook": ["How to tell if YOUR breath stinks", "and how to fix it"],
+      "captionHook": "Would you tell a friend if their breath stunk?",
+      "lastLine": "So would you tell a friend if their breath stunk? (loops back to the opening clip)",
+      "segments": [
+        { "t": [0, 6.56], "foreign": "the TikTok Ben reacts to (another creator's clip): post with TikTok's Stitch, or keep it credited as a reaction" },
+        { "from": "That sucks", "to": "who's gonna ever tell me really", "near": 6.6, "note": "lock-in + the big question: how do I get rid of it?" },
+        { "from": "And most people think that they got bad breath", "to": "rather than something you ate", "near": 32.5, "remove": [[42.67, 42.98]], "note": "common belief, trust anchor, reveal: 8 or 9 in 10 it's your mouth. remove: Ben d1 note 'some dead space here right at the end' (the 'smells like' tail and the pause before 'And')" },
+        { "from": "And the fun fact is, you can see it", "to": "where your bad breath is coming from", "near": 222.8, "note": "the check you can do in a mirror: coated tongue" },
+        { "from": "you've had bad breath for a while", "to": "doing the same thing as well", "near": 432, "note": "BUT: why mints and mouthwash didn't work (the 'You've had breath' restart left out)" },
+        { "from": "So what actually works", "to": "clean that area good", "near": 532.3, "note": "SO: scrape the back, the gag tip" },
+        { "from": "So would you tell a friend", "to": "down in the comments below", "near": 784.2, "note": "last line loops to the opening clip" }
+      ]
+    },
+    {
+      "id": "zero-pro",
+      "title": "Zero Pro: the toothpaste that pops the bacteria behind bad breath",
+      "textHook": ["This toothpaste pops", "the bacteria behind bad breath"],
+      "captionHook": "Zero Pro from my company Something Nice: the first toothpaste with nano lipid emulsions",
+      "lastLine": "I'm excited to see the future of where these things go",
+      "segments": [
+        { "from": "it basically seeks it out", "to": "Like a water balloon", "near": 639.2, "note": "visual hook: the pop (moved to the front)" },
+        { "from": "Everything comes back to these bacteria", "to": "volatile sulfur compounds", "near": 603.5, "note": "context: the bacteria make the smell" },
+        { "from": "So these bacteria are the problem", "to": "target certain bacteria", "near": 579.5, "note": "the problem (it keeps coming back), first in dentistry, nano lipid emulsions" },
+        { "from": "And we target one of these main bacteria", "to": "30% in people", "near": 608, "note": "P. gingivalis, Zero Pro, the double-blind study, saliva" },
+        { "from": "And the cool thing is, unlike alcohol", "to": "where these things go", "near": 643.3, "note": "only the bad bacteria; the future" }
+      ]
+    }
+  ]
+}

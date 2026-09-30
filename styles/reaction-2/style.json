@@ -1,0 +1,133 @@
+{
+  "name": "reaction-2",
+  "version": 1,
+  "learnedFrom": {
+    "url": "https://www.youtube.com/watch?v=xIa4b50z9vQ",
+    "title": "We have a lot to talk about..",
+    "channel": "The Bentist",
+    "uploadDate": "2026-03-08",
+    "duration": 863,
+    "id": "xIa4b50z9vQ",
+    "start": 0,
+    "end": 863,
+    "analysedSeconds": 863
+  },
+  "measured": {
+    "durationSec": 863,
+    "video": {
+      "width": 854,
+      "height": 480,
+      "fps": 30
+    },
+    "shots": {
+      "cuts": 116,
+      "cutsPerMin": 8.06,
+      "cutsPerMinFirst60": 12,
+      "meanShotSec": 7.44,
+      "medianShotSec": 3.97,
+      "p10ShotSec": 1.07,
+      "p75ShotSec": 10.1,
+      "p90ShotSec": 17.67,
+      "histogram": {
+        "<1s": 11,
+        "1-2s": 26,
+        "2-4s": 24,
+        "4-8s": 19,
+        "8-15s": 21,
+        "15s+": 15
+      },
+      "threshold": 0.12,
+      "sensitivity": {
+        "0.08": 128,
+        "0.12": 116,
+        "0.2": 89,
+        "0.3": 37,
+        "0.4": 18
+      }
+    },
+    "speech": {
+      "pauseCount": 740,
+      "pausesPerMin": 51.45,
+      "pauseMedianSec": 0.15,
+      "pauseP75Sec": 0.26,
+      "pauseP90Sec": 0.4,
+      "silentShare": 0.19,
+      "floorDb": -51.9,
+      "speechDb": -31.2,
+      "thresholdDb": -45.7,
+      "wordsPerMin": 244.45,
+      "fillersLeftPerMin": 0.14,
+      "stuttersLeftPerMin": 0,
+      "words": 3516,
+      "fillers": 2,
+      "stutters": 0
+    },
+    "loudness": {
+      "integratedLufs": -31.6,
+      "lraLu": 7.1,
+      "truePeakDbtp": -6.9
+    },
+    "musicBed": {
+      "likely": false,
+      "pauseLevelDb": -51.35,
+      "pauseStdDb": 5.95,
+      "speechDb": -31.2,
+      "relativeDb": -20.15
+    }
+  },
+  "edit": {
+    "takes": {
+      "fillers": "cut",
+      "stutters": "cut",
+      "retakes": "cut"
+    },
+    "pause": {
+      "keepBetweenSentences": 0.15,
+      "maxBetweenSentences": 0.27,
+      "keepInSentence": 0.25,
+      "maxInSentence": 0.4
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.25,
+      "every": 2,
+      "maxHoldSec": 10.1,
+      "minSegmentSec": 1.07
+    },
+    "cutRate": {
+      "targetCutsPerMin": 5.4,
+      "targetCutsPerMinFirst60": 8
+    },
+    "captions": {
+      "maxChars": 25,
+      "maxSec": 1.5
+    },
+    "music": {
+      "gainDb": -22
+    },
+    "deliver": {
+      "loudnessLufs": -31.6,
+      "truePeakDbtp": -6.9
+    }
+  },
+  "sheets": [
+    "styles/reaction-2/sheets/first60-01.png",
+    "styles/reaction-2/sheets/first60-02.png",
+    "styles/reaction-2/sheets/overview-01.png",
+    "styles/reaction-2/sheets/overview-02.png",
+    "styles/reaction-2/sheets/overview-03.png",
+    "styles/reaction-2/sheets/cuts-01.png",
+    "styles/reaction-2/sheets/cuts-02.png"
+  ],
+  "adjustedAfterLooking": {
+    "by": "Claude (subagent), from the contact sheets, 2026-09-28",
+    "changes": {
+      "edit.punchIn.scale": [1.12, 1.25],
+      "edit.cutRate.targetCutsPerMin": [8.06, 5.4],
+      "edit.cutRate.targetCutsPerMinFirst60": [12, 8],
+      "edit.captions.maxChars": [null, 25],
+      "edit.captions.maxSec": [null, 1.5]
+    },
+    "why": "punchIn.scale: I measured the punched frames against the wide at 0:06.233, using the white shelf cubes (their width and the gap between them), not Ben's head, because he leans. Readings: 0:48.667 and 1:07.833 about 1.17, 1:17.433 about 1.25, 1:34.633 and 1:50.767 about 1.3, 0:26.133 about 1.38 (median about 1.27). Many punched shots then keep pushing in by 0.1-0.2, and there is a separate tight gag level of about 1.5 (0:05.300); a static 1.25 is the middle of the normal punch range. cutRate: all 24 checked detections are real picture changes, but only 16 are host framing jump cuts. The rest are clip entries/exits (3), cuts inside a reacted clip's own montage (3), the elephant graphic (1) and the file's first frame (1), so 8.06 x 16/24 gives about 5.4 per minute over the runtime. That is about 9 per minute inside host-only stretches (16 in 104 s) and none while a clip is up. In the first 60 s, 8 of the 12 detections are host framing changes. captions (null = not set before, so the build-timeline default of 42 characters and 5 s applied): the reference shows 1-4 word cues, the longest seen 25 characters, with a new cue about every second (every 1 fps tile in the first minute has a different caption)."
+  }
+}

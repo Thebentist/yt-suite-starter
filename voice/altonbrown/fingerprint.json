@@ -1,0 +1,1073 @@
+{
+  "channel": "altonbrown",
+  "built_at": "2026-09-28T03:28:23.930Z",
+  "transcripts": 33,
+  "long": 33,
+  "shorts": 0,
+  "unpunctuated": [],
+  "duplicates": [],
+  "words": 27086,
+  "wpm": {
+    "median": 162,
+    "p25": 155,
+    "p75": 174.3
+  },
+  "all": {
+    "words": 27086,
+    "sentences": 2077,
+    "sentence_len": {
+      "mean": 13,
+      "median": 11,
+      "p10": 3,
+      "p90": 25
+    },
+    "fragment_share": 17.4,
+    "long_share": 12,
+    "question_share": 5.4,
+    "exclaim_share": 0,
+    "comma_per_sentence": 0.9,
+    "you_per_1k": 24.2,
+    "i_per_1k": 15.9,
+    "we_per_1k": 12.7,
+    "contraction_ratio": 75.3,
+    "markers": {
+      "you know": 0.7,
+      "kind of": 2.7,
+      "sort of": 0,
+      "actually": 1.2,
+      "basically": 0.1,
+      "honestly": 0,
+      "literally": 0,
+      "like": 5.4,
+      "i mean": 0.1,
+      "right": 3.8,
+      "okay": 2,
+      "ok": 0.3,
+      "you guys": 0.1,
+      "guys": 0.3,
+      "obviously": 0.2,
+      "pretty": 0.7,
+      "super": 0,
+      "really": 1.6,
+      "probably": 0.3,
+      "maybe": 0.8,
+      "i think": 0.4,
+      "i guess": 0,
+      "i feel like": 0,
+      "crazy": 0,
+      "insane": 0,
+      "wild": 0,
+      "gonna": 3,
+      "wanna": 0.3,
+      "gotta": 0.1,
+      "let's": 0.5,
+      "dude": 0,
+      "folks": 0.1,
+      "so": 7.3,
+      "now": 10.9,
+      "well": 2.6,
+      "anyway": 0.1,
+      "yeah": 0.2,
+      "oh my gosh": 0,
+      "guess what": 0,
+      "what if i told you": 0,
+      "fun fact": 0,
+      "let me explain": 0,
+      "you see": 0.4,
+      "i'm not gonna lie": 0,
+      "i'm not going to lie": 0,
+      "which is": 1.2,
+      "and so": 0.2,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0,
+      "for sure": 0.1,
+      "definitely": 0.3
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.283,
+        "M": 0.357,
+        "L": 0.24,
+        "X": 0.12
+      },
+      "next": {
+        "S": {
+          "S": 0.392,
+          "M": 0.326,
+          "L": 0.205,
+          "X": 0.077
+        },
+        "M": {
+          "S": 0.247,
+          "M": 0.38,
+          "L": 0.24,
+          "X": 0.133
+        },
+        "L": {
+          "S": 0.224,
+          "M": 0.381,
+          "L": 0.255,
+          "X": 0.14
+        },
+        "X": {
+          "S": 0.249,
+          "M": 0.313,
+          "L": 0.297,
+          "X": 0.141
+        }
+      },
+      "cv": 0.735,
+      "drop": 0.233
+    },
+    "openers": {
+      "now": 11.8,
+      "and": 5.9,
+      "so": 5.2,
+      "you": 3.9,
+      "there": 3.5,
+      "i": 2.8,
+      "just": 2.6,
+      "the": 2.6,
+      "this": 2.1,
+      "it's": 2,
+      "that's": 2,
+      "well": 1.7,
+      "i'm": 1.6,
+      "but": 1.6,
+      "then": 1.4,
+      "it": 1.3,
+      "that": 1.3,
+      "we": 1.3,
+      "oh": 1.3,
+      "if": 1.2,
+      "a": 1.1,
+      "okay": 1.1,
+      "we're": 1,
+      "when": 0.9,
+      "of": 0.8,
+      "as": 0.8,
+      "all": 0.7,
+      "one": 0.7,
+      "no": 0.7,
+      "in": 0.7
+    }
+  },
+  "by_format": {
+    "long": {
+      "words": 27086,
+      "sentences": 2077,
+      "sentence_len": {
+        "mean": 13,
+        "median": 11,
+        "p10": 3,
+        "p90": 25
+      },
+      "fragment_share": 17.4,
+      "long_share": 12,
+      "question_share": 5.4,
+      "exclaim_share": 0,
+      "comma_per_sentence": 0.9,
+      "you_per_1k": 24.2,
+      "i_per_1k": 15.9,
+      "we_per_1k": 12.7,
+      "contraction_ratio": 75.3,
+      "markers": {
+        "you know": 0.7,
+        "kind of": 2.7,
+        "sort of": 0,
+        "actually": 1.2,
+        "basically": 0.1,
+        "honestly": 0,
+        "literally": 0,
+        "like": 5.4,
+        "i mean": 0.1,
+        "right": 3.8,
+        "okay": 2,
+        "ok": 0.3,
+        "you guys": 0.1,
+        "guys": 0.3,
+        "obviously": 0.2,
+        "pretty": 0.7,
+        "super": 0,
+        "really": 1.6,
+        "probably": 0.3,
+        "maybe": 0.8,
+        "i think": 0.4,
+        "i guess": 0,
+        "i feel like": 0,
+        "crazy": 0,
+        "insane": 0,
+        "wild": 0,
+        "gonna": 3,
+        "wanna": 0.3,
+        "gotta": 0.1,
+        "let's": 0.5,
+        "dude": 0,
+        "folks": 0.1,
+        "so": 7.3,
+        "now": 10.9,
+        "well": 2.6,
+        "anyway": 0.1,
+        "yeah": 0.2,
+        "oh my gosh": 0,
+        "guess what": 0,
+        "what if i told you": 0,
+        "fun fact": 0,
+        "let me explain": 0,
+        "you see": 0.4,
+        "i'm not gonna lie": 0,
+        "i'm not going to lie": 0,
+        "which is": 1.2,
+        "and so": 0.2,
+        "all these different things": 0,
+        "at the end of the day": 0,
+        "to be honest": 0,
+        "for sure": 0.1,
+        "definitely": 0.3
+      },
+      "cadence": {
+        "dist": {
+          "S": 0.283,
+          "M": 0.357,
+          "L": 0.24,
+          "X": 0.12
+        },
+        "next": {
+          "S": {
+            "S": 0.392,
+            "M": 0.326,
+            "L": 0.205,
+            "X": 0.077
+          },
+          "M": {
+            "S": 0.247,
+            "M": 0.38,
+            "L": 0.24,
+            "X": 0.133
+          },
+          "L": {
+            "S": 0.224,
+            "M": 0.381,
+            "L": 0.255,
+            "X": 0.14
+          },
+          "X": {
+            "S": 0.249,
+            "M": 0.313,
+            "L": 0.297,
+            "X": 0.141
+          }
+        },
+        "cv": 0.735,
+        "drop": 0.233
+      },
+      "openers": {
+        "now": 11.8,
+        "and": 5.9,
+        "so": 5.2,
+        "you": 3.9,
+        "there": 3.5,
+        "i": 2.8,
+        "just": 2.6,
+        "the": 2.6,
+        "this": 2.1,
+        "it's": 2,
+        "that's": 2,
+        "well": 1.7,
+        "i'm": 1.6,
+        "but": 1.6,
+        "then": 1.4,
+        "it": 1.3,
+        "that": 1.3,
+        "we": 1.3,
+        "oh": 1.3,
+        "if": 1.2,
+        "a": 1.1,
+        "okay": 1.1,
+        "we're": 1,
+        "when": 0.9,
+        "of": 0.8,
+        "as": 0.8,
+        "all": 0.7,
+        "one": 0.7,
+        "no": 0.7,
+        "in": 0.7
+      }
+    },
+    "short": null
+  },
+  "reference": {
+    "docs": 145,
+    "words": 287413,
+    "sentences": 17282,
+    "sentence_len": {
+      "mean": 16.6,
+      "median": 10,
+      "p10": 3,
+      "p90": 28
+    },
+    "fragment_share": 18,
+    "long_share": 13.2,
+    "question_share": 9.4,
+    "exclaim_share": 1.5,
+    "comma_per_sentence": 0.7,
+    "you_per_1k": 32.2,
+    "i_per_1k": 24.8,
+    "we_per_1k": 13.8,
+    "contraction_ratio": 79.2,
+    "markers": {
+      "you know": 3.8,
+      "kind of": 1.9,
+      "sort of": 0.1,
+      "actually": 4.2,
+      "basically": 1.1,
+      "honestly": 0.1,
+      "literally": 0.4,
+      "like": 9.9,
+      "i mean": 0.9,
+      "right": 3.4,
+      "okay": 2.3,
+      "ok": 0.1,
+      "you guys": 0.9,
+      "guys": 1.1,
+      "obviously": 0.6,
+      "pretty": 1,
+      "super": 0.4,
+      "really": 4.1,
+      "probably": 1.5,
+      "maybe": 1,
+      "i think": 0.8,
+      "i guess": 0.2,
+      "i feel like": 0.1,
+      "crazy": 1.1,
+      "insane": 0.1,
+      "wild": 0.2,
+      "gonna": 1.4,
+      "wanna": 0,
+      "gotta": 0.1,
+      "let's": 1,
+      "dude": 0.2,
+      "folks": 0,
+      "so": 10.1,
+      "now": 4.1,
+      "well": 2,
+      "anyway": 0,
+      "yeah": 2.1,
+      "oh my gosh": 0.7,
+      "guess what": 0.2,
+      "what if i told you": 0,
+      "fun fact": 0.2,
+      "let me explain": 0,
+      "you see": 0.5,
+      "i'm not gonna lie": 0.2,
+      "i'm not going to lie": 0.1,
+      "which is": 0.8,
+      "and so": 1,
+      "all these different things": 0,
+      "at the end of the day": 0,
+      "to be honest": 0.1,
+      "for sure": 0.1,
+      "definitely": 0.5
+    },
+    "cadence": {
+      "dist": {
+        "S": 0.301,
+        "M": 0.363,
+        "L": 0.204,
+        "X": 0.132
+      },
+      "next": {
+        "S": {
+          "S": 0.414,
+          "M": 0.339,
+          "L": 0.16,
+          "X": 0.087
+        },
+        "M": {
+          "S": 0.286,
+          "M": 0.39,
+          "L": 0.208,
+          "X": 0.116
+        },
+        "L": {
+          "S": 0.231,
+          "M": 0.365,
+          "L": 0.237,
+          "X": 0.167
+        },
+        "X": {
+          "S": 0.195,
+          "M": 0.342,
+          "L": 0.238,
+          "X": 0.224
+        }
+      },
+      "cv": 7.449,
+      "drop": 0.217
+    },
+    "openers": {
+      "and": 11,
+      "so": 7.3,
+      "i": 5.5,
+      "but": 4.9,
+      "you": 3.9,
+      "it's": 3.8,
+      "this": 2.7,
+      "oh": 2.5,
+      "that's": 2.3,
+      "the": 2.3,
+      "it": 2.1,
+      "now": 2,
+      "we": 2,
+      "okay": 1.9,
+      "if": 1.5,
+      "i'm": 1.5,
+      "yeah": 1.4,
+      "they": 1.3,
+      "all": 1.3,
+      "that": 1.2,
+      "how": 1.1,
+      "well": 1.1,
+      "what": 1,
+      "let's": 0.7,
+      "they're": 0.7,
+      "in": 0.7,
+      "a": 0.7,
+      "no": 0.6,
+      "like": 0.6,
+      "there": 0.6
+    }
+  },
+  "signature_phrases": [
+    {
+      "phrase": "a cup of",
+      "df": 45.5,
+      "ref_df": 0,
+      "lift": 46.5,
+      "score": 3.0220147914974103
+    },
+    {
+      "phrase": "a tablespoon of",
+      "df": 33.3,
+      "ref_df": 0,
+      "lift": 34.3,
+      "score": 2.041577928377778
+    },
+    {
+      "phrase": "a teaspoon of",
+      "df": 30.3,
+      "ref_df": 0,
+      "lift": 31.3,
+      "score": 1.80748157176898
+    },
+    {
+      "phrase": "a half",
+      "df": 57.6,
+      "ref_df": 6.2,
+      "lift": 8.1,
+      "score": 1.7060715614461353
+    },
+    {
+      "phrase": "i like to",
+      "df": 42.4,
+      "ref_df": 3.4,
+      "lift": 9.8,
+      "score": 1.6742642436256698
+    },
+    {
+      "phrase": "and a quarter",
+      "df": 27.3,
+      "ref_df": 0,
+      "lift": 28.3,
+      "score": 1.578637228664222
+    },
+    {
+      "phrase": "and a half",
+      "df": 45.5,
+      "ref_df": 5.5,
+      "lift": 7.1,
+      "score": 1.5462672056544924
+    },
+    {
+      "phrase": "half a cup of",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.3154222413903758
+    },
+    {
+      "phrase": "half a teaspoon of",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.3154222413903758
+    },
+    {
+      "phrase": "of a cup of",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.3154222413903758
+    },
+    {
+      "phrase": "there we go now",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.3154222413903758
+    },
+    {
+      "phrase": "nice and",
+      "df": 42.4,
+      "ref_df": 4.1,
+      "lift": 8.5,
+      "score": 1.2805551014642818
+    },
+    {
+      "phrase": "two tablespoons of",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.1391890777471314
+    },
+    {
+      "phrase": "half teaspoon of",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.1391890777471314
+    },
+    {
+      "phrase": "the pan and",
+      "df": 21.2,
+      "ref_df": 0,
+      "lift": 22.2,
+      "score": 1.1391890777471314
+    },
+    {
+      "phrase": "right into the",
+      "df": 24.2,
+      "ref_df": 0.7,
+      "lift": 14.9,
+      "score": 1.1353862246618596
+    },
+    {
+      "phrase": "and i like",
+      "df": 24.2,
+      "ref_df": 0.7,
+      "lift": 14.9,
+      "score": 1.1353862246618596
+    },
+    {
+      "phrase": "one half",
+      "df": 24.2,
+      "ref_df": 0,
+      "lift": 25.2,
+      "score": 1.1068667563155652
+    },
+    {
+      "phrase": "then just",
+      "df": 30.3,
+      "ref_df": 1.4,
+      "lift": 13.2,
+      "score": 1.1043311864561098
+    },
+    {
+      "phrase": "go now",
+      "df": 27.3,
+      "ref_df": 0.7,
+      "lift": 16.7,
+      "score": 1.086645640652001
+    },
+    {
+      "phrase": "i like",
+      "df": 69.7,
+      "ref_df": 22.8,
+      "lift": 3,
+      "score": 1.0748244719501057
+    },
+    {
+      "phrase": "last but not least",
+      "df": 18.2,
+      "ref_df": 0,
+      "lift": 19.2,
+      "score": 1.0741683129737076
+    },
+    {
+      "phrase": "half a",
+      "df": 30.3,
+      "ref_df": 2.1,
+      "lift": 10.2,
+      "score": 0.9952525236370969
+    },
+    {
+      "phrase": "and half a teaspoon of",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.9425412289912948
+    },
+    {
+      "phrase": "two and a",
+      "df": 18.2,
+      "ref_df": 0,
+      "lift": 19.2,
+      "score": 0.9302570469755044
+    },
+    {
+      "phrase": "let it cool",
+      "df": 18.2,
+      "ref_df": 0,
+      "lift": 19.2,
+      "score": 0.9302570469755044
+    },
+    {
+      "phrase": "two teaspoons of",
+      "df": 18.2,
+      "ref_df": 0,
+      "lift": 19.2,
+      "score": 0.9302570469755044
+    },
+    {
+      "phrase": "so i'm going to",
+      "df": 27.3,
+      "ref_df": 4.1,
+      "lift": 5.5,
+      "score": 0.9301348164119336
+    },
+    {
+      "phrase": "now just",
+      "df": 27.3,
+      "ref_df": 2.1,
+      "lift": 9.2,
+      "score": 0.8564568999076256
+    },
+    {
+      "phrase": "come to a boil",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.8430345038482923
+    },
+    {
+      "phrase": "and a half of",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.8430345038482923
+    },
+    {
+      "phrase": "now as soon as",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.8430345038482923
+    },
+    {
+      "phrase": "and i like to",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.8430345038482923
+    },
+    {
+      "phrase": "with a tablespoon of",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.8430345038482923
+    },
+    {
+      "phrase": "you could use",
+      "df": 24.2,
+      "ref_df": 2.8,
+      "lift": 6.7,
+      "score": 0.7996717039961453
+    },
+    {
+      "phrase": "going to leave",
+      "df": 18.2,
+      "ref_df": 0.7,
+      "lift": 11.4,
+      "score": 0.7650746781383999
+    },
+    {
+      "phrase": "this over",
+      "df": 18.2,
+      "ref_df": 0,
+      "lift": 19.2,
+      "score": 0.7595516982394225
+    },
+    {
+      "phrase": "when it comes to",
+      "df": 21.2,
+      "ref_df": 2.8,
+      "lift": 5.9,
+      "score": 0.7537031889237886
+    },
+    {
+      "phrase": "we will",
+      "df": 39.4,
+      "ref_df": 9.7,
+      "lift": 3.8,
+      "score": 0.7424298098977105
+    },
+    {
+      "phrase": "over high heat",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "one cup of",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "you're looking for",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "high heat and",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "the meat is",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "about five minutes",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "right in there",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "quarter of a",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "in the pan",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "into the oven",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "want to let",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "half an hour",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "one and a",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.7300892965994311
+    },
+    {
+      "phrase": "we've got a",
+      "df": 21.2,
+      "ref_df": 2.1,
+      "lift": 7.2,
+      "score": 0.7272032743536948
+    },
+    {
+      "phrase": "an inch and a half",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6977155929824391
+    },
+    {
+      "phrase": "and i like to put",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6977155929824391
+    },
+    {
+      "phrase": "now as",
+      "df": 30.3,
+      "ref_df": 5.5,
+      "lift": 4.8,
+      "score": 0.6725072846705189
+    },
+    {
+      "phrase": "cool down",
+      "df": 21.2,
+      "ref_df": 1.4,
+      "lift": 9.3,
+      "score": 0.6701140511225481
+    },
+    {
+      "phrase": "let this",
+      "df": 21.2,
+      "ref_df": 1.4,
+      "lift": 9.3,
+      "score": 0.6701140511225481
+    },
+    {
+      "phrase": "and then just",
+      "df": 18.2,
+      "ref_df": 1.4,
+      "lift": 8.1,
+      "score": 0.6572824780720619
+    },
+    {
+      "phrase": "now we're gonna",
+      "df": 18.2,
+      "ref_df": 1.4,
+      "lift": 8.1,
+      "score": 0.6572824780720619
+    },
+    {
+      "phrase": "two and a half",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "a half teaspoon of",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "is going to help",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "in the pan and",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "as soon as your",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "let it cool down",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "you've got to have",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.6240557979481236
+    },
+    {
+      "phrase": "let it",
+      "df": 33.3,
+      "ref_df": 8.3,
+      "lift": 3.7,
+      "score": 0.6169276384490421
+    },
+    {
+      "phrase": "have here",
+      "df": 15.2,
+      "ref_df": 0,
+      "lift": 16.2,
+      "score": 0.5961154144453641
+    },
+    {
+      "phrase": "but i like",
+      "df": 15.2,
+      "ref_df": 0.7,
+      "lift": 9.6,
+      "score": 0.5924373225685108
+    },
+    {
+      "phrase": "for at least",
+      "df": 15.2,
+      "ref_df": 0.7,
+      "lift": 9.6,
+      "score": 0.5924373225685108
+    },
+    {
+      "phrase": "the heat and",
+      "df": 15.2,
+      "ref_df": 0.7,
+      "lift": 9.6,
+      "score": 0.5924373225685108
+    },
+    {
+      "phrase": "with a little",
+      "df": 21.2,
+      "ref_df": 3.4,
+      "lift": 5,
+      "score": 0.5908314484836322
+    },
+    {
+      "phrase": "when it",
+      "df": 36.4,
+      "ref_df": 11,
+      "lift": 3.1,
+      "score": 0.5826157980531378
+    },
+    {
+      "phrase": "and let it",
+      "df": 18.2,
+      "ref_df": 2.1,
+      "lift": 6.3,
+      "score": 0.5771263583525588
+    },
+    {
+      "phrase": "of water",
+      "df": 27.3,
+      "ref_df": 5.5,
+      "lift": 4.3,
+      "score": 0.5659861848377054
+    },
+    {
+      "phrase": "i have here",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.5404481744020437
+    },
+    {
+      "phrase": "will add one",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.5404481744020437
+    },
+    {
+      "phrase": "the heat to",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.5404481744020437
+    },
+    {
+      "phrase": "half cup of",
+      "df": 12.1,
+      "ref_df": 0,
+      "lift": 13.1,
+      "score": 0.5404481744020437
+    }
+  ],
+  "openings": [
+    {
+      "phrase": "of kosher salt",
+      "videos": 5
+    },
+    {
+      "phrase": "and a half",
+      "videos": 5
+    },
+    {
+      "phrase": "with a tablespoon",
+      "videos": 3
+    },
+    {
+      "phrase": "a tablespoon of",
+      "videos": 3
+    },
+    {
+      "phrase": "over high heat",
+      "videos": 3
+    },
+    {
+      "phrase": "a teaspoon of",
+      "videos": 3
+    },
+    {
+      "phrase": "half cup of",
+      "videos": 3
+    },
+    {
+      "phrase": "two and a",
+      "videos": 3
+    },
+    {
+      "phrase": "a lot of",
+      "videos": 3
+    }
+  ],
+  "closings": [
+    {
+      "phrase": "a little bit",
+      "videos": 4
+    },
+    {
+      "phrase": "minutes or until",
+      "videos": 3
+    },
+    {
+      "phrase": "of course you",
+      "videos": 3
+    },
+    {
+      "phrase": "there you go",
+      "videos": 3
+    },
+    {
+      "phrase": "let it cool",
+      "videos": 3
+    },
+    {
+      "phrase": "is going to",
+      "videos": 3
+    },
+    {
+      "phrase": "you want to",
+      "videos": 3
+    }
+  ],
+  "note": "Transcripts are whisper output of whole videos, so react videos include clip audio. Use df (share of videos) and lift (vs other creators) for phrases; rates are indicative."
+}

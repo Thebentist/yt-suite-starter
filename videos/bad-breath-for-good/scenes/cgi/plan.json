@@ -1,0 +1,195 @@
+[
+  {
+    "id": "cgi-brush-floss",
+    "output": "videos/bad-breath-for-good/scenes/out/cgi-brush-floss.mp4",
+    "start": {
+      "word": 2328,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "end": {
+      "word": 2402,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 2.3,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 6.11,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 7.61,
+        "kind": "pop"
+      },
+      {
+        "t": 7.86,
+        "kind": "tick"
+      },
+      {
+        "t": 8.13,
+        "kind": "pop"
+      },
+      {
+        "t": 8.38,
+        "kind": "tick"
+      },
+      {
+        "t": 9.13,
+        "kind": "whoosh"
+      },
+      {
+        "t": 9.59,
+        "kind": "tock"
+      },
+      {
+        "t": 10.71,
+        "kind": "scribble"
+      },
+      {
+        "t": 11.36,
+        "kind": "pop-low"
+      }
+    ]
+  },
+  {
+    "id": "cgi-lineup",
+    "output": "videos/bad-breath-for-good/scenes/out/cgi-lineup.mp4",
+    "start": {
+      "word": 4640,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "end": {
+      "word": 4707,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "sfx": [
+      {
+        "t": 0.25,
+        "kind": "tock"
+      },
+      {
+        "t": 2.09,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 3.78,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 5.45,
+        "kind": "whoosh"
+      },
+      {
+        "t": 6.01,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 6.34,
+        "kind": "scribble"
+      },
+      {
+        "t": 6.87,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 7,
+        "kind": "pop-low"
+      },
+      {
+        "t": 7.44,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 7.57,
+        "kind": "pop-low"
+      },
+      {
+        "t": 7.85,
+        "kind": "scribble-short"
+      },
+      {
+        "t": 8.39,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 8.89,
+        "kind": "sparkle"
+      },
+      {
+        "t": 9.13,
+        "kind": "pop-high"
+      },
+      {
+        "t": 10.17,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 11.85,
+        "kind": "whoosh-soft"
+      }
+    ]
+  },
+  {
+    "id": "cgi-mints",
+    "output": "videos/bad-breath-for-good/scenes/out/cgi-mints.mp4",
+    "start": {
+      "word": 2205,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 2231,
+      "offset": -0.15
+    },
+    "transparent": false,
+    "lane": 1,
+    "replaces": [
+      "mint-mask"
+    ],
+    "sfx": [
+      {
+        "t": 0,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.09,
+        "kind": "whoosh-soft"
+      },
+      {
+        "t": 1.51,
+        "kind": "pop"
+      }
+    ]
+  },
+  {
+    "id": "cgi-mouthwash",
+    "output": "videos/bad-breath-for-good/scenes/out/cgi-mouthwash.mp4",
+    "start": {
+      "word": 2552,
+      "offset": -0.15
+    },
+    "end": {
+      "word": 2560,
+      "edge": "end",
+      "offset": 0.25
+    },
+    "transparent": false,
+    "lane": 3,
+    "sfx": [
+      {
+        "t": 1.14,
+        "kind": "whoosh-soft"
+      }
+    ]
+  }
+]

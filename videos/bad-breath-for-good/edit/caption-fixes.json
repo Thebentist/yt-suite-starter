@@ -1,0 +1,8 @@
+{
+  "about": "Spelling fixes for YouTube captions (pipeline/edit/captions.mjs). Ben says 'Mark Quirion' and then jokes that he botched the name, so the caption keeps what he says (the on-screen card corrects it to Quirynen).",
+  "fixes": [
+    ["Mark Querionin", "Mark Quirion"],
+    ["Aqua Clean Duo", "AquaClean Duo"],
+    ["Aqua Clean", "AquaClean"]
+  ]
+}

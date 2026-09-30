@@ -1,0 +1,57 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>gaze</title></head><body>
+<script type="module">
+  // MediaPipe Face Landmarker (local copy: node_modules/@mediapipe/tasks-vision + tools/mediapipe/face_landmarker.task).
+  // window.__gaze.run([{ f, b64 }]) -> per frame [f, found, yaw, pitch, eyeH, eyeV, blink, lookL, lookR, lookDown, lookUp]
+  //   yaw   nose tip offset from the cheek midpoint, in face widths (+ = nose toward image right)
+  //   pitch nose tip offset from the eye-mouth midline, in face heights
+  //   eyeH  iris offset from the eye-corner midpoint, in eye widths, both eyes averaged (+ = toward image right)
+  //   eyeV  iris offset from the lid midpoint, in eye widths
+  //   blink mean eyeBlink blendshape; lookL/lookR = blendshape sums for looking toward image left / right; lookDown/lookUp = mean of both eyes
+  import { FilesetResolver, FaceLandmarker } from '/node_modules/@mediapipe/tasks-vision/vision_bundle.mjs';
+  try {
+    const fileset = await FilesetResolver.forVisionTasks('/node_modules/@mediapipe/tasks-vision/wasm');
+    const lm = await FaceLandmarker.createFromOptions(fileset, {
+      baseOptions: { modelAssetPath: '/tools/mediapipe/face_landmarker.task', delegate: new URLSearchParams(location.search).get('cpu') ? 'CPU' : 'GPU' },
+      runningMode: 'VIDEO', numFaces: 1, outputFaceBlendshapes: true, minFaceDetectionConfidence: 0.4, minTrackingConfidence: 0.4,
+    });
+    let lastTs = 0;
+    const r4 = (x) => Math.round(x * 1e4) / 1e4;
+    async function one(f, b64) {
+      const bin = atob(b64); const u8 = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) u8[i] = bin.charCodeAt(i);
+      const bmp = await createImageBitmap(new Blob([u8], { type: 'image/jpeg' }));
+      const ts = Math.max(lastTs + 1, Math.round(f * 1000 / 30)); lastTs = ts;
+      const res = lm.detectForVideo(bmp, ts); bmp.close();
+      const L = res.faceLandmarks && res.faceLandmarks[0];
+      if (!L) return [f, 0];
+      const mid = (a, b) => ({ x: (L[a].x + L[b].x) / 2, y: (L[a].y + L[b].y) / 2 });
+      const fw = Math.hypot(L[454].x - L[234].x, L[454].y - L[234].y);
+      const cheek = mid(234, 454);
+      const yaw = (L[1].x - cheek.x) / fw;
+      const eyes = mid(33, 263), mouth = mid(61, 291), fh = Math.hypot(mouth.x - eyes.x, mouth.y - eyes.y);
+      const pitch = (L[1].y - (eyes.y + mouth.y) / 2) / fh;
+      // eye 1: corners 33 / 133, lids 159 / 145, iris 468; eye 2: corners 362 / 263, lids 386 / 374, iris 473
+      const eye = (c1, c2, up, dn, ir) => { const w = Math.hypot(L[c2].x - L[c1].x, L[c2].y - L[c1].y); const cx = (L[c1].x + L[c2].x) / 2, cy = (L[up].y + L[dn].y) / 2; return [(L[ir].x - cx) / w, (L[ir].y - cy) / w]; };
+      const e1 = eye(33, 133, 159, 145, 468), e2 = eye(362, 263, 386, 374, 473);
+      const bs = {}; for (const c of (res.faceBlendshapes && res.faceBlendshapes[0] ? res.faceBlendshapes[0].categories : [])) bs[c.categoryName] = c.score;
+      // subject's right eye is on image left; "look toward image left" = right eye looking out + left eye looking in
+      const lookL = (bs.eyeLookOutRight || 0) + (bs.eyeLookInLeft || 0), lookR = (bs.eyeLookInRight || 0) + (bs.eyeLookOutLeft || 0);
+      return [f, 1, r4(yaw), r4(pitch), r4((e1[0] + e2[0]) / 2), r4((e1[1] + e2[1]) / 2), r4(((bs.eyeBlinkLeft || 0) + (bs.eyeBlinkRight || 0)) / 2), r4(lookL), r4(lookR), r4(((bs.eyeLookDownLeft || 0) + (bs.eyeLookDownRight || 0)) / 2), r4(((bs.eyeLookUpLeft || 0) + (bs.eyeLookUpRight || 0)) / 2)];
+    }
+    // where the face is (face-track.mjs, for vertical crops): [f, found, x, y, w] = cheek midpoint x, eye-line y and
+    // face width, as fractions of the frame
+    async function where(f, b64) {
+      const bin = atob(b64); const u8 = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) u8[i] = bin.charCodeAt(i);
+      const bmp = await createImageBitmap(new Blob([u8], { type: 'image/jpeg' }));
+      const ts = Math.max(lastTs + 1, Math.round(f * 1000 / 30)); lastTs = ts;
+      const res = lm.detectForVideo(bmp, ts); bmp.close();
+      const L = res.faceLandmarks && res.faceLandmarks[0];
+      if (!L) return [f, 0];
+      return [f, 1, r4((L[234].x + L[454].x) / 2), r4((L[33].y + L[263].y) / 2), r4(Math.hypot(L[454].x - L[234].x, L[454].y - L[234].y))];
+    }
+    window.__gaze = { run: async (batch) => { const out = []; for (const { f, b64 } of batch) out.push(await one(f, b64)); return out; },
+      where: async (batch) => { const out = []; for (const { f, b64 } of batch) out.push(await where(f, b64)); return out; } };
+    window.__ready = true;
+  } catch (e) { window.__error = String(e && e.stack || e); }
+</script>
+</body></html>

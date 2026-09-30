@@ -1,0 +1,700 @@
+[
+ {
+  "id": "cmum22uef1ca5",
+  "version": "v3",
+  "t": 1.433315,
+  "t2": null,
+  "text": "theres some dead space where im clicking it should really be starting after i click wiht that dead space gone",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 43,
+  "author": "Ben",
+  "created": "2026-09-29T02:27:08.007Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in v4a: the video now starts on your 'Oh, you're doing your friend's makeup...' right after the mouse clicks, and the TikTok starts 0.45 s into its clip so it stays in sync with your reaction.",
+    "created": "2026-09-29T03:07:01.922Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum23wz08131",
+  "version": "v3",
+  "t": 7.066666,
+  "t2": null,
+  "text": "it kinda cuts of sucks and says that suck either lengthen it for the full sentence or get rid of it",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 212,
+  "author": "Ben",
+  "created": "2026-09-29T02:27:57.996Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in v4a: 'that sucks' plays in full now (the cut was ending on 'suck').",
+    "created": "2026-09-29T03:07:02.060Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum24wju35b8",
+  "version": "v3",
+  "t": 17.688237,
+  "t2": null,
+  "text": "dead space here at the end of is it me, we want to make sure we cut as much dead space before and after each cut",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 531,
+  "author": "Ben",
+  "created": "2026-09-29T02:28:44.106Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed across the whole video in v4a: a new pass trims every pause and breath at and inside the cuts (about 12 s of dead air gone in total). It tells breathing from words by level, so it never cuts into a word.",
+    "created": "2026-09-29T03:07:02.190Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum25r7t23a4",
+  "version": "v3",
+  "t": 23.640576,
+  "t2": null,
+  "text": "you left in the false take prior to this, any redundant takes should be removed and normally you can go with the last take.",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 709,
+  "author": "Ben",
+  "created": "2026-09-29T02:29:23.849Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in v4a: the first 'because to be honest...' take is gone. I also re-listened to the whole cut in short chunks (whisper had been hiding repeats) and removed every leftover false take, keeping the last one: 'you've had breath / you've had bad breath', 'and I can... and I can tell', 'salt water, warm salt water', 'I will say that, you know, I...', and the 'Because, because' at 1:03.",
+    "created": "2026-09-29T03:07:02.326Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum26mno9fd5",
+  "version": "v3",
+  "t": 42.2084,
+  "t2": null,
+  "text": "dead space here with me just breathing",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 1266,
+  "author": "Ben",
+  "created": "2026-09-29T02:30:04.596Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in v4a (the breath is cut, and so is every breath like it).",
+    "created": "2026-09-29T03:07:02.495Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum27tux8379",
+  "version": "v3",
+  "t": 66.155425,
+  "t2": null,
+  "text": "weird double glitch here with because and the music pauses",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 1985,
+  "author": "Ben",
+  "created": "2026-09-29T02:31:00.585Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in v4a: dropped the first 'Because'. The music pause was a deliberate drop before the title card; without the card it just sounded like a glitch, so it's out until the graphics are back in.",
+    "created": "2026-09-29T03:07:02.641Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum2pw5p3aea",
+  "version": "v3",
+  "t": 655.786666,
+  "t2": null,
+  "text": "has a weird cut here where you cut out an important part, I think something we need to do is once transcribed really do a pass over comprehension to see if it makes sense as a full video to catch out redundancies, maybe repeats of sections for better takes and see what got cut off etc.",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 19674,
+  "author": "Ben",
+  "created": "2026-09-29T02:45:03.374Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored in v4a: 'And you can actually get this today, which is really, really crazy. It actually took us two years development. We have a university-backed double blind human study on this, so yes, it is all there, it is all true, and it actually does work.' I also did the comprehension pass you asked for: read the whole cut as a viewer, sentence by sentence, from what is actually audible. What it changed is in the v4a notes. Reopen this if the product section still reads wrong.",
+    "created": "2026-09-29T03:07:02.817Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum3zmch9a19",
+  "version": "v4a",
+  "t": 121.544018,
+  "t2": null,
+  "text": "huge dead space right here we need to cut",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 3646,
+  "author": "Ben",
+  "created": "2026-09-29T03:20:36.833Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Agreed. This was the 10-second wrist wait: 7 s of the real silence plus 5.5 s borrowed from later, meant to sit under a countdown graphic (and v4a had no graphics at all, so it was just you waiting). Next version keeps only your sniff + grimace (about 1.3 s), then jump-cuts straight to 'Okay, so if it smells bad', with a quick time-skip graphic on the jump. About 11.7 s gone.",
+    "created": "2026-09-29T03:33:29.692Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum40984e9bd",
+  "version": "v4a",
+  "t": 132.074005,
+  "t2": null,
+  "text": "and it starts back up around here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 3962,
+  "author": "Ben",
+  "created": "2026-09-29T03:21:06.484Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Yes, this is where the real take picks back up ('Okay, so if it smells bad'); the next version cuts straight to it.",
+    "created": "2026-09-29T03:33:29.830Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum427ji4c48",
+  "version": "v4a",
+  "t": 146.028453,
+  "t2": null,
+  "text": "i tend to look over at the screen for the next line after I get done speaking and I still see alot of that that still needs to be cut from dead space. its really tight after I get done speaking.",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 4381,
+  "author": "Ben",
+  "created": "2026-09-29T03:22:37.614Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Found the cause: after 'not the rest' your eyes go to the screen about 0.1 s after the last word, and the cut kept 4 frames of it; the next line then starts while you're still looking down. Fixing it across the whole video, not just here: a local face tracker (runs on this PC) reads where your eyes point on every frame around every cut, and each line now ends on the last frame before the glance and starts on the first frame you're back on the lens. It never cuts a word: if you glance while still talking, the word stays. Mid-sentence glances (reading a name) are left alone.",
+    "created": "2026-09-29T03:33:29.939Z"
+   },
+   {
+    "author": "Claude",
+    "text": "v4b: the frames after each line are trimmed at 107 cuts. Close-ups showed you usually start glancing during the last syllable, so to keep the word the last few frames of the glance stay. v4c fixes those with split edits: the picture cuts to your next line up to 0.2 s before the sound ends (57 cuts). With graphics on screen, only about 24 of these glances are visible at all; the rest sit under full-screen graphics.",
+    "created": "2026-09-29T04:23:44.905Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum70z6fc6a2",
+  "version": "v4b",
+  "t": 359.646977,
+  "t2": null,
+  "text": "a little redudancy here as theres a multiple take still in",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 10789,
+  "author": "Ben",
+  "created": "2026-09-29T04:45:38.968Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed in the next version: it now plays 'It's not good. And I can tell if somebody has tonsil stones a mile away.' Only your last take stays.",
+    "created": "2026-09-29T05:21:18.616Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum75g5n0f1f",
+  "version": "v4b",
+  "t": 452.936177,
+  "t2": null,
+  "text": "another double speak about mouthwash here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 13588,
+  "author": "Ben",
+  "created": "2026-09-29T04:49:07.595Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Got it. Cut just the false start 'And most mout-'; it now runs 'feeding that bacteria, and most mouthwash, to be honest...'. The transcription had merged both attempts into one long 'mouthwash', which is why it slipped through.",
+    "created": "2026-09-29T05:21:18.806Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum7nz0m11d8",
+  "version": "v4b",
+  "t": 627.26092,
+  "t2": null,
+  "text": "a little glitch here and some dead space",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 18818,
+  "author": "Ben",
+  "created": "2026-09-29T05:03:31.846Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Two problems here. 1) Two clips overlapped in the raw, so 0.73 s of 'Zero Pro. And you can' played twice. 2) Two slivers of breath and mouth noise sat between 'really crazy.' and 'It actually took us', which is the dead space. Both fixed. I also added pipeline checks so no two clips can replay the same frames and noise slivers get dropped; that caught 10 across the whole video.",
+    "created": "2026-09-29T05:21:19.022Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum7p02a83de",
+  "version": "v4b",
+  "t": 660.577948,
+  "t2": null,
+  "text": "got kind of cut off weird here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 19817,
+  "author": "Ben",
+  "created": "2026-09-29T05:04:19.858Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "The ad ended on 'seeing the new tech.' and jumped straight to tonsil stones. I restored your next line, 'Now, this tech is very, very new, and we're going to be seeing this all over the place.', before 'Now for the tonsil stones', so it closes naturally.",
+    "created": "2026-09-29T05:21:19.233Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum7qp0xd3ec",
+  "version": "v4b",
+  "t": 698.394695,
+  "t2": null,
+  "text": "would like to see me holding up our water flosser here or see something that has our logo and actual product in it.",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 20952,
+  "author": "Ben",
+  "created": "2026-09-29T05:05:38.865Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "You DO hold the AquaClean Duo up on camera in the raw, during 'I would recommend our AquaClean Duo... specifically for tonsil stones'. The graphic was covering it. Next version: you're on camera holding it, with a clean AquaClean Duo name card beside you. Then on 'Ours is a very soft flow on the tonsil stone mode' we show the real product with its logo (photos from your site), lit so it doesn't look pasted in.",
+    "created": "2026-09-29T05:21:19.455Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum7rgdh26f5",
+  "version": "v4b",
+  "t": 717.355371,
+  "t2": null,
+  "text": "another stutter here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 21521,
+  "author": "Ben",
+  "created": "2026-09-29T05:06:14.309Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Fixed: cut the first 'what that,'. Now: '...alcohol-free mouthwash. What that does is basically just keeps those holes clean'.",
+    "created": "2026-09-29T05:21:19.658Z"
+   }
+  ]
+ },
+ {
+  "id": "cmum7s1784551",
+  "version": "v4b",
+  "t": 726.853839,
+  "t2": null,
+  "text": "weird glitch to my camera and off again",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 21806,
+  "author": "Ben",
+  "created": "2026-09-29T05:06:41.300Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Found it: a 0.27 s zoom-in on the word 'every' between two normal shots of the same continuous take, so the camera popped in and out with no cut. Fixed. There's also a new rule for the whole video: a zoom change only happens on a real cut, and never lasts under 0.8 s.",
+    "created": "2026-09-29T05:21:19.861Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumaq9wm03f7",
+  "version": "v4d",
+  "t": 92.676719,
+  "t2": null,
+  "text": "i actually liked the first cut graphics of this better",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 2780,
+  "author": "Ben",
+  "created": "2026-09-29T06:29:18.119Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored the first-pass version of this scene (the one you liked in v4b), re-timed to the current cut. All 3D scenes with people are back to the first-pass style (hook-lean, who-tells, house-smell, nose-adapt, face-breath, cup-hand, study-card). The 3D tongue, teeth, throat, microbes and products stay.",
+    "created": "2026-09-29T17:25:34.633Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumaqln5f4f3",
+  "version": "v4d",
+  "t": 12.183899,
+  "t2": null,
+  "text": "Liked first cut grpahics of this better humans look too wonky",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 366,
+  "author": "Ben",
+  "created": "2026-09-29T06:29:33.329Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored the first-pass version of this scene (the one you liked in v4b), re-timed to the current cut. All 3D scenes with people are back to the first-pass style (hook-lean, who-tells, house-smell, nose-adapt, face-breath, cup-hand, study-card). The 3D tongue, teeth, throat, microbes and products stay.",
+    "created": "2026-09-29T17:25:33.779Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumar4v22a16",
+  "version": "v4d",
+  "t": 29.715685,
+  "t2": null,
+  "text": "same here this scene in first cut was better humans are just too weird in the 3D",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 891,
+  "author": "Ben",
+  "created": "2026-09-29T06:29:58.238Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored the first-pass version of this scene (the one you liked in v4b), re-timed to the current cut. All 3D scenes with people are back to the first-pass style (hook-lean, who-tells, house-smell, nose-adapt, face-breath, cup-hand, study-card). The 3D tongue, teeth, throat, microbes and products stay.",
+    "created": "2026-09-29T17:25:33.942Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumarsyvc0a2",
+  "version": "v4d",
+  "t": 42.582291,
+  "t2": null,
+  "text": "cut here a little dead space",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 1277,
+  "author": "Ben",
+  "created": "2026-09-29T06:30:29.479Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Found it: the PubMed cutaway opened on an empty dark frame for about 0.25 s before the page slid in. Fixed on all 12 real-media cutaways; each now opens with the page or image already in frame.",
+    "created": "2026-09-29T17:25:35.045Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumat2h16fc8",
+  "version": "v4d",
+  "t": 67.209458,
+  "t2": null,
+  "text": "liked first cut of this one too graphics wise.  for this entire section with the humans",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 2016,
+  "author": "Ben",
+  "created": "2026-09-29T06:31:28.453Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored the first-pass version of this scene (the one you liked in v4b), re-timed to the current cut. All 3D scenes with people are back to the first-pass style (hook-lean, who-tells, house-smell, nose-adapt, face-breath, cup-hand, study-card). The 3D tongue, teeth, throat, microbes and products stay.",
+    "created": "2026-09-29T17:25:34.165Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumatgm6d5e0",
+  "version": "v4d",
+  "t": 85.661626,
+  "t2": null,
+  "text": "same here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 2570,
+  "author": "Ben",
+  "created": "2026-09-29T06:31:46.782Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Restored the first-pass version of this scene (the one you liked in v4b), re-timed to the current cut. All 3D scenes with people are back to the first-pass style (hook-lean, who-tells, house-smell, nose-adapt, face-breath, cup-hand, study-card). The 3D tongue, teeth, throat, microbes and products stay.",
+    "created": "2026-09-29T17:25:34.336Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumawhuz4772",
+  "version": "v4d",
+  "t": 181.488193,
+  "t2": null,
+  "text": "these are all good it seems its just the human elements that look weird in this 3D style",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 5445,
+  "author": "Ben",
+  "created": "2026-09-29T06:34:08.363Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Agreed, and noted for next time: people stay high-taste 2D (or proper Blender), 3D for anatomy, microbes and products.",
+    "created": "2026-09-29T17:25:34.850Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb11tw7776",
+  "version": "v4d",
+  "t": 463.90994,
+  "t2": null,
+  "text": "this animation is juttery and messed up",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 13917,
+  "author": "Ben",
+  "created": "2026-09-29T06:37:40.868Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Two causes: a bug in the toothbrush 3D shape (rays skipped past the bristle tips, so they popped) and stale frames from the renderer. Both fixed; the popping went from about 20% of pixels jumping per frame to 1.4%.",
+    "created": "2026-09-29T17:25:35.387Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb4hut612a",
+  "version": "v4d",
+  "t": 590.574321,
+  "t2": null,
+  "text": "would love our actual logo here https://somethingnicecompany.com/cdn/shop/files/sn-logo-white.png?v=1780607776&width=370",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 17717,
+  "author": "Ben",
+  "created": "2026-09-29T06:40:21.605Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Your real logo is in (from the link you sent), revealed with a clean wipe, sharp at 4K.",
+    "created": "2026-09-29T17:25:35.699Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb56zn58f3",
+  "version": "v4d",
+  "t": 598.076516,
+  "t2": null,
+  "text": "text is a little off of my voice matching up",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 17942,
+  "author": "Ben",
+  "created": "2026-09-29T06:40:54.179Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "The transcription placed words about 0.15-0.3 s late, and here it merged nano lipid into one word. Fixed both across the whole video: the word timing is now corrected, so graphics land on your voice everywhere.",
+    "created": "2026-09-29T17:25:35.879Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb7evw1efd",
+  "version": "v4d",
+  "t": 656.341376,
+  "t2": null,
+  "text": "kind of cuts out of nowhere, see if theres a softer landing here. if not keep the cut as is",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 19690,
+  "author": "Ben",
+  "created": "2026-09-29T06:42:37.724Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Softer landing: the ad now closes on your line: And I am excited to see the future of where these things go. Then Now for the tonsil stones, with the music change carrying the transition.",
+    "created": "2026-09-29T17:25:36.048Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb93aw8a8f",
+  "version": "v4d",
+  "t": 757.613832,
+  "t2": null,
+  "text": "weird glitch out here and a frame of me in there randomly",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 22728,
+  "author": "Ben",
+  "created": "2026-09-29T06:43:56.024Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "A 1.4-frame gap between two graphics let you flash through. Closed, plus a new rule: gaps under half a second between graphics are closed automatically.",
+    "created": "2026-09-29T17:25:36.236Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumb9vx46806",
+  "version": "v4d",
+  "t": 774.070046,
+  "t2": null,
+  "text": "cut off the end of that sentence \"different way\"",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 23222,
+  "author": "Ben",
+  "created": "2026-09-29T06:44:33.112Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "You trail off softly on way, under the level the tightening treats as speech, so it got clipped. Restored in full, and the tightening can no longer undo a manual keep.",
+    "created": "2026-09-29T17:25:36.403Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumwxnwx61ce",
+  "version": "v4e",
+  "t": 156.62447,
+  "t2": null,
+  "text": "glitchy here",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 4699,
+  "author": "Ben",
+  "created": "2026-09-29T16:50:54.418Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "Found it: the renderer sometimes grabbed the previous 3D image under heavy GPU load, a 0.1 s backward jump. Fixed and re-rendered; I also scanned all 101 graphics in the final for the same thing: none left.",
+    "created": "2026-09-29T17:25:36.565Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumwxz4fce24",
+  "version": "v4e",
+  "t": 690.815139,
+  "t2": null,
+  "text": "weird glitch video of me right after this frame",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 20724,
+  "author": "Ben",
+  "created": "2026-09-29T16:51:08.943Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "The 3D flosser shot ended 8 frames before the cut to you holding the flosser, so the end of the previous take flashed. Fixed, plus an automatic rule that stops graphics leaving slivers like that.",
+    "created": "2026-09-29T17:25:36.733Z"
+   }
+  ]
+ },
+ {
+  "id": "cmumwz9cv930e",
+  "version": "v4e",
+  "t": 723.280258,
+  "t2": null,
+  "text": "theres a flash frame of me here somewhere as well",
+  "links": [],
+  "files": [],
+  "drawing": null,
+  "frame": 21698,
+  "author": "Ben",
+  "created": "2026-09-29T16:52:08.864Z",
+  "status": "done",
+  "replies": [
+   {
+    "author": "Claude",
+    "text": "A 1-frame rounding hole between the gargle and regrow scenes. Fixed at the root (frame times are now rounded from the true end time), so it cannot happen anywhere.",
+    "created": "2026-09-29T17:25:36.906Z"
+   }
+  ]
+ }
+]

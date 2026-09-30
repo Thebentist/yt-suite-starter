@@ -1,0 +1,22 @@
+verdict-a.json: accuracy 50% | caught 1/16 AI | false alarms 1/16 real | PASS
+verdict-b.json: accuracy 53% | caught 5/16 AI | false alarms 4/16 real | PASS
+
+Overall: FAIL (pass needs every judge under 60% and no paragraph caught by all 2)
+
+Script paragraphs caught (most often first):
+
+#18 caught by 2: That's why when a dentist checks you for real they go all the way to the back. Scrape that off with their little mirror let it dry and then smell that. If you look at a tongue clos...
+   - verdict-a.json: Clean, well-ordered explanation with no restarts or slips; 'microscopically' and 'weirdly enough' feel composed (conf 2)
+   - verdict-b.json: clean flow with polished words like 'microscopically' and 'weirdly enough' and no restarts (conf 3)
+
+#23 caught by 1: You're talking to somebody you know close enough to see their teeth and then all of a sudden they lean away and you're like wait a second is my breath stink? And the crazy part is ...
+   - verdict-b.json: vivid tidy scenario with a scripted-sounding 'I mean it's the same thing as like' analogy (conf 2)
+
+#25 caught by 1: And one of the main ones is the same gas that makes that rotten egg smell. And the fun fact is you can see it that's right if you stick your tongue out and it's super white yellow ...
+   - verdict-b.json: compact 'the fun fact is' setup then a neat colour list (conf 1)
+
+#27 caught by 1: And where is it really coming from? Because I don't think it's where most people think it comes from. So first off the reason that you can't smell your own bad breath is because we...
+   - verdict-b.json: clean rhetorical question then an explanatory 'first off the reason' with no restarts (conf 2)
+
+#30 caught by 1: They don't really know that their house smelled bad. And most people think that they got bad breath from something that they ate. You know like the garlic and all that type of stuf...
+   - verdict-b.json: short tidy assertions and a neat credential line 'trust me I'm an orthodontist' (conf 1)

@@ -1,0 +1,341 @@
+{
+  "channel_url": "https://www.youtube.com/@AltonBrown",
+  "videos": {
+    "Z1VGSSzfRRU": {
+      "id": "Z1VGSSzfRRU",
+      "duration": 262,
+      "views": 574017,
+      "title": "Alton Brown Makes Baked Macaroni and Cheese | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:53:37.252Z",
+      "model": "ggml-small.en.bin"
+    },
+    "bTaTxsIFWrs": {
+      "id": "bTaTxsIFWrs",
+      "duration": 1527,
+      "views": 1562845,
+      "title": "Alton Brown's Top 10 Recipe Videos | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:55:22.834Z",
+      "model": "ggml-small.en.bin"
+    },
+    "FKuXz5gcr_g": {
+      "id": "FKuXz5gcr_g",
+      "duration": 247,
+      "views": 621321,
+      "title": "Alton�s Creamed Corn Cornbread | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:55:49.946Z",
+      "model": "ggml-small.en.bin"
+    },
+    "UHD__HkfexY": {
+      "id": "UHD__HkfexY",
+      "duration": 319,
+      "views": 401992,
+      "title": "Cook Southern Biscuits with Alton Brown | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:56:24.330Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Fy2Jcrl8-Fk": {
+      "id": "Fy2Jcrl8-Fk",
+      "duration": 289,
+      "views": 106961,
+      "title": "Alton Brown Makes Blueberry Buckle | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:01:42.016Z",
+      "model": "ggml-small.en.bin"
+    },
+    "rUu7EP2zKCc": {
+      "id": "rUu7EP2zKCc",
+      "duration": 325,
+      "views": 548773,
+      "title": "Alton Brown Makes Soft Pretzels | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:57:49.962Z",
+      "model": "ggml-small.en.bin"
+    },
+    "l6Cl6Qkc_aI": {
+      "id": "l6Cl6Qkc_aI",
+      "duration": 190,
+      "views": 310105,
+      "title": "How to Make Alton�s Swedish Meatballs | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:57:20.105Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Tl4SKZ9BF2c": {
+      "id": "Tl4SKZ9BF2c",
+      "duration": 296,
+      "views": 1403498,
+      "title": "Alton Brown Makes Homemade Dill Pickles | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:02:32.762Z",
+      "model": "ggml-small.en.bin"
+    },
+    "BgPQBbiJeDg": {
+      "id": "BgPQBbiJeDg",
+      "duration": 269,
+      "views": 126911,
+      "title": "Alton Brown Makes a Cold-Fashioned Potato Salad | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:58:16.842Z",
+      "model": "ggml-small.en.bin"
+    },
+    "psxwyyrZN3A": {
+      "id": "psxwyyrZN3A",
+      "duration": 266,
+      "views": 932737,
+      "title": "Alton's Good Eats Beef Stew | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:58:47.779Z",
+      "model": "ggml-small.en.bin"
+    },
+    "cOP6QuhyONc": {
+      "id": "cOP6QuhyONc",
+      "duration": 313,
+      "views": 1367275,
+      "title": "Alton Brown Makes a Burger of the Gods (FULL SEGMENT) | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:56:56.352Z",
+      "model": "ggml-small.en.bin"
+    },
+    "TJXEb0eJSfw": {
+      "id": "TJXEb0eJSfw",
+      "duration": 422,
+      "views": 621132,
+      "title": "Alton Brown Makes Smoked Salmon | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:59:24.947Z",
+      "model": "ggml-small.en.bin"
+    },
+    "qfdAF62j8ZA": {
+      "id": "qfdAF62j8ZA",
+      "duration": 244,
+      "views": 771015,
+      "title": "Alton Brown Makes Buffalo Wings | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T02:59:50.950Z",
+      "model": "ggml-small.en.bin"
+    },
+    "_pf8dpkrgzM": {
+      "id": "_pf8dpkrgzM",
+      "duration": 301,
+      "views": 202078,
+      "title": "Alton Brown Makes a Crawfish Boil | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:00:19.197Z",
+      "model": "ggml-small.en.bin"
+    },
+    "eChbcRHRuCQ": {
+      "id": "eChbcRHRuCQ",
+      "duration": 194,
+      "views": 411936,
+      "title": "How to Perfectly Sear Scallops with Alton Brown | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:00:43.112Z",
+      "model": "ggml-small.en.bin"
+    },
+    "4D6KstTbVM4": {
+      "id": "4D6KstTbVM4",
+      "duration": 176,
+      "views": 100821,
+      "title": "Alton Brown's Pizza Pizzas | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:01:04.080Z",
+      "model": "ggml-small.en.bin"
+    },
+    "tsyXL8zKTrM": {
+      "id": "tsyXL8zKTrM",
+      "duration": 288,
+      "views": 1871516,
+      "title": "Alton Brown Makes His Good Eats Meatloaf | Food Network",
+      "format": "long",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "SgbBBaY7COs": {
+      "id": "SgbBBaY7COs",
+      "duration": 231,
+      "views": 400894,
+      "title": "Alton Brown Makes the Best Homemade Cocoa Brownies | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:06:21.670Z",
+      "model": "ggml-small.en.bin"
+    },
+    "aw47RIe3s3M": {
+      "id": "aw47RIe3s3M",
+      "duration": 231,
+      "views": 444706,
+      "title": "Alton Brown's Corned Beef Recipe | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:02:05.497Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ULj3myWJ7tU": {
+      "id": "ULj3myWJ7tU",
+      "duration": 378,
+      "views": 330427,
+      "title": "Alton Brown's 5-Star Pulled Pork Recipe | Good Eats | Food Network",
+      "format": "long",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "LawWilQ90v0": {
+      "id": "LawWilQ90v0",
+      "duration": 317,
+      "views": 1112282,
+      "title": "Alton's Favorite Kitchen Gadgets: EXCLUSIVE | Good Eats: The Return with Alton Brown | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:05:13.204Z",
+      "model": "ggml-small.en.bin"
+    },
+    "ZfABPIq8r_s": {
+      "id": "ZfABPIq8r_s",
+      "duration": 216,
+      "views": 617896,
+      "title": "Baking Soda vs. Baking Powder EXCLUSIVE | Good Eats: The Return with Alton Brown | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:03:09.117Z",
+      "model": "ggml-small.en.bin"
+    },
+    "Vph5hJTvnP8": {
+      "id": "Vph5hJTvnP8",
+      "duration": 167,
+      "views": 190982,
+      "title": "Alton Brown's Famous \"The Chewy\" Chocolate Chip Cookies | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:05:59.793Z",
+      "model": "ggml-small.en.bin"
+    },
+    "wnga8dGIdZ0": {
+      "id": "wnga8dGIdZ0",
+      "duration": 277,
+      "views": 437439,
+      "title": "Alton Brown Makes Crepes 3 Ways | Good Eats | Food Network",
+      "format": "long",
+      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden"
+    },
+    "VEMHagBgTj8": {
+      "id": "VEMHagBgTj8",
+      "duration": 189,
+      "views": 167686,
+      "title": "Alton Brown Makes Stove Top Mac-n-Cheese | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:04:01.611Z",
+      "model": "ggml-small.en.bin"
+    },
+    "GXZ5ZRvVBvc": {
+      "id": "GXZ5ZRvVBvc",
+      "duration": 181,
+      "views": 43624,
+      "title": "Alton Brown's Oven-Baked Brown Rice Salad | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:03:44.532Z",
+      "model": "ggml-small.en.bin"
+    },
+    "mLi3G7RSUS0": {
+      "id": "mLi3G7RSUS0",
+      "duration": 175,
+      "views": 234433,
+      "title": "Alton Brown's 5-Star Pan-Seared Rib-Eye | Good Eats: Reloaded | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:04:23.688Z",
+      "model": "ggml-small.en.bin"
+    },
+    "eaKOLGIcMGE": {
+      "id": "eaKOLGIcMGE",
+      "duration": 257,
+      "views": 1638814,
+      "title": "Alton Brown's Good Eats Perfect Roast Turkey | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:06:45.613Z",
+      "model": "ggml-small.en.bin"
+    },
+    "iTTjmFI2kUg": {
+      "id": "iTTjmFI2kUg",
+      "duration": 260,
+      "views": 47613,
+      "title": "Alton Brown Makes Sweet Potato Pie | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:07:08.762Z",
+      "model": "ggml-small.en.bin"
+    },
+    "LQHqezQzQoM": {
+      "id": "LQHqezQzQoM",
+      "duration": 316,
+      "views": 216150,
+      "title": "Alton Brown Makes Mix-and-Match Salsa | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:07:35.313Z",
+      "model": "ggml-small.en.bin"
+    },
+    "nGYlHWWZE9Y": {
+      "id": "nGYlHWWZE9Y",
+      "duration": 351,
+      "views": 243155,
+      "title": "Alton Brown Makes Honey Brined Smoked Turkey | Good Eats: The Return with Alton Brown | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:08:20.249Z",
+      "model": "ggml-small.en.bin"
+    },
+    "6jz3BJhJC2c": {
+      "id": "6jz3BJhJC2c",
+      "duration": 281,
+      "views": 189575,
+      "title": "SET TOUR  Behind-the-Scenes w/ Alton Brown | Good Eats: The Return with Alton Brown | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:08:45.329Z",
+      "model": "ggml-small.en.bin"
+    },
+    "JT4aJhXLuVY": {
+      "id": "JT4aJhXLuVY",
+      "duration": 167,
+      "views": 24752,
+      "title": "How to Make Alton's Ganache Frosting | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:07:54.992Z",
+      "model": "ggml-small.en.bin"
+    },
+    "fUnl-bb6u4A": {
+      "id": "fUnl-bb6u4A",
+      "duration": 175,
+      "views": 180205,
+      "title": "Alton Brown Makes Vanilla Ice Cream | Good Eats | Food Network",
+      "format": "long"
+    },
+    "VxbBBwj0-mA": {
+      "id": "VxbBBwj0-mA",
+      "duration": 833,
+      "views": 720491,
+      "title": "6 Top-Rated Alton Brown Thanksgiving Recipes | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:09:31.040Z",
+      "model": "ggml-small.en.bin"
+    },
+    "SdVOHBToB3s": {
+      "id": "SdVOHBToB3s",
+      "duration": 365,
+      "views": 177274,
+      "title": "Alton Brown Makes Broccoli Casserole | Good Eats | Food Network",
+      "format": "long"
+    },
+    "MMUy8eBADSc": {
+      "id": "MMUy8eBADSc",
+      "duration": 160,
+      "views": 216380,
+      "title": "Alton Brown Makes Oven-Roasted Broccoli | Good Eats | Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:09:50.412Z",
+      "model": "ggml-small.en.bin"
+    },
+    "IvPuc8s-LR8": {
+      "id": "IvPuc8s-LR8",
+      "duration": 267,
+      "views": 141102,
+      "title": "Turkey Carving 101 with Alton Brown from \"Good Eats\" on Food Network",
+      "format": "long",
+      "transcribed_at": "2026-09-28T03:10:16.598Z",
+      "model": "ggml-small.en.bin"
+    }
+  },
+  "listed_at": "2026-09-28T02:53:09.961Z"
+}

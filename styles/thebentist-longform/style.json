@@ -1,0 +1,126 @@
+{
+  "name": "thebentist-longform",
+  "version": 1,
+  "learnedFrom": {
+    "url": "https://www.youtube.com/watch?v=q8regjBdFxo",
+    "title": "Is soda ACTUALLY bad for your teeth??",
+    "channel": "The Bentist",
+    "uploadDate": "2026-09-04",
+    "duration": 757,
+    "id": "q8regjBdFxo",
+    "start": 0,
+    "end": 757,
+    "analysedSeconds": 757
+  },
+  "measured": {
+    "durationSec": 757,
+    "video": {
+      "width": 854,
+      "height": 480,
+      "fps": 30
+    },
+    "shots": {
+      "cuts": 104,
+      "cutsPerMin": 8.24,
+      "cutsPerMinFirst60": 13,
+      "meanShotSec": 7.28,
+      "medianShotSec": 3.87,
+      "p10ShotSec": 0.87,
+      "p75ShotSec": 11.3,
+      "p90ShotSec": 19.8,
+      "histogram": {
+        "<1s": 14,
+        "1-2s": 28,
+        "2-4s": 11,
+        "4-8s": 16,
+        "8-15s": 19,
+        "15s+": 16
+      },
+      "threshold": 0.12,
+      "sensitivity": {
+        "0.08": 108,
+        "0.12": 104,
+        "0.2": 93,
+        "0.3": 82,
+        "0.4": 28
+      }
+    },
+    "speech": {
+      "pauseCount": 630,
+      "pausesPerMin": 49.93,
+      "pauseMedianSec": 0.16,
+      "pauseP75Sec": 0.27,
+      "pauseP90Sec": 0.43,
+      "silentShare": 0.2,
+      "floorDb": -47.7,
+      "speechDb": -23.8,
+      "thresholdDb": -40.5
+    },
+    "loudness": {
+      "integratedLufs": -24.3,
+      "lraLu": 7.6,
+      "truePeakDbtp": -1.3
+    },
+    "musicBed": {
+      "likely": true,
+      "pauseLevelDb": -46.44,
+      "pauseStdDb": 6.52,
+      "speechDb": -23.8,
+      "relativeDb": -22.64
+    }
+  },
+  "edit": {
+    "pause": {
+      "keepBetweenSentences": 0.16,
+      "maxBetweenSentences": 0.28,
+      "keepInSentence": 0.26,
+      "maxInSentence": 0.41
+    },
+    "punchIn": {
+      "enabled": true,
+      "scale": 1.3,
+      "every": 2,
+      "maxHoldSec": 11.3,
+      "minSegmentSec": 0.87
+    },
+    "cutRate": {
+      "targetCutsPerMin": 7,
+      "targetCutsPerMinFirst60": 11.04
+    },
+    "music": {
+      "gainDb": -22.64
+    },
+    "deliver": {
+      "loudnessLufs": -24.3,
+      "truePeakDbtp": -1.3
+    }
+  },
+  "sheets": [
+    "styles/thebentist-longform/sheets/first60-01.png",
+    "styles/thebentist-longform/sheets/first60-02.png",
+    "styles/thebentist-longform/sheets/overview-01.png",
+    "styles/thebentist-longform/sheets/overview-02.png",
+    "styles/thebentist-longform/sheets/overview-03.png",
+    "styles/thebentist-longform/sheets/cuts-01.png",
+    "styles/thebentist-longform/sheets/cuts-02.png"
+  ],
+  "adjustedAfterLooking": {
+    "by": "Claude, from the contact sheets, 2026-09-27",
+    "changes": {
+      "edit.punchIn.scale": [
+        1.12,
+        1.3
+      ],
+      "edit.cutRate.targetCutsPerMin": [
+        8.24,
+        7
+      ],
+      "edit.cutRate.targetCutsPerMinFirst60": [
+        13,
+        11.04
+      ]
+    },
+    "why": "observed punch-ins 1.3-1.5x on nearly every jump cut; ~20 of 24 checked cuts are Ben-to-Ben framing changes; first-minute rate scaled by the same factor (13 x 7/8.24), 2026-09-28",
+    "reappliedOnRerun": true
+  }
+}

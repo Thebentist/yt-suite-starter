@@ -1,0 +1,69 @@
+You are judging short passages from YouTube videos. Each passage is either (a) a transcript of Dr. Ben Winters really talking to camera, or (b) a passage written by an AI model to imitate how Dr. Ben Winters talks. About half are each. Transcripts were cleaned (filler words, stutters and punctuation quirks removed), so don't rely on those.
+
+For every passage decide HUMAN or AI, give a confidence from 1 (coin flip) to 5 (certain), and one short reason naming the specific feature of the wording that decided it. Topic is not a clue; both kinds cover the same topics. Judge only how the words are put together.
+
+Return ONLY a JSON array: [{"id":1,"label":"HUMAN"|"AI","confidence":1-5,"reason":"..."}, ...]
+
+[1] Have you ever went into your bathroom brushed your teeth and noticed blood? Oh my gosh is there something wrong with me? Did I do something wrong? Am I hurt? Probably not. I wouldn't freak out too much but we're going to go ahead and get right into exactly what's the cause of that and how you can fix it.
+
+[2] That's what we call a coated tongue. And that's probably where your bad breath is coming from. And you really you think it would be your teeth because that's what we've been told our whole lives. But there's this bad breath clinic over in Belgium. There's this periodontist named Mark Quirion and yeah I completely botched that. But they have this whole clinic just for breath and they went through like and the number and they went through like 2000 patients and the number one cause of bad breath they found was just the coating on the tongue.
+
+[3] And guess what the bacteria they absolutely love it down there. And fun fact they're the kind of bacteria that actually don't even like oxygen. And fun fact they're the kind that actually don't even like oxygen. And guess what not a lot of oxygen down there. So technically it's the perfect spot for those bacteria to live.
+
+[4] And people have actually tested how good we are at this. They had people that were worried about they had people that were worried about their breath rate their own breath you know the smell of it. And then they would have a professional bad breath smeller. Yeah that's actually a thing apparently it's their job to just smell bad breath would smell it and then rate it. And guess what they almost always got it wrong. In fact people only got it right like half of the time.
+
+[5] I don't even know like it's probably toxic. It's just like straight up violet three FDA bad regulated color like dye. So yeah probably not good to keep in your mouth for a long time. Either way I just hope for a day when you guys finally stop getting scammed.
+
+[6] I'm just at this once our channel hits 10 million subscribers I'm gonna take this bracket off live on camera. So hit that subscribe button now wild Saturday night shooting tonsil stones out What does she do? Oh she's holding it down We got the phone light and a little squirt did tonsil stones are the worst You guys don't know a tonsil stone is basically food and gunk that's getting up into these little tonsil Crips and then every time you swallow the tonsils compress and they compress it into a little stone of rotting nasty smelling food For those who don't know it's nasty and it smells very unique.
+
+[7] How weird is that? That's not even talking about the jaw pain and the headaches and all that type of stuff. We see that constantly for people grinding clenching all that type of stuff. And a lot of times it's just because you have a super deep bite or your bite is off and you're kind of moving your jaw around.
+
+[8] And I can tell if someone has tonsil stones a mile away it's a way different smell. And like I said if you squish one you know exactly what I'm talking about. Because it's not actually coming from the food it's probably coming from the stomach and that stomach is acid reflux. But your stomach is not breathing out of your mouth all the time there's a little valve that literally holds all of those things in so it doesn't really make sense to go through your mouth.
+
+[9] And trust me there's nothing more around you than your bad breath. I mean literally it's coming out of your face all day long. And this whole like cup your hand over your mouth and snippet thing that doesn't really work either. You're kind of just smelling the same air that you've been smelling all day long.
+
+[10] That's right I hear you out there those Dr. Pepper Zero drinking people you probably thought hey it says zero calories on the can it's sugar free I'm going ahead and I'm eating these things every single day having five or six of them I'm as healthy as can be right? Well more than likely wrong because these low-calorie beverages can actually be sneakily harmful to your teeth.
+
+[11] You know it always comes back to just take care of your teeth. If you're new to my channel I make videos like this every single week discussing all the crazy dental stuff around the world. So if you like it make sure to subscribe so you don't miss the next one shaving down my teeth because we're free to get calls bunny to their buck to the get. Oh my gosh and hers aren't even that bad to but the crazy part is I guess if you really think about it as orthodontist we actually do this on purpose.
+
+[12] Another really important one to do is flossing. Flossing is super important because it gets in between the teeth and down underneath the gum tissue where all that plaque and bacteria is hiding. If you have braces like this well then you got to get something like an ortho pick. This is what ortho picks look like. You can get them from Walgreens wherever else. Obviously something nice. We're going to try and come up with one sooner rather than later for you guys.
+
+[13] I had all these patients that were coming in with crazy sensitivity all the time and I was like "What the heck is all this coming from?" And eventually I found out that they were all using charcoal toothpaste and if you guys don't know it is like basically using sandpaper on your teeth. It's terrible for you. Now there are some enamel-safe charcoals but charcoal toothpaste but basically that's just black food coloring there's actually no charcoal in it at all but yeah let's continue. - 15 the whitening stops.
+
+[14] And you know what's trying to just smell your morning breath in the morning. No brush in the morning to get rid of all that gunk and then at night get everything off your teeth. You're just sitting there all night with that gunk just on there just acid etching away your teeth. You don't want that. That's how cavities are formed. Let's all wrap it up.
+
+[15] I know what bad breath smells like. And more than likely it's actually your mouth like eight or nine times out of ten it's gonna be your mouth rather than something you ate. And it's actually super common. It's actually and it's actually super common about one in three people have bad breath or halitosis. So if that's you're definitely not alone. So the real question is how do you check something that you can't even smell?
+
+[16] I always smiled with my mouth closed and all that type of stuff. But when I was done I tell you the day that I got my braces off I cried again because I wanted to keep them on. But when I got them off I took a look at my smile and I was like "Holy crap this is awesome. I've got good teeth. I'm smiling.
+
+[17] And then what they do is they eat all that gunk the dead cells the proteins and mucus all that they eat it up. And some of that stuff and some of that stuff specifically proteins have sulfur in them. So when the bacteria eat that and then they will poop out their remains well they poop out sulfur gas. We actually call these volatile sulfur compounds.
+
+[18] That's why when a dentist checks you for real they go all the way to the back. Scrape that off with their little mirror let it dry and then smell that. If you look at a tongue close up microscopically it's not smooth at all it's actually covered by these tiny little bumps. And as you go further back weirdly enough they get longer and longer.
+
+[19] So unless you have reflux more than likely it's coming from your mouth. You've had breath you've had bad breath for a while you've tried everything you've tried mints and mouthwash and brushing harder and the reason that none of it's really worked is because well it's all about this and the reason none of it really sticks in general is actually kind of for the same reason you see a mint just covers up your breath for you see a mint just covers up your breath for a few minutes.
+
+[20] Because your wrist is really only getting the stuff that's on the tip of the tongue not the rest. And the tip is usually the cleanest part of your entire tongue. You know it's mainly because it's rubbing across your teeth all the time the roof of your mouth you know you're sprinting mainly because it's rubbing against the roof of your mouth water and saliva is always hitting it and stuff like that.
+
+[21] So you know it's like not bad too as long as they're doing it for the right reasons. Oh my gosh. Meanwhile the assistant be like begging for money. Yeah no I mean I totally get it. But I mean if you want to make that type of money which to be honest there's better ways to make that money you know than going through 10 years of dental school and paying almost you know a million dollars in debt these days you know so trust me there's different you know if anything you want to look at the person making a lot of money it's the hygienist they don't have to go to as much school way cheaper and they make quite a bit of money.
+
+[22] No seriously don't do this. And I think you obviously probably understand you probably should cover something on your teeth and leave it there for eight months and not even clean it. The way that I like to tell people this is it's almost like if you had a diaper. Say your baby had a diaper and he you know he went number two in that diaper and then you decided to leave that number two in there for every day.
+
+[23] You're talking to somebody you know close enough to see their teeth and then all of a sudden they lean away and you're like wait a second is my breath stink? And the crazy part is you're actually really bad at smelling your own breath. Everybody really is. It's I mean it's the same thing as like you walk into somebody's house and they're just used to the way that their house smells.
+
+[24] Obviously we want to limit sugary snacks and drinks because they will cause bacteria and cavities and stuff like that and obviously you want to incorporate things in their diet that are healthy you know fruits and vegetables and whole grains and things that you know your kid can have at the age that they're at. And the crazy part is water here is so underrated. A lot of parents and what we see there's dehydration in babies all the time and toddlers and young kids because they're just not getting enough water and water is super important.
+
+[25] And one of the main ones is the same gas that makes that rotten egg smell. And the fun fact is you can see it that's right if you stick your tongue out and it's super white yellow or you know sometimes even black if it gets really crazy.
+
+[26] Something around 6.8. The pH scale itself runs from zero to 14 with zero being the most acidic 14 being the most base or alkaline and seven being neutral. It's like pure water. Some of the bacteria in your mouth are sugar hungry. So when you consume sweet stuff like soda they throw the bacterial equivalent of a house party. And while they do it they excrete acids which can weaken your enamel wherever they're hunkered down eventually causing cavities.
+
+[27] And where is it really coming from? Because I don't think it's where most people think it comes from. So first off the reason that you can't smell your own bad breath is because well your nose gets used to smells around you that are frequent. It kind of just stops noticing it all together.
+
+[28] In fact I've seen some people with so much crowding that they can't even floss between their teeth. So not only does getting braces and aligning teeth make it easier to clean but it also reduces your risk of cavities and periodontal disease and clenching and grinding and other problems like wear and wearing away your teeth and cracking your teeth.
+
+[29] It is kind of gross but basically what you want to do is you want to lick your wrist. And then what you're gonna do is you're gonna wait for about 10 seconds for it to dry and then while that's dry then you're going to smell it. So go ahead and do right so go ahead and do that right now I'll wait. Okay so if it smells bad well that's probably what people are getting when you talk to them. And if it didn't well that doesn't totally mean that you're in the clear.
+
+[30] They don't really know that their house smelled bad. And most people think that they got bad breath from something that they ate. You know like the garlic and all that type of stuff but that's not quite true. Because trust me I'm an orthodontist. I've been in people's mouths all the time.
+
+[31] You see a mint just covers up that breath for a little bit and fun fact if that mint is actually sugary well that bacteria is still in your mouth and guess what that bacteria eat sugar so you're actually feeding that bacteria to create I mean more likely you're probably doing what you're doing you're probably brushing you're probably flossing it's just that you're not doing exactly what you need to do to get rid of that bad breath.
+
+[32] Because I would say some of the number one cause of cavities is not flossing. Because I mean you could be cleaning all around your teeth. But if you're not cleaning between your teeth that's one of the main places we see cavities is between the teeth. That and on top in the little grooves.

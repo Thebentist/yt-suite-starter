@@ -1,0 +1,20 @@
+{
+  "stems": [
+    {
+      "id": "tiktok-audio",
+      "file": "videos/bad-breath-for-good/sources/tiktok-audio.wav",
+      "at": {
+        "special": "tiktok-watch"
+      },
+      "gainDb": -4,
+      "in": 0.45,
+      "duration": 7
+    },
+    {
+      "id": "score",
+      "file": "videos/bad-breath-for-good/music/score.wav",
+      "at": 0,
+      "gainDb": -2
+    }
+  ]
+}

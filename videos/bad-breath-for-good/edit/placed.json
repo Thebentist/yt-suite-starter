@@ -1,0 +1,724 @@
+{
+ "overlays": [
+  {
+   "id": "hook-lean",
+   "group": "story",
+   "lane": 1,
+   "at": 8.7,
+   "dur": 8.24
+  },
+  {
+   "id": "who-tells",
+   "group": "story",
+   "lane": 1,
+   "at": 19.26,
+   "dur": 2.72
+  },
+  {
+   "id": "house-smell",
+   "group": "story",
+   "lane": 1,
+   "at": 26.3,
+   "dur": 6
+  },
+  {
+   "id": "not-food",
+   "group": "story",
+   "lane": 1,
+   "at": 32.3,
+   "dur": 6.16
+  },
+  {
+   "id": "mouth-stat",
+   "group": "data",
+   "lane": 1,
+   "at": 42.7,
+   "dur": 5.92
+  },
+  {
+   "id": "one-in-three",
+   "group": "data",
+   "lane": 1,
+   "at": 48.62,
+   "dur": 7
+  },
+  {
+   "id": "question-title",
+   "group": "story",
+   "lane": 1,
+   "at": 60.82,
+   "dur": 4.85
+  },
+  {
+   "id": "nose-adapt",
+   "group": "story",
+   "lane": 1,
+   "at": 65.67,
+   "dur": 8.47
+  },
+  {
+   "id": "face-breath",
+   "group": "story",
+   "lane": 1,
+   "at": 74.14,
+   "dur": 5
+  },
+  {
+   "id": "cup-hand",
+   "group": "story",
+   "lane": 1,
+   "at": 79.14,
+   "dur": 7.63
+  },
+  {
+   "id": "study-card",
+   "group": "data",
+   "lane": 1,
+   "at": 86.77,
+   "dur": 16.97
+  },
+  {
+   "id": "wrist-steps",
+   "group": "story",
+   "lane": 1,
+   "at": 105.62,
+   "dur": 10.68
+  },
+  {
+   "id": "tip-vs-back",
+   "group": "tongue",
+   "lane": 1,
+   "at": 124.5,
+   "dur": 17.86
+  },
+  {
+   "id": "dentist-check",
+   "group": "tongue",
+   "lane": 1,
+   "at": 142.36,
+   "dur": 10.14
+  },
+  {
+   "id": "papillae3d",
+   "group": "mouth3d",
+   "lane": 1,
+   "at": 152.5,
+   "dur": 15.16
+  },
+  {
+   "id": "carpet3d",
+   "group": "mouth3d",
+   "lane": 1,
+   "at": 167.66,
+   "dur": 14.64
+  },
+  {
+   "id": "colony3d",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 182.3,
+   "dur": 12.82
+  },
+  {
+   "id": "protein-sulfur",
+   "group": "micro",
+   "lane": 1,
+   "at": 195.12,
+   "dur": 7.9
+  },
+  {
+   "id": "gas3d",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 203.02,
+   "dur": 13.834
+  },
+  {
+   "id": "leftovers",
+   "group": "micro",
+   "lane": 1,
+   "at": 216.854,
+   "dur": 5.746
+  },
+  {
+   "id": "coated3d",
+   "group": "mouth3d",
+   "lane": 1,
+   "at": 222.6,
+   "dur": 13.1
+  },
+  {
+   "id": "teeth-belief",
+   "group": "story",
+   "lane": 1,
+   "at": 235.7,
+   "dur": 3.92
+  },
+  {
+   "id": "belgium-globe",
+   "group": "data",
+   "lane": 1,
+   "at": 239.62,
+   "dur": 3.24
+  },
+  {
+   "id": "clinic-2000",
+   "group": "data",
+   "lane": 1,
+   "at": 249.94,
+   "dur": 12.88
+  },
+  {
+   "id": "between-teeth",
+   "group": "teeth",
+   "lane": 1,
+   "at": 262.82,
+   "dur": 19.32
+  },
+  {
+   "id": "warning-sign",
+   "group": "teeth",
+   "lane": 1,
+   "at": 282.14,
+   "dur": 5.6
+  },
+  {
+   "id": "braces",
+   "group": "teeth",
+   "lane": 1,
+   "at": 289.65,
+   "dur": 5.85
+  },
+  {
+   "id": "saliva-washer",
+   "group": "story",
+   "lane": 1,
+   "at": 295.5,
+   "dur": 8.04
+  },
+  {
+   "id": "sleep-saliva",
+   "group": "data",
+   "lane": 1,
+   "at": 303.54,
+   "dur": 18.36
+  },
+  {
+   "id": "throat-trip",
+   "group": "throat",
+   "lane": 1,
+   "at": 321.9,
+   "dur": 8.12
+  },
+  {
+   "id": "crypts",
+   "group": "throat",
+   "lane": 1,
+   "at": 330.02,
+   "dur": 18.92
+  },
+  {
+   "id": "tonsilstone3d",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 348.94,
+   "dur": 12.16
+  },
+  {
+   "id": "ct-study",
+   "group": "data",
+   "lane": 1,
+   "at": 361.1,
+   "dur": 10.43
+  },
+  {
+   "id": "slice-pie",
+   "group": "data",
+   "lane": 1,
+   "at": 371.53,
+   "dur": 11.33
+  },
+  {
+   "id": "down-throat",
+   "group": "throat",
+   "lane": 1,
+   "at": 384.54,
+   "dur": 13.24
+  },
+  {
+   "id": "reflux-sinus",
+   "group": "throat",
+   "lane": 1,
+   "at": 397.78,
+   "dur": 19.88
+  },
+  {
+   "id": "valve",
+   "group": "throat",
+   "lane": 1,
+   "at": 417.66,
+   "dur": 11.24
+  },
+  {
+   "id": "tried-everything",
+   "group": "story",
+   "lane": 1,
+   "at": 428.9,
+   "dur": 11.06
+  },
+  {
+   "id": "cgi-mints",
+   "group": "cgi",
+   "lane": 1,
+   "at": 439.96,
+   "dur": 2.02
+  },
+  {
+   "id": "sugar-feeds",
+   "group": "micro",
+   "lane": 1,
+   "at": 441.98,
+   "dur": 7.62
+  },
+  {
+   "id": "mouthwash-cover",
+   "group": "micro",
+   "lane": 1,
+   "at": 449.6,
+   "dur": 3.32
+  },
+  {
+   "id": "brush-vs-scrape",
+   "group": "tongue",
+   "lane": 1,
+   "at": 452.92,
+   "dur": 9.1
+  },
+  {
+   "id": "cgi-brush-floss",
+   "group": "cgi",
+   "lane": 1,
+   "at": 462.02,
+   "dur": 12.24
+  },
+  {
+   "id": "one-spot",
+   "group": "tongue",
+   "lane": 1,
+   "at": 474.26,
+   "dur": 4.12
+  },
+  {
+   "id": "research-weak",
+   "group": "data",
+   "lane": 1,
+   "at": 478.38,
+   "dur": 11.3
+  },
+  {
+   "id": "scraper-vs-brush",
+   "group": "data",
+   "lane": 1,
+   "at": 489.68,
+   "dur": 13.46
+  },
+  {
+   "id": "alcohol-mouthwash",
+   "group": "teeth",
+   "lane": 1,
+   "at": 503.14,
+   "dur": 17.96
+  },
+  {
+   "id": "scrape3d",
+   "group": "mouth3d",
+   "lane": 1,
+   "at": 534.7,
+   "dur": 26.16
+  },
+  {
+   "id": "floss",
+   "group": "teeth",
+   "lane": 1,
+   "at": 560.86,
+   "dur": 8.56
+  },
+  {
+   "id": "xylitol",
+   "group": "teeth",
+   "lane": 1,
+   "at": 569.42,
+   "dur": 9.96
+  },
+  {
+   "id": "comes-back",
+   "group": "micro",
+   "lane": 1,
+   "at": 579.38,
+   "dur": 7.8
+  },
+  {
+   "id": "lipid3d",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 594.9,
+   "dur": 8.46
+  },
+  {
+   "id": "pg-target",
+   "group": "micro",
+   "lane": 1,
+   "at": 603.36,
+   "dur": 12.66
+  },
+  {
+   "id": "zero-pro-card",
+   "group": "story",
+   "lane": 1,
+   "at": 616.02,
+   "dur": 8
+  },
+  {
+   "id": "ad-claims",
+   "group": "data",
+   "lane": 1,
+   "at": 624.02,
+   "dur": 15
+  },
+  {
+   "id": "lipid3d-pop",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 639.02,
+   "dur": 12
+  },
+  {
+   "id": "flashlight",
+   "group": "throat",
+   "lane": 1,
+   "at": 663.01,
+   "dur": 8.21
+  },
+  {
+   "id": "scratchy",
+   "group": "throat",
+   "lane": 1,
+   "at": 671.22,
+   "dur": 8.48
+  },
+  {
+   "id": "dont-dig",
+   "group": "throat",
+   "lane": 1,
+   "at": 679.7,
+   "dur": 8.8
+  },
+  {
+   "id": "flosser-a",
+   "group": "throat",
+   "lane": 1,
+   "at": 688.5,
+   "dur": 2.567
+  },
+  {
+   "id": "flosser-b",
+   "group": "throat",
+   "lane": 1,
+   "at": 696.06,
+   "dur": 9.8
+  },
+  {
+   "id": "gargle",
+   "group": "throat",
+   "lane": 1,
+   "at": 710.18,
+   "dur": 12.24
+  },
+  {
+   "id": "regrow3d",
+   "group": "mouth3d",
+   "lane": 1,
+   "at": 722.42,
+   "dur": 4.84
+  },
+  {
+   "id": "two-weeks",
+   "group": "data",
+   "lane": 1,
+   "at": 727.26,
+   "dur": 19.74
+  },
+  {
+   "id": "everybody3d",
+   "group": "micro3d",
+   "lane": 1,
+   "at": 747,
+   "dur": 12.9
+  },
+  {
+   "id": "recap",
+   "group": "story",
+   "lane": 1,
+   "at": 759.9,
+   "dur": 5.24
+  },
+  {
+   "id": "cgi-lineup",
+   "group": "cgi",
+   "lane": 1,
+   "at": 765.14,
+   "dur": 12.68
+  },
+  {
+   "id": "end-question",
+   "group": "story",
+   "lane": 1,
+   "at": 784.02,
+   "dur": 3.27
+  },
+  {
+   "id": "open-tiktok",
+   "group": "overlay",
+   "lane": 2,
+   "at": 0,
+   "dur": 7
+  },
+  {
+   "id": "get-rid",
+   "group": "overlay",
+   "lane": 2,
+   "at": 17.14,
+   "dur": 2.12
+  },
+  {
+   "id": "credential",
+   "group": "overlay",
+   "lane": 2,
+   "at": 38.06,
+   "dur": 4.64
+  },
+  {
+   "id": "question",
+   "group": "overlay",
+   "lane": 2,
+   "at": 55.22,
+   "dur": 5.6
+  },
+  {
+   "id": "countdown",
+   "group": "story",
+   "lane": 2,
+   "at": 117.9,
+   "dur": 1.35
+  },
+  {
+   "id": "sorry",
+   "group": "overlay",
+   "lane": 2,
+   "at": 123.96,
+   "dur": 0.54
+  },
+  {
+   "id": "quirynen",
+   "group": "overlay",
+   "lane": 2,
+   "at": 242.46,
+   "dur": 5.97
+  },
+  {
+   "id": "mile-away",
+   "group": "overlay",
+   "lane": 2,
+   "at": 358.62,
+   "dur": 2.48
+  },
+  {
+   "id": "cheap-easy",
+   "group": "overlay",
+   "lane": 2,
+   "at": 525.94,
+   "dur": 6.2
+  },
+  {
+   "id": "something-nice",
+   "group": "overlay",
+   "lane": 2,
+   "at": 589.01,
+   "dur": 3.32
+  },
+  {
+   "id": "flosser-card",
+   "group": "throat",
+   "lane": 2,
+   "at": 690.82,
+   "dur": 5.201
+  },
+  {
+   "id": "tiktok-callback",
+   "group": "overlay",
+   "lane": 2,
+   "at": 780.5,
+   "dur": 3.52
+  },
+  {
+   "id": "paper-memon",
+   "group": "real",
+   "lane": 3,
+   "at": 42.73,
+   "dur": 2.76
+  },
+  {
+   "id": "headlines",
+   "group": "real",
+   "lane": 3,
+   "at": 48.65,
+   "dur": 1.44
+  },
+  {
+   "id": "chapter-01",
+   "group": "overlay",
+   "lane": 3,
+   "at": 64.5,
+   "dur": 3
+  },
+  {
+   "id": "paper-romano",
+   "group": "real",
+   "lane": 3,
+   "at": 86.8,
+   "dur": 2.75
+  },
+  {
+   "id": "chapter-02",
+   "group": "overlay",
+   "lane": 3,
+   "at": 150.54,
+   "dur": 3
+  },
+  {
+   "id": "micro-papillae",
+   "group": "real",
+   "lane": 3,
+   "at": 153.57,
+   "dur": 1.88
+  },
+  {
+   "id": "micro-bacteria",
+   "group": "real",
+   "lane": 3,
+   "at": 183.19,
+   "dur": 1.81
+  },
+  {
+   "id": "quirynen-photo",
+   "group": "real",
+   "lane": 3,
+   "at": 244.69,
+   "dur": 3.74
+  },
+  {
+   "id": "paper-quirynen",
+   "group": "real",
+   "lane": 3,
+   "at": 248.43,
+   "dur": 1.51
+  },
+  {
+   "id": "chapter-03",
+   "group": "overlay",
+   "lane": 3,
+   "at": 262.82,
+   "dur": 3
+  },
+  {
+   "id": "micro-pging",
+   "group": "real",
+   "lane": 3,
+   "at": 277.93,
+   "dur": 1.24
+  },
+  {
+   "id": "chapter-04",
+   "group": "overlay",
+   "lane": 3,
+   "at": 321.9,
+   "dur": 3
+  },
+  {
+   "id": "micro-tonsil",
+   "group": "real",
+   "lane": 3,
+   "at": 328.91,
+   "dur": 1.81
+  },
+  {
+   "id": "chapter-05",
+   "group": "overlay",
+   "lane": 3,
+   "at": 384.54,
+   "dur": 3
+  },
+  {
+   "id": "chapter-06",
+   "group": "overlay",
+   "lane": 3,
+   "at": 428.9,
+   "dur": 3
+  },
+  {
+   "id": "archival-tried",
+   "group": "real",
+   "lane": 3,
+   "at": 434.55,
+   "dur": 2.97
+  },
+  {
+   "id": "archival-mouthwash",
+   "group": "real",
+   "lane": 3,
+   "at": 449.65,
+   "dur": 1.03
+  },
+  {
+   "id": "paper-cochrane",
+   "group": "real",
+   "lane": 3,
+   "at": 485.07,
+   "dur": 2.23
+  },
+  {
+   "id": "chapter-07",
+   "group": "overlay",
+   "lane": 3,
+   "at": 532.14,
+   "dur": 3
+  },
+  {
+   "id": "ad-chip",
+   "group": "overlay",
+   "lane": 3,
+   "at": 579.38,
+   "dur": 84
+  },
+  {
+   "id": "chapter-08",
+   "group": "overlay",
+   "lane": 3,
+   "at": 722.42,
+   "dur": 3
+  }
+ ],
+ "skipped": [
+  "cgi-mouthwash: skip (teeth/alcohol-mouthwash now opens on its own 3D bottle; a CGI bottle cutaway on top would show two different bottles back to back)",
+  "trim braces to 5.85 s (overlaps saliva-washer)",
+  "trim valve to 11.24 s (overlaps tried-everything)",
+  "trim tried-everything to 11.06 s (overlaps cgi-mints)",
+  "trim xylitol to 9.96 s (overlaps comes-back)",
+  "trim gargle to 12.24 s (overlaps regrow3d)",
+  "shorten gas3d 13.88 -> 13.867 s (file is shorter than its slot)",
+  "shorten flosser-card 5.24 -> 5.234 s (file is shorter than its slot)",
+  "close gap 0.046 s: start leftovers early",
+  "A-roll sliver 0.247 s after flosser-a: extended to the cut"
+ ],
+ "sfx": 578
+}
